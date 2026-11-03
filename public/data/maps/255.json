@@ -1,0 +1,4549 @@
+{
+  "mapId": "255",
+  "sourceCount": 286,
+  "landmarks": [
+    {
+      "id": "912975",
+      "catalogId": "10126",
+      "position": [
+        -0.8395014520229438,
+        0.8735162077628653
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912975",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Cenotaph",
+      "description": ""
+    },
+    {
+      "id": "912974",
+      "catalogId": "10126",
+      "position": [
+        -0.15297799085371366,
+        1.0797481452363151
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912974",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Confinement",
+      "description": ""
+    },
+    {
+      "id": "912973",
+      "catalogId": "10126",
+      "position": [
+        -0.35037480204772464,
+        1.1397558414735065
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912973",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Path of the Baishan's Fall",
+      "description": ""
+    },
+    {
+      "id": "912972",
+      "catalogId": "10126",
+      "position": [
+        -0.971223737146488,
+        0.6716181666530502
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912972",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Cliffside Walkway Entrance",
+      "description": ""
+    },
+    {
+      "id": "912971",
+      "catalogId": "10126",
+      "position": [
+        -0.7351554844199484,
+        0.7748101954165963
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912971",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Dovecote",
+      "description": ""
+    },
+    {
+      "id": "912969",
+      "catalogId": "10126",
+      "position": [
+        -0.8005549120420596,
+        0.8177409271273857
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912969",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Main Encampment Gate",
+      "description": ""
+    },
+    {
+      "id": "912968",
+      "catalogId": "10126",
+      "position": [
+        -0.7448241491845238,
+        0.9188647215964106
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912968",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tower Rear Exit",
+      "description": ""
+    },
+    {
+      "id": "912967",
+      "catalogId": "10126",
+      "position": [
+        -0.774605567174774,
+        1.1355271297687954
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912967",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Training Grounds Depths",
+      "description": ""
+    },
+    {
+      "id": "912966",
+      "catalogId": "10126",
+      "position": [
+        -0.6481761118475049,
+        1.0432121751952719
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912966",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Training Grounds",
+      "description": ""
+    },
+    {
+      "id": "912965",
+      "catalogId": "10126",
+      "position": [
+        -0.7816616010611881,
+        0.7292780535987042
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912965",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Battlefield Ruins",
+      "description": ""
+    },
+    {
+      "id": "912964",
+      "catalogId": "10126",
+      "position": [
+        -0.7872070066258345,
+        0.7876425964562171
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912964",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Beneath the Watchtower",
+      "description": ""
+    },
+    {
+      "id": "912962",
+      "catalogId": "10126",
+      "position": [
+        -0.753894354166647,
+        1.013595633228275
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912962",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Road to the Training Grounds",
+      "description": ""
+    },
+    {
+      "id": "912888",
+      "catalogId": "10126",
+      "position": [
+        -1.0606918658571658,
+        0.3325352055174087
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912888",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sunset Path",
+      "description": ""
+    },
+    {
+      "id": "912875",
+      "catalogId": "10126",
+      "position": [
+        -1.1604834258148173,
+        0.8628243842627868
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912875",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mass Grave",
+      "description": ""
+    },
+    {
+      "id": "912970",
+      "catalogId": "10126",
+      "position": [
+        -0.4177272677769963,
+        0.959147904757283
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912970",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Behind the Encampment Waterfall",
+      "description": "To reach this bell, take the long way around in this order: Main Encampment Gate, Road to the Training Grounds, Path of the Baishan's Fall, then The Confinement."
+    },
+    {
+      "id": "912963",
+      "catalogId": "10126",
+      "position": [
+        -0.6637087172221641,
+        0.8894322970552383
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912963",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Three Towers",
+      "description": "Start at Main Encampment Gate and follow the route to the Dovecote bell. Swing from the Dovecote roof to the mountainside. It is not recommended to kill Red, the Mysterious Swordswoman on the roof; you can simply swing away and run. Enter the cave, then follow the wooden scaffolding along the mountainside to reach this bell."
+    },
+    {
+      "id": "912976",
+      "catalogId": "10126",
+      "position": [
+        -0.9889957404166978,
+        0.8025766398914902
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10126&landmarkId=912976",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Cliffside Walkway Overlook",
+      "description": "While using light-footed traversal to get here, you can stealth-kill the nearby ordinary enemy."
+    },
+    {
+      "id": "912994",
+      "catalogId": "10130",
+      "position": [
+        -0.6959000619707183,
+        0.7857937539484546
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8c4058e574d2c6818566232d726f6dcf24eaf61cd07ae37ba87f00603c58db9f.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10130&landmarkId=912994",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "locked one-way gate",
+      "description": "Cannot be opened from this side."
+    },
+    {
+      "id": "912996",
+      "catalogId": "10130",
+      "position": [
+        -0.4740243151598236,
+        0.8780383616651019
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/28a94b29df910fb2fb4eed6385ac82fc0a8cbb7d2b7996fccae864312b7f87d2.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10130&landmarkId=912996",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "locked one-way gate",
+      "description": "Cannot be opened from this side."
+    },
+    {
+      "id": "912992",
+      "catalogId": "10130",
+      "position": [
+        -0.9688749433767043,
+        0.3106018308137863
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/45fea67cc713bd83f511457f55b8d4f005045a6d38611e5662aac769388998a4.jpg",
+        "/assets/images/9374c0b8eda4e7582fe5bf9511b589f458caa0ae2c9805fdebb200b3e0de5465.jpg",
+        "/assets/images/5aed265841a570546a9c791b52b049f9434e815efc3173eb11b67cf54f3ba21b.jpg",
+        "/assets/images/58f0ad4648e9ac53ba0484d38cabe7fbe2a706827a6cb92d1c36da8d96e8babb.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10130&landmarkId=912992",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "locked one-way gate",
+      "description": "Cannot be opened from this side."
+    },
+    {
+      "id": "912991",
+      "catalogId": "10129",
+      "position": [
+        -0.5263927636483459,
+        0.991732908109333
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912991",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "912990",
+      "catalogId": "10129",
+      "position": [
+        -0.8154906663971531,
+        0.9348869002952143
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912990",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "912989",
+      "catalogId": "10129",
+      "position": [
+        -0.41427647145087576,
+        0.931825476446239
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912989",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "912988",
+      "catalogId": "10129",
+      "position": [
+        -0.950250295792813,
+        0.29179140501208795
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912988",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "912987",
+      "catalogId": "10129",
+      "position": [
+        -0.7872375731201089,
+        0.7917670583604006
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912987",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Dread Axe",
+      "description": ""
+    },
+    {
+      "id": "912986",
+      "catalogId": "10129",
+      "position": [
+        -0.4079717298182288,
+        0.8559283917626932
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912986",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flying Guillotine",
+      "description": ""
+    },
+    {
+      "id": "912985",
+      "catalogId": "10129",
+      "position": [
+        -0.15509190524650762,
+        1.0758285366335834
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912985",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "912984",
+      "catalogId": "10129",
+      "position": [
+        -0.5950274133738276,
+        0.8343690755260192
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912984",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bashpole",
+      "description": ""
+    },
+    {
+      "id": "912983",
+      "catalogId": "10129",
+      "position": [
+        -0.5557559032960455,
+        1.0093168247211945
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912983",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "912982",
+      "catalogId": "10129",
+      "position": [
+        -0.9609823528051891,
+        0.2936677782410729
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912982",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bashpole",
+      "description": ""
+    },
+    {
+      "id": "912981",
+      "catalogId": "10129",
+      "position": [
+        -0.7948534564803822,
+        0.7431815764787292
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912981",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bashpole",
+      "description": ""
+    },
+    {
+      "id": "912980",
+      "catalogId": "10129",
+      "position": [
+        -1.0991461244041147,
+        0.39268341689949327
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912980",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "912979",
+      "catalogId": "10129",
+      "position": [
+        -0.7890345612302383,
+        0.8206752165676084
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912979",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bashpole",
+      "description": ""
+    },
+    {
+      "id": "912887",
+      "catalogId": "10129",
+      "position": [
+        -0.8918522041200276,
+        0.41096375190211637
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=912887",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Required - Ranged Type Phantom Edge",
+      "description": ""
+    },
+    {
+      "id": "913046",
+      "catalogId": "10129",
+      "position": [
+        -0.9672613542321358,
+        0.7444909179296482
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10129&landmarkId=913046",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Required - Ranged Type Phantom Edge",
+      "description": "Rewards: Solvent and Concentrated Solvent."
+    },
+    {
+      "id": "912961",
+      "catalogId": "10131",
+      "position": [
+        -1.0635506374522947,
+        0.4322155952546776
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10131&landmarkId=912961",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Human-Faced Banyan",
+      "description": ""
+    },
+    {
+      "id": "912997",
+      "catalogId": "10133",
+      "position": [
+        -0.4027191190933763,
+        0.9400209391336047
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10133&landmarkId=912997",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Room Door",
+      "description": "Location:\n\nHow to unlock:"
+    },
+    {
+      "id": "912995",
+      "catalogId": "10133",
+      "position": [
+        -0.6483981211216303,
+        1.0307848880188828
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10133&landmarkId=912995",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Training Grounds Gate",
+      "description": "Location:\n\nHow to unlock:\n\nTraining Grounds Gate Key"
+    },
+    {
+      "id": "912993",
+      "catalogId": "10133",
+      "position": [
+        -1.0198855960147455,
+        0.7852655130815603
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10133&landmarkId=912993",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mandate Valley Gate",
+      "description": "Location:\n\nHow to unlock:"
+    },
+    {
+      "id": "913194",
+      "catalogId": "10134",
+      "position": [
+        -1.1442220508663752,
+        0.12120950090967599
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10134&landmarkId=913194",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Village of Lu",
+      "description": ""
+    },
+    {
+      "id": "914420",
+      "catalogId": "10135",
+      "position": [
+        -0.49793451689239987,
+        0.9620819164111509
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ed44833bfbad344f5efb88be232f00bf6ff218e9102440f4f570e08f45b4ec72.jpg",
+        "/assets/images/596b3888dcd86fa29c2ab44e79c79278b36e3e9adf5fae4ae85f70e7954b8803.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10135&landmarkId=914420",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Kick-Down Ladder",
+      "description": "Location: Beside the Behind the Encampment Waterfall bell."
+    },
+    {
+      "id": "914487",
+      "catalogId": "10135",
+      "position": [
+        -0.6474622351063601,
+        0.908916997177613
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10135&landmarkId=914487",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Kick-Down Ladder",
+      "description": "Location: Near the bell."
+    },
+    {
+      "id": "914523",
+      "catalogId": "10135",
+      "position": [
+        -0.9677997587731682,
+        0.7069729829611191
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10135&landmarkId=914523",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Kick-Down Ladder",
+      "description": "Location:"
+    },
+    {
+      "id": "914527",
+      "catalogId": "10135",
+      "position": [
+        -0.836551307155645,
+        0.7167816771379734
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10135&landmarkId=914527",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Kick-Down Ladder",
+      "description": "Location: From the Battlefield Ruins bell on the right, climb over walls twice to reach it."
+    },
+    {
+      "id": "914558",
+      "catalogId": "10135",
+      "position": [
+        -0.42110905880761607,
+        0.9521507638377216
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10135&landmarkId=914558",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Kick-Down Ladder",
+      "description": "Location: Beside the bell."
+    },
+    {
+      "id": "913199",
+      "catalogId": "10136",
+      "position": [
+        -0.7326760285608032,
+        1.0979791694764742
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/e031e50e373b71f137063c2fb3be285a8b40d290997789203fbf6be91621cea0.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10136&landmarkId=913199",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Baishan Stormswords",
+      "description": "How to obtain:\nDefeat the swordfighter puppet boss.\n\nWeapon assessment:\nA typical mid-game dual-wielded weapon. Its core mechanic is building up both wind and lightning gauges; filling them grants a large, temporary attack bonus.\n\nWell suited to clearing ordinary enemies and fighting medium-sized bosses in the mid-game. Its overall handling is balanced, making it a good choice for a smooth transition from the mid-game to the late game."
+    },
+    {
+      "id": "913201",
+      "catalogId": "10136",
+      "position": [
+        -0.23874274746989954,
+        0.9978089437929105
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/4a2ce5aba9bdd6d1a294e856cd51f699d416e6c0bd7ee8af9d97867154193ae0.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10136&landmarkId=913201",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Soft Snake Sword",
+      "description": "How to obtain:\nDefeat the boss.\n\nWeapon assessment:\nIts handling is very unusual, and its strength depends on how well you are playing. When you are on a hot streak, you can keep your Sha-Chi flowing while strolling through fights with ease.\n\nWhen your hands and feet are cold and you are off form, even ordinary enemies are a struggle. Verdict: a \"Jiahao\" weapon."
+    },
+    {
+      "id": "913200",
+      "catalogId": "10137",
+      "position": [
+        -0.7779010142146205,
+        0.8065004046592179
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10137&landmarkId=913200",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bashpole",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913202",
+      "catalogId": "10137",
+      "position": [
+        -0.7212866863742704,
+        0.9402088377792666
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/fe4bc03dd187ff4dc33c8ce3aacb443616090211e6d4172543406ba734e7e8c0.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10137&landmarkId=913202",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Swordsman's Summon",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913081",
+      "catalogId": "10138",
+      "position": [
+        -0.1941333622359025,
+        1.0176280467601713
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b6bca52272d862646359ed938f0e21650964db4532e88e9595390c2fdd3574a0.jpg",
+        "/assets/images/bdd8c9f8cd0f373f1132dabeaa6c68ac5da4d40d94023a562ae4a06ceb06f7ba.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10138&landmarkId=913081",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Warrior Deity Statue Fragment: Leg",
+      "description": "How to obtain:\nStart at The Confinement bell and swing across the rope. It is under a tree on your left.\n\nEffect:"
+    },
+    {
+      "id": "913038",
+      "catalogId": "10138",
+      "position": [
+        -0.5469682898171584,
+        0.9796000981895929
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ccc83d7251c41a6f789bf022611832188e81170f3c552a3de9168120f0f80549.jpg",
+        "/assets/images/de7708646c40ab66736cfbf617f678182268548b8328d776796dab4751ba599f.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10138&landmarkId=913038",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Guardian Idol Fragment: Torso",
+      "description": "How to obtain:\n\nEffect:"
+    },
+    {
+      "id": "913041",
+      "catalogId": "10138",
+      "position": [
+        -0.5658750216602755,
+        0.9799383135556174
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6200ad113e4956e69e20fc88cf1c6f5ab68855aa6c8c240609c21b6c1123f484.jpg",
+        "/assets/images/a1a57d732ec435f1fdcb93f634308c2904d3a127ddc2ee644ba2b70681b28dfb.jpg",
+        "/assets/images/11d12942af09b2c623f84cee71a415d37b6f0138dd108ef1d98d119f3e5553aa.jpg",
+        "/assets/images/c0ac0e4a019c824ceb6e3f8cb6ec5dc34302c43bba9bd4b042403c9aaeb496b2.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10138&landmarkId=913041",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Nameless Thumb Ring",
+      "description": "How to obtain:\nTake the stairs on the right to the 2nd floor. Turn left at the top, pass through the bookcases, and look on your left.\n\nEffect: Pure Sha-Chi buildup rate +5%."
+    },
+    {
+      "id": "914415",
+      "catalogId": "10138",
+      "position": [
+        -0.7324721966300842,
+        1.088923009285054
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/0ff320bec28c5abd468db0d804ed56a697ceb175e2c1485b6b21eac622a30ea2.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10138&landmarkId=914415",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broken Vessel",
+      "description": "How to obtain:\nReward for defeating Yubi, No. 21 Swordfighter Puppet.\nNote: Complete Secrets of the Baishan Sect before defeating the boss.\n\nEffect:\nDamage +15% when a Sha-Chi combo triggers Sha-Chi consumption."
+    },
+    {
+      "id": "913061",
+      "catalogId": "10138",
+      "position": [
+        -0.9616805558846977,
+        0.7882223726835592
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10138&landmarkId=913061",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Guardian Idol Fragment: Arm",
+      "description": "How to obtain:\nFrom Cliffside Walkway Overlook, cross the suspension bridge, go downhill, and stealth-kill the 2 archers. Cross the next suspension bridge and kill another 2 archers, then enter the cave on the right.\n\nEffect:"
+    },
+    {
+      "id": "912960",
+      "catalogId": "10138",
+      "position": [
+        -0.15414273516145727,
+        1.0867403021714106
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10138&landmarkId=912960",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Guardian Idol",
+      "description": "How to obtain:\n\nEffect: Destruction-type Phantom Edges consume 1 additional Dark Affinity; damage +75%."
+    },
+    {
+      "id": "912892",
+      "catalogId": "10138",
+      "position": [
+        -1.2150896634360038,
+        0.47782270019904105
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c45552460f9cb8ccf6463f61d450448ced40838c86323584f813aa4028cc4b84.jpg",
+        "/assets/images/371c9d2258ef81b522fafd9924987bd8957b9a758885cfce933936722722130e.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10138&landmarkId=912892",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Guardian Idol Fragment: Head",
+      "description": "How to obtain:\nBeside the house, beneath the Buddha head."
+    },
+    {
+      "id": "913006",
+      "catalogId": "10138",
+      "position": [
+        -0.7296039112001154,
+        0.9396666283175961
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7f9c11710302cdd73aaaa3d8d7dc2548a5f96bd7096855cca8df620b547e5f46.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10138&landmarkId=913006",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Twin-Fish Unity Pendant",
+      "description": "How to obtain:\n\nEffect:"
+    },
+    {
+      "id": "913142",
+      "catalogId": "10139",
+      "position": [
+        -0.7488090547788318,
+        1.1158134579844008
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c94aca01ce0e17439055db8d792d2392f1cf53ff87319e75eafa88c1eeb24dd7.jpg",
+        "/assets/images/9b8e83265bb38bf0627e1a6d94e5f819afd7af3c9f522ec8dd35edf0d05e5f7d.jpg",
+        "/assets/images/04968a8acbb1d00cc5a4ff7ec3f1537311ca201fbe955e74397ee86221968bfa.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10139&landmarkId=913142",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Lement Draught",
+      "description": "How to obtain:\nTake the stairs to the 2nd floor and open the chest.\n\nEffect: Damage dealt to enemies +10% for 30 seconds; also restores 20% health."
+    },
+    {
+      "id": "913096",
+      "catalogId": "10139",
+      "position": [
+        -0.785612722635534,
+        0.7222095137489108
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10139&landmarkId=913096",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Remedy",
+      "description": "How to obtain:\nSmash the ground with the Bashpole.\n\nEffect: Gradually restores 60% of your health and Sha-Chi over 6 seconds. Taking even a single hit interrupts it."
+    },
+    {
+      "id": "913117",
+      "catalogId": "10273",
+      "position": [
+        -1.1338455304451998,
+        1.1275270215670674
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10273&landmarkId=913117",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Plain Sword Tassel",
+      "description": ""
+    },
+    {
+      "id": "913033",
+      "catalogId": "10273",
+      "position": [
+        -0.404821772146164,
+        0.8574261212240435
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10273&landmarkId=913033",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Enhanced Chainsaw",
+      "description": ""
+    },
+    {
+      "id": "914178",
+      "catalogId": "10140",
+      "position": [
+        -0.5496940358276277,
+        1.0049261408865107
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/afd93661196507dd67ad315d3cddce1ec8e1b4ac95cab4ddbe8735a81a4ac3b7.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10140&landmarkId=914178",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "Defeat the enemies on the rooftop to obtain the fragment."
+    },
+    {
+      "id": "914421",
+      "catalogId": "10140",
+      "position": [
+        -0.24861083031473186,
+        0.9975301899136753
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10140&landmarkId=914421",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "The Blackstone Fragment is awarded with the boss's other rewards."
+    },
+    {
+      "id": "913101",
+      "catalogId": "10140",
+      "position": [
+        -0.8829332228463613,
+        0.7283697251053743
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f787ee7db1d894962711be9d8d5f70cdccdc1e0a5d8cfd673f3f89a2a3f53929.jpg",
+        "/assets/images/2b847e6ae63efe74c597b65922385aa7995b07a04919becda1a5bfba91ad2789.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10140&landmarkId=913101",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "How to obtain:\nGo out through the cave behind the Cliffside Walkway Overlook bell, then jump down at the ladder."
+    },
+    {
+      "id": "912977",
+      "catalogId": "10140",
+      "position": [
+        -0.7659134214638357,
+        0.762295023876663
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10140&landmarkId=912977",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "How to obtain:\nAutomatically obtained after killing the group of enemies in the watchtower area."
+    },
+    {
+      "id": "913137",
+      "catalogId": "10141",
+      "position": [
+        -0.7209710223186221,
+        0.7974536877006573
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/556dea6b0d19c7b0d8bf8358278e44341607c3e3bb472b2caf5b50ae92cf3763.jpg",
+        "/assets/images/820d6e523fb57c4d28a92f454a7591925e920ce5125c4dc4cc7a331109e984a5.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10141&landmarkId=913137",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to obtain:\nStart at the Dovecote bell. Enter the Dovecote and climb the ladder, then go around the outside. Crouch and enter beside the second ladder to collect it."
+    },
+    {
+      "id": "912877",
+      "catalogId": "10141",
+      "position": [
+        -0.3176332604024026,
+        1.1427623132324207
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/63cfd4c5a75b814e6b880c2f2d7d4eddae1fb77cab23968d7034d70d2ba4804d.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10141&landmarkId=912877",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to obtain:\nKill 6 enemies in the cave encounter."
+    },
+    {
+      "id": "912883",
+      "catalogId": "10141",
+      "position": [
+        -0.3615685739997616,
+        0.8785778632795077
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/9fc28c741dde4ee0a50e4fb99cf8de76c04308f9e4232b90487daa7714a2c230.jpg",
+        "/assets/images/75e692594a9a3fedf5f778731f353d3204c8dd9fa0068f73a9c208ac4353b76a.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10141&landmarkId=912883",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to obtain:\nInside the chest on the right side of the small pavilion behind the courtyard."
+    },
+    {
+      "id": "913048",
+      "catalogId": "10141",
+      "position": [
+        -0.957758392041768,
+        0.2895204292693407
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/74c0a894e72174e2e8f1103c28286f4c4e1dd43b137c5a6dc55c05b9b5116988.jpg",
+        "/assets/images/a45ba7dd50dc3def24909badb9c63cbd0d5a80b67ebfceb9abdaf4958f9f0ab9.jpg",
+        "/assets/images/0043780e68e2e25fbc301e0a5bc88a28058aeeb0fb224f6a270d5bdd602ea097.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10141&landmarkId=913048",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to obtain:\nTeleport to the Sunset Path bell at the lower left. Turn around and head toward the houses. Go through the iron gate and turn right to find a house with no walls. Smash its floor with the Bashpole and open the chest.\n\nAdditional note:\nDo not rush to open it when you first enter Mandate Encampment. First take the other route and loop around, jump down from the roof, and clear the enemies so you can open the gate from the other side. Then fight the enemies farther on to obtain the Bashpole, and return to collect it."
+    },
+    {
+      "id": "913015",
+      "catalogId": "10142",
+      "position": [
+        -0.7515391253454595,
+        1.1180292800379643
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/36c3cde01ab0839a71ca4a52587da5dde76be83879afb0e1d16ad202b389632c.jpg",
+        "/assets/images/7a6d3795fc8b33d937c2edc2414c0fdcf2851f6c238c364fa377527afa5174dc.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913015",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Experiment Victim's Memory Flower\n(Petal 3/3 — +7% Max HP upon completion)",
+      "description": "How to obtain:\nTake the stairs to the 2nd floor to collect it."
+    },
+    {
+      "id": "913014",
+      "catalogId": "10142",
+      "position": [
+        -0.9733263901992757,
+        0.7094767733838029
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913014",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of the Seven Stars 1",
+      "description": ""
+    },
+    {
+      "id": "913013",
+      "catalogId": "10142",
+      "position": [
+        -0.6884321847931574,
+        1.1011609707341201
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5f919ae7b0e6cb4fb2cef6f211f05bff9e9b413a8824c5cc7f0416448a549cca.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913013",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Experiment Victim's Memory Flower\n(Petal 1/3 — +7% Max HP upon completion)",
+      "description": "How to obtain:\nOn the wooden scaffolding beside the boss arena."
+    },
+    {
+      "id": "913011",
+      "catalogId": "10142",
+      "position": [
+        -1.0180178223389476,
+        0.7404002311747725
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913011",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of the Seven Stars\n(Petal 5/6 — +10% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "913012",
+      "catalogId": "10142",
+      "position": [
+        -0.738268030476263,
+        0.9337676690675494
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913012",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Twin Heroes' Memory Flower\n(Petal 2/2 — +5% Max HP upon completion)",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913010",
+      "catalogId": "10142",
+      "position": [
+        -0.9659523579793756,
+        0.7482495664703919
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913010",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of the Seven Stars\n(Petal 4/6 — +10% Max HP upon completion)",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913009",
+      "catalogId": "10142",
+      "position": [
+        -0.9734792226705906,
+        0.46285873131192284
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913009",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Qianqian's Memory Flower\n(Petal 1/3 — +7% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "913008",
+      "catalogId": "10142",
+      "position": [
+        -0.8137435499355377,
+        0.7927897181360719
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913008",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of the Seven Stars\n(Petal 2/6 — +10% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "913007",
+      "catalogId": "10142",
+      "position": [
+        -0.5859089455060484,
+        0.8446728556940285
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/71d6ffc7dd3a2ec38b7fcafed3ae89fbbcaf13c2e4a00e54913828ada368f002.jpg",
+        "/assets/images/d13d2e5f62aa885fbda63167a0cec8c8c84f852ee09541dafa6fd141e421a227.jpg",
+        "/assets/images/96c1eb61e31325698759fb77312f53b47e0feb2dead0114f61a88509bfefaa46.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913007",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of the Seven Stars\n(Petal 6/6 — +10% Max HP upon completion)",
+      "description": "How to obtain:\nStart at the Dovecote bell. Pass through the door locked from the other side and follow the path to its end. Turn right and enter the cave to collect it."
+    },
+    {
+      "id": "913005",
+      "catalogId": "10142",
+      "position": [
+        -0.6602402245046335,
+        1.0634915599308958
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/a00997609c804b1652e72cf232134826b0c662c8cd9ce5c015d374777cf1239a.jpg",
+        "/assets/images/02c07e9a846678620be39d80349a1bb82b59826b1e44da3db049c77d2b24643c.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913005",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Experiment Victim's Memory Flower\n(Petal 2/3 — +7% Max HP upon completion)",
+      "description": "How to obtain:\nClimb the wooden scaffolding beside the boss arena all the way to the top."
+    },
+    {
+      "id": "913004",
+      "catalogId": "10142",
+      "position": [
+        -1.150163212093588,
+        0.9769188004703981
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913004",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of Transcension Defyers\n(Petal 1/2 — +5% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "913003",
+      "catalogId": "10142",
+      "position": [
+        -1.1744313997763527,
+        0.8744438295207343
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913003",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Qianqian's Memory Flower\n(Petal 2/3 — +7% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "913001",
+      "catalogId": "10142",
+      "position": [
+        -1.158943839761605,
+        1.134161573409878
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913001",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Qianqian's Memory Flower\n(Petal 3/3 — +7% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "912999",
+      "catalogId": "10142",
+      "position": [
+        -0.7035207716195941,
+        0.7637960089343874
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=912999",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of the Seven Stars\n(Petal 3/6 — +10% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "913002",
+      "catalogId": "10142",
+      "position": [
+        -0.22425262042591498,
+        1.1060306481254099
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913002",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of Mandate Leaders 5",
+      "description": "How to obtain:\nAfter killing the Chief Disciple of the Seven-Stars Formation, report back to the Purple-Robed \"Wolf\" Leader at the tavern in Pangzhen. You can collect this Memory Flower only after receiving the Broken \"Heroic Spirit\" from the Purple-Robed \"Wolf\" Leader and starting The Undying Heroic Spirit quest."
+    },
+    {
+      "id": "913000",
+      "catalogId": "10142",
+      "position": [
+        -0.3657063120653845,
+        0.8847619956115798
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913000",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of Mandate Leaders 4",
+      "description": "How to obtain:\nAfter killing the Chief Disciple of the Seven-Stars Formation, return to Myst's Tavern in Pangzhen and speak to the Purple-Robed \"Wolf\" Leader. You can collect this Memory Flower only after receiving the Broken \"Heroic Spirit\" and starting The Undying Heroic Spirit quest."
+    },
+    {
+      "id": "913016",
+      "catalogId": "10142",
+      "position": [
+        -0.7716100507369106,
+        0.8588690944304678
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=913016",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of Mandate Leaders 3",
+      "description": "How to obtain:\nAfter killing the Chief Disciple of the Seven-Stars Formation, return to Myst's Tavern in Pangzhen and speak to the Purple-Robed \"Wolf\" Leader. You can collect this Memory Flower only after receiving the Broken \"Heroic Spirit\" and starting The Undying Heroic Spirit quest."
+    },
+    {
+      "id": "912998",
+      "catalogId": "10142",
+      "position": [
+        -1.2620269285226584,
+        0.9017264346567136
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=912998",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of Mandate Leaders 1",
+      "description": "How to obtain:\nIf the message says this flower is too weak, you have not yet defeated the Chief Disciple in the three camps. After defeating him, find the Purple-Robed \"Wolf\" Leader at the tavern hideout in Pangzhen to unlock it."
+    },
+    {
+      "id": "914134",
+      "catalogId": "10142",
+      "position": [
+        -0.7279926322724748,
+        0.9234014763941332
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/a3bb2da3a4f4aa78ae8c458af42d0ee1dafe213860911ea9984641bd8b7d27c7.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10142&landmarkId=914134",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Twin Heroes' Memory Flower\n(Petal 1/2 — +5% Max HP upon completion)",
+      "description": "How to obtain:\nAfter completing Daughter of the Demonic Sect, Red, the Mysterious Swordswoman joins the fight in phase 2 of the battle with the Chief Disciple of the Seven-Stars Formation.\n\nAfter defeating them, pick it up from their bodies."
+    },
+    {
+      "id": "914135",
+      "catalogId": "10143",
+      "position": [
+        -0.7541526399613474,
+        0.9273003895114158
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10143&landmarkId=914135",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Training Grounds Key",
+      "description": "How to obtain:\n\nDefeat the Chief Disciple of the Seven-Stars Formation.\n\nUse:"
+    },
+    {
+      "id": "913126",
+      "catalogId": "10143",
+      "position": [
+        -0.5867020655940394,
+        0.9253290006228465
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c93fe0c6b4dc240c7f2e759c99b4d46ef4c7c0bb632b6c97542c02c0ddd83dc3.jpg",
+        "/assets/images/1adeed21a6d2989ccb311adb0f0737648542d5c3ce7c77bd7734bcece158d81e.jpg",
+        "/assets/images/8aec902b6e9210f104b77446b91f2ba7240af02ddcac728dee2d5a94d86f8f31.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10143&landmarkId=913126",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's House Key",
+      "description": "How to obtain:\nStart at the Tower Rear Exit bell, enter the river, and follow it to collect this.\n\nUse:"
+    },
+    {
+      "id": "913093",
+      "catalogId": "10143",
+      "position": [
+        -0.9802038514086462,
+        0.726715729311496
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10143&landmarkId=913093",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mandate Valley Gate Key",
+      "description": "How to obtain:\nOn the top level of the cliffside walkway.\n\nUse:\nThe valley gate in front of the encampment."
+    },
+    {
+      "id": "913127",
+      "catalogId": "10144",
+      "position": [
+        -0.7523628119277248,
+        1.118628324666576
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/3354d04472ecd6e63c0f688208fbf9337f623aadf8a454fed1b7886a8c2f1094.jpg",
+        "/assets/images/604448e6036a82234dc8b32ccaa1d14ea8ba3371000aa9ee8c4cf772fa01355e.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10144&landmarkId=913127",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Illusory Pipa Backplate",
+      "description": "How to obtain:\nAfter defeating the boss, continue forward to find it on a table.\n\nUse:\nQuest item for Illusory Pipa."
+    },
+    {
+      "id": "913193",
+      "catalogId": "10144",
+      "position": [
+        -0.7437984914378148,
+        1.0149717183482778
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/3d934d8833162e7728b3bf118e71bebf3164be14eea92ef9ba9c3bd6b32c89e0.jpg",
+        "/assets/images/783cd5ab33c38ba4bef4d075539ecbe72505d462caf39be835bb9add1523217c.jpg",
+        "/assets/images/6b6bb33becfda0e77c804791c55bb11e6a559ff2fa60c0feac6f4da2ea1a5570.jpg",
+        "/assets/images/6174ab6c01304c2e414513f2e494233a9dc10e5386fda7ec4429e6f01d96f211.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10144&landmarkId=913193",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Plain Hairpin",
+      "description": "Location:\nExit the cave opening at Xue's boss arena, walk straight ahead a few steps and turn right, then go down the slope. Keep going right, interact with the chain sickle and cross over, then go up the stairs to unlock Road to the Training Grounds. The hairpin is right beside it.\n\nRelated quest:\nXue, Admirer of Heroes."
+    },
+    {
+      "id": "913111",
+      "catalogId": "10144",
+      "position": [
+        -1.0061242385445155,
+        1.0965634340172374
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f609ff880d9c60d2ed1d4192dd475270bb1c2c99c0a15101058be54e33f40291.jpg",
+        "/assets/images/2a0b3f162ff68417e3edc0157bf934d3a1547a80b79f7f53b9e3ab9828c12bd0.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10144&landmarkId=913111",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Black Scabbard",
+      "description": "How to obtain:\nGo to Xue's graveyard, face roughly northeast, and follow the path circled in red all the way in. There is a grave on your right.\n\nUse:\nSoul-forging material."
+    },
+    {
+      "id": "913107",
+      "catalogId": "10144",
+      "position": [
+        -0.5639058959245347,
+        0.9210871207916008
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/4923fb081ec3f896374f3b3cc1e358025f8d935d4f17c471b91f601bd7c42c66.jpg",
+        "/assets/images/86789ae9a5b4a9710c83aa230495d671e0b396fef8b985a1b1cc2f048a57c5c3.jpg",
+        "/assets/images/94a9037894f5d432340d94ec158ad405cfd59d65c357723739a4e11ac6a72b00.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10144&landmarkId=913107",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broken Iron Sword",
+      "description": "How to obtain:\nStart at Tower Rear Exit, enter the river, and follow it to collect this.\n\nUse:\nQuest item for Xue, Admirer of Heroes."
+    },
+    {
+      "id": "913163",
+      "catalogId": "10146",
+      "position": [
+        -0.4016959459169698,
+        0.942732893869894
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7a4cab82b2ced3b1f7fede7e2273870775865fa1299d0c49b7bd4aee70763696.jpg",
+        "/assets/images/33e6941c4367e4acbb0b0cbf3c813d1330f0d64979e64d17522d27f61e791192.jpg",
+        "/assets/images/464261c94c255dcb6bc7ab0edb4750eb969f811648f7317f5741c83f572820fe.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913163",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Final Writings 6",
+      "description": "How to obtain:\nOpen the door with Moji's House Key, then go down the stairs to collect it."
+    },
+    {
+      "id": "913159",
+      "catalogId": "10146",
+      "position": [
+        -0.3729151784231135,
+        0.89530881622977
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/48a8f53d1860663e3aa9fd503535537cb51d9f2b0bf8634b1b0c1bfc98ad2d95.jpg",
+        "/assets/images/49f4e81f531ecf59854b7c201ca8903e4643d610ade5ee08bb436a7593d4b642.jpg",
+        "/assets/images/ff11e460a5b6808a6437171e658eb93e24a7c3396941ee5fba1cb4a38be47375.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913159",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun 8",
+      "description": "How to obtain:\nEnter the house, open the door on the left, then turn left to find it on the table."
+    },
+    {
+      "id": "913160",
+      "catalogId": "10146",
+      "position": [
+        -0.5433796906448265,
+        0.9830786042767534
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/22738115c4447ead07ebdef9f4884adfe7c6605c627c847827a2689af21d6443.jpg",
+        "/assets/images/ca0fe85a9b7791a56f070712a91b598cf6e432915ee26287d0e53fb83dbf7732.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913160",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun 4",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913156",
+      "catalogId": "10146",
+      "position": [
+        -0.6782953700375174,
+        1.0923185567185985
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6a23de39739ca34bc44a3015f821bf5555343b79d354bf16b2d3e039d26fa914.jpg",
+        "/assets/images/be1e7b48d8122cd968853f63fbbe72b43e480945203bd7e0fdc72eacfd02ba60.jpg",
+        "/assets/images/0af058fdb258ee27cd357c2543ba5846eba75ba70724f7e37b323472f3d09c36.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913156",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Herald's Experiment Notes 3",
+      "description": "How to obtain:\nClimb halfway up the wooden scaffolding beside the boss arena to collect it."
+    },
+    {
+      "id": "913155",
+      "catalogId": "10146",
+      "position": [
+        -0.7287059541302767,
+        0.8715256853015863
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913155",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Huangxing's Betrayal 4",
+      "description": ""
+    },
+    {
+      "id": "913154",
+      "catalogId": "10146",
+      "position": [
+        -0.40434879586649686,
+        0.9422433249999292
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/bd186c5813dc88c57a6a1da7063c6dde79637514134424051c10ade1b8332a2f.jpg",
+        "/assets/images/702835ca6e417ae40d215d5569fbaa0b88d4b56c29bbc8c585bb7deb07851cab.jpg",
+        "/assets/images/3a78fba7de00c41ba65f3b6a3b81c60db06741cd2369f1ddf2aa65632f914e55.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913154",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Final Writings 2",
+      "description": "How to obtain:\nOpen the door with Moji's House Key, then go down the stairs to collect it."
+    },
+    {
+      "id": "913153",
+      "catalogId": "10146",
+      "position": [
+        -0.5308956908822893,
+        0.9766321478870215
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7575ae41c546a6b3889f61c54861c1b06f04454ff74667f5f4030c395d88dfbd.jpg",
+        "/assets/images/27d3d46b99dc487479e752d482913da220821812d8e0bc49ba12d2fb1064b002.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913153",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun 6",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913150",
+      "catalogId": "10146",
+      "position": [
+        -0.4086009142424132,
+        0.9390615954787904
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/177c51bef41d4df4b32b780f0ba8cb988d70554e714e21a2dd906fccb7be52c5.jpg",
+        "/assets/images/9451b7bd5840195986677a581ca0c209f4f5419758c257d15bd420e6101dd6a3.jpg",
+        "/assets/images/b1b4e118b1e3128e42a74e0d3477e5dd33bba39b94e35810b0a254d3bdf8270c.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913150",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Final Writings 3",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913149",
+      "catalogId": "10146",
+      "position": [
+        -1.1513810455755902,
+        1.1337992499753307
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913149",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Disciples 1",
+      "description": ""
+    },
+    {
+      "id": "913146",
+      "catalogId": "10146",
+      "position": [
+        -0.3989417439074998,
+        0.8680599834912097
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/022e6789bcd2de70be4380b8829439d1d306ebf2ab6e08721edbc1f2c52408c6.jpg",
+        "/assets/images/2077350477f12da8f19c48e3a0bc9ddb92123c1735f0692bd46c914fcea4f575.jpg",
+        "/assets/images/3ac36670af5bfe8cbe90e8fb64a0edeb64707457c0cc7d209b0ce3de91ba265e.jpg",
+        "/assets/images/200b6ec862305fefb0efe62e22d3bda43e162909665a052fd724c4a826be6be0.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913146",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Huangxing's Betrayal 3",
+      "description": "How to obtain:\nGo through the small doorway at the fork, enter the house, and turn left."
+    },
+    {
+      "id": "913138",
+      "catalogId": "10146",
+      "position": [
+        -0.3757401659982804,
+        0.8906916669858194
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/24c0481425d55f06296684982254e9853930bc8fdf09017f2aaba45bcecf4c0a.jpg",
+        "/assets/images/5aea295587332ff6902b442d9df71045af55385db00a7ef37602b25c9bb09208.jpg",
+        "/assets/images/2c5d1a0f9bef40ecfbd9b2336aed3576a7cb9d76aa1b0667cb19af9c4f983164.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913138",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun 7",
+      "description": "How to obtain:\nEnter the house and turn right; it is on your right."
+    },
+    {
+      "id": "913133",
+      "catalogId": "10146",
+      "position": [
+        -0.6537054297835709,
+        0.8021852923077287
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/83f876cc806611e028bda9e6782c13351cd6bb5f86d01077fb6d5286055a299d.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913133",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Disciples 7",
+      "description": "How to obtain:\nSwing along the chain from the Dovecote roof to the mountainside opposite to collect it."
+    },
+    {
+      "id": "913129",
+      "catalogId": "10146",
+      "position": [
+        -0.5496940848546217,
+        0.982341038823686
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7b2efaf52cab0172b19edd6a610d14ed3ede8048cc3c395a3e9b673398c0687b.jpg",
+        "/assets/images/039e05e1ea33147a2d9fc8bf29f7952f0838bf4614f156ae8fab6996195acccf.jpg",
+        "/assets/images/589f340f2c0af17cb1a2ebd1c662e70152e7a6be97ed29e848d15160b2505158.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913129",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Disciples 5",
+      "description": "How to obtain:\nTake the stairs on the right to the 2nd floor. Turn left at the top to find it between the bookshelves."
+    },
+    {
+      "id": "913106",
+      "catalogId": "10146",
+      "position": [
+        -0.7515246464797656,
+        1.110721569882297
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/a5799bddd2dc92d22b41f1361775f3f58b33883f615b4d231f8e5480de98aa9f.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913106",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Herald 8",
+      "description": "How to obtain:\nAfter defeating the boss, continue forward and enter the house. Turn left to find it on the ground."
+    },
+    {
+      "id": "913102",
+      "catalogId": "10146",
+      "position": [
+        -0.40439521050672056,
+        0.940091425254721
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f08c535c7f550b985c46e4a3659a122588f979aa441655d912f2233a5f16bb05.jpg",
+        "/assets/images/5087452d8565fb89c2601ce6a69836f56d18507025520a4e203c542dc46b177d.jpg",
+        "/assets/images/8da0b0d5290d4a02acb37f7bf8a78f86a7a1a3ad261d05b53f7027e23c10f9ba.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913102",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Final Writings 5",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913095",
+      "catalogId": "10146",
+      "position": [
+        -0.6508900947855523,
+        1.0502462846684006
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b7f3a5b3224ec2a3bd8ba4c095c976a12bc1db07c37b26861c6196885dbcf555.jpg",
+        "/assets/images/24e94d67bcf2a01ed3ad75272f2e623502b1aed6a9f8cd4c3108989d36355f7d.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913095",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Herald's Experiment Notes 1",
+      "description": "How to obtain:\nBeside the Training Grounds bell."
+    },
+    {
+      "id": "913086",
+      "catalogId": "10146",
+      "position": [
+        -0.4054250582171619,
+        0.8644493372418542
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ba4f204e6f594a377ad952604aa804be21d8eee657c0a54a777dc0efd3b436b6.jpg",
+        "/assets/images/7d2e28f4cd0f36b6e64fc7798be95690c2ab7a6138898a3c25d69adccbe75ef2.jpg",
+        "/assets/images/2f49060346c206eed65fd759131c85d422ab48653df041b08a98a7584e024366.jpg",
+        "/assets/images/72d26b676b6f78302873ea7c31a29ba636e36e4de84e6db18dccc5c16300db7f.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913086",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Huangxing's Betrayal 2",
+      "description": "How to obtain:\nGo through the small doorway at the fork. Enter the house, turn left, then turn left again."
+    },
+    {
+      "id": "913087",
+      "catalogId": "10146",
+      "position": [
+        -0.40133075674864926,
+        0.9333988650486754
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/494d75df310178b9eb1d5f8470b2aa561cebde102012a38b16a7bfb34a134f5b.jpg",
+        "/assets/images/a22005ffc1597bcd673562ee8240b1c1d8c1510359b8586370d2b4440a2e8ca9.jpg",
+        "/assets/images/dd2b0f77a756daf926cd2b34defc5e991cfb5925c0c2798fe9236d977f159c42.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913087",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Disciples 3",
+      "description": "How to obtain:\nInside the house in the small courtyard beside the Behind the Encampment Waterfall bell. Enter and turn right to find it on the table."
+    },
+    {
+      "id": "913071",
+      "catalogId": "10146",
+      "position": [
+        -0.7117286797108875,
+        1.098967680895851
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7dfa0580d5961ed2d32d540dae928a159a12b276cbecfa0018763567e40e882b.jpg",
+        "/assets/images/9efaac0df06eb9a660dc8dd2d3b84bcf84ac6fa1f8aca9e1b6b40494c70ebd54.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913071",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Herald's Experiment Notes 4",
+      "description": "How to obtain:\nUnder the tree beside the boss arena."
+    },
+    {
+      "id": "913060",
+      "catalogId": "10146",
+      "position": [
+        -0.6306405967171145,
+        0.8772363561362303
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913060",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mystery of Transcension 8",
+      "description": ""
+    },
+    {
+      "id": "913056",
+      "catalogId": "10146",
+      "position": [
+        -0.40525452935443695,
+        0.9306096024798078
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/29fbafbcb0becd959b51dfd01b926a4fe87e9b8376951d934912056056184373.jpg",
+        "/assets/images/013b474088dc1292fca5fd7f7ac84ac3366ebc2db7119cf9ac98a34a9382d85e.jpg",
+        "/assets/images/dec228fc399dd57c64339430da2d4d36cc5be61648f7a1f5a52cc8aa9c1b6b08.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913056",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Disciples 4",
+      "description": "How to obtain:\nInside the house in the small courtyard beside the Behind the Encampment Waterfall bell. Enter and turn right; it is on your right."
+    },
+    {
+      "id": "913055",
+      "catalogId": "10146",
+      "position": [
+        -0.3347038430674161,
+        0.9828434851762197
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/1671e21fff1543895c9dc6ac0dbb1d9b93ae394daf8eb481eb6dd8e5bdde4836.jpg",
+        "/assets/images/afa23b7f9ce67fbb336e2e0a25124e23d5a21c40fd049bb8ea950e0d4e61a8d8.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913055",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Captive Fate 13",
+      "description": "How to obtain:\nInside the cave behind Bi Taotao's physical body."
+    },
+    {
+      "id": "913053",
+      "catalogId": "10146",
+      "position": [
+        -0.7584793283062368,
+        1.121378775315254
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/99ab5e24cea740a024b203af6ffc56047e7ff37423a6e927e37684ece576ef96.jpg",
+        "/assets/images/122ce40165e7f2bc54a57f2f20f485b7765f2b2cc282fe1742ebf07e8de925b8.jpg",
+        "/assets/images/9b9de651142b6c276e42507dcd9e2da409ac2b3dcafac49f36e66e237366b77c.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913053",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Herald 7",
+      "description": "How to obtain:\nTake the stairs to the 2nd floor to collect it."
+    },
+    {
+      "id": "913036",
+      "catalogId": "10146",
+      "position": [
+        -0.40542517876878037,
+        0.9375597598435803
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/631745fa0cb72ca83822a806672d20d8b777829477db87a0c09df669de4ba054.jpg",
+        "/assets/images/a110838f5cf86ff6cff406a704de7586d1ab0e609043628ff247d6aae85e79ac.jpg",
+        "/assets/images/f526138278acae9a405c5860506d42eb7d41d1b322f7ba951238ae46cb4766b6.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913036",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Final Writings 1",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913035",
+      "catalogId": "10146",
+      "position": [
+        -0.3998461840176333,
+        0.9394048721041486
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/2b37e226514cbbfd39dfb5c4ad4d8e8fa362bced647756cc7a85f8b64ea1ae29.jpg",
+        "/assets/images/05fc308d2c8c198d20028e12877a125fd3b22e2e4c77beab0fb13245c562a01f.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913035",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Disciples 2",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913025",
+      "catalogId": "10146",
+      "position": [
+        -0.7559921809308605,
+        1.1240374344635637
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/eaec3929749f2500ae0d53bee1bf5484b62dd56b8a780d4780e3f106045ee8ee.jpg",
+        "/assets/images/e1a0cb5802b0534775dc38ac3be0d32cf7f4cf5b1b74f7e3a98c6ea3b853cbd0.jpg",
+        "/assets/images/d153119b349f4b80e8e9355eb31c76bee37d93d0f76e5e63eac9ff416bda5b7e.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913025",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Herald's Experiment Notes 2",
+      "description": "How to obtain:\nTake the stairs to the 2nd floor to collect it."
+    },
+    {
+      "id": "913021",
+      "catalogId": "10146",
+      "position": [
+        -0.4020900928166782,
+        0.9460954571411422
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7a5254164fe61eeca1fcb20ba5d837f8adc08fece618271d89dd5e5b0c5a45af.jpg",
+        "/assets/images/462b3cd45ab7491f0694a524b2ff9e1457e7e1e135685dd7aea5c5dc50de504f.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913021",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Final Writings 4",
+      "description": "How to obtain:\nOpen the door with Moji's House Key to collect it."
+    },
+    {
+      "id": "913018",
+      "catalogId": "10146",
+      "position": [
+        -0.4177031363341541,
+        0.8670131863155272
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913018",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Disciples 6",
+      "description": "How to obtain:\nOn the corpse in the corridor on the left."
+    },
+    {
+      "id": "912889",
+      "catalogId": "10146",
+      "position": [
+        -1.0837695690264866,
+        0.22318520300377573
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=912889",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Disciples 8",
+      "description": ""
+    },
+    {
+      "id": "912876",
+      "catalogId": "10146",
+      "position": [
+        -0.3570559941886984,
+        1.1324240308378395
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/811b4c9340a045860fdf92cdff346dd4f8499f07dd3d42b724589a9825635b3a.jpg",
+        "/assets/images/916ba0522d634f924fda9c711e18ca3c04cc56425b1f6656f7db37ab458ed2d1.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=912876",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Captive Fate 12",
+      "description": "How to obtain:\nBeside the Path of the Baishan's Fall bell."
+    },
+    {
+      "id": "912870",
+      "catalogId": "10146",
+      "position": [
+        -1.1520406383465343,
+        1.115850495721415
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=912870",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun 1",
+      "description": ""
+    },
+    {
+      "id": "913079",
+      "catalogId": "10146",
+      "position": [
+        -0.2781140008447949,
+        1.024103409532006
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b2a8d2d1912b2df86571e9041bb9fa38b2fd6e16b90bbfcedbebbf717f29540d.jpg",
+        "/assets/images/7c1cf8f69597cdc2f73b8dd26e6aedd27dd88433b0d6e2a032dbc24b02975f6f.jpg",
+        "/assets/images/d00e74c5452f46a3d720cabb02be131810aaac3b96e20d5fb5c10f2bedafaf71.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913079",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Captive Fate 14",
+      "description": "How to obtain:\nFrom The Confinement bell, swing across the rope to the other side, then turn right and go all the way to the end."
+    },
+    {
+      "id": "913029",
+      "catalogId": "10146",
+      "position": [
+        -1.0931309600855457,
+        0.9637279251982473
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913029",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Fragments of the Mandate 13",
+      "description": "How to obtain:\nDefeat Xue."
+    },
+    {
+      "id": "913083",
+      "catalogId": "10146",
+      "position": [
+        -0.7657058910553758,
+        0.8239299884502499
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10146&landmarkId=913083",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun 5",
+      "description": "How to obtain:\nOn top of the gate. First go in through the Bashpole opening and loop around to reach it."
+    },
+    {
+      "id": "913108",
+      "catalogId": "10147",
+      "position": [
+        -0.8177863709926498,
+        0.9612833158961106
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10147&landmarkId=913108",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Reforge Talisman",
+      "description": ""
+    },
+    {
+      "id": "913069",
+      "catalogId": "10147",
+      "position": [
+        -0.9135865903045897,
+        0.3036471793611131
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10147&landmarkId=913069",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Traversal Talisman",
+      "description": ""
+    },
+    {
+      "id": "913051",
+      "catalogId": "10147",
+      "position": [
+        -0.8305052501322052,
+        0.8432798016655264
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10147&landmarkId=913051",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Weapon Reforge Talisman",
+      "description": ""
+    },
+    {
+      "id": "913030",
+      "catalogId": "10147",
+      "position": [
+        -1.2515313596501016,
+        0.8975618283489463
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10147&landmarkId=913030",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Traversal Talisman",
+      "description": ""
+    },
+    {
+      "id": "913039",
+      "catalogId": "10147",
+      "position": [
+        -0.951637049374682,
+        0.327104211290686
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10147&landmarkId=913039",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Reforge Talisman",
+      "description": ""
+    },
+    {
+      "id": "913143",
+      "catalogId": "10147",
+      "position": [
+        -0.9932155253879955,
+        0.2811387531858513
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10147&landmarkId=913143",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Weapon Reforge Talisman x2",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913165",
+      "catalogId": "10148",
+      "position": [
+        -0.9049925791278497,
+        0.7951168721167964
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913165",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913161",
+      "catalogId": "10148",
+      "position": [
+        -0.612527535721398,
+        0.8161385014173084
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913161",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913157",
+      "catalogId": "10148",
+      "position": [
+        -0.8126447649048885,
+        0.6930220784790668
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913157",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913152",
+      "catalogId": "10148",
+      "position": [
+        -1.1165609823203226,
+        0.9479200650625731
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913152",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913105",
+      "catalogId": "10148",
+      "position": [
+        -0.4096898885483995,
+        0.9377888892964201
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913105",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913100",
+      "catalogId": "10148",
+      "position": [
+        -0.40304408919027424,
+        0.8574583304533456
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913100",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913091",
+      "catalogId": "10148",
+      "position": [
+        -0.9580897971900981,
+        0.7901259707287297
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913091",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913082",
+      "catalogId": "10148",
+      "position": [
+        -1.1329397969572597,
+        1.1260133110152757
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913082",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913076",
+      "catalogId": "10148",
+      "position": [
+        -0.8169562493589524,
+        0.7668946073299125
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913076",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913072",
+      "catalogId": "10148",
+      "position": [
+        -0.4626165777479514,
+        0.8656636227604345
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913072",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913068",
+      "catalogId": "10148",
+      "position": [
+        -0.8244016038565292,
+        0.8196590057039768
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913068",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913059",
+      "catalogId": "10148",
+      "position": [
+        -0.7273562020940858,
+        0.8552197883727877
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913059",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913050",
+      "catalogId": "10148",
+      "position": [
+        -0.5779761358631106,
+        0.9400177182834932
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913050",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913043",
+      "catalogId": "10148",
+      "position": [
+        -0.8474374791915977,
+        0.7841977577108824
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913043",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913040",
+      "catalogId": "10148",
+      "position": [
+        -0.7113087926054789,
+        0.7649942198059615
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913040",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913037",
+      "catalogId": "10148",
+      "position": [
+        -0.8088464758018574,
+        0.7843507543493357
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913037",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913032",
+      "catalogId": "10148",
+      "position": [
+        -0.5985876055741528,
+        0.8450609781725952
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913032",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913031",
+      "catalogId": "10148",
+      "position": [
+        -0.710758595708711,
+        0.8683691912169249
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913031",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913023",
+      "catalogId": "10148",
+      "position": [
+        -0.37766907266259864,
+        0.8955922545711363
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913023",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "912885",
+      "catalogId": "10148",
+      "position": [
+        -1.1836560459926204,
+        0.5220089754216756
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=912885",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913067",
+      "catalogId": "10148",
+      "position": [
+        -0.5514460276048112,
+        0.9578627924340322
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ecfd04598c5257c7a25a0d37769a6c60f7e0df1a578e5c3b803a526c68911a5f.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913067",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location: In the outside corridor on the second floor."
+    },
+    {
+      "id": "914419",
+      "catalogId": "10148",
+      "position": [
+        -1.0117916065739223,
+        0.5080197431704363
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=914419",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location: Beside the fallen dead tree; a dead tree has fallen across the river here."
+    },
+    {
+      "id": "914500",
+      "catalogId": "10148",
+      "position": [
+        -0.7894691673090222,
+        0.9262205763437947
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=914500",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "9459",
+      "description": "Location:"
+    },
+    {
+      "id": "914501",
+      "catalogId": "10148",
+      "position": [
+        -0.5629313085936758,
+        0.9989673166573425
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=914501",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "9,656",
+      "description": "Location:"
+    },
+    {
+      "id": "914502",
+      "catalogId": "10148",
+      "position": [
+        -0.5766415095973798,
+        0.9368881377953784
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=914502",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "9,603",
+      "description": "Location:"
+    },
+    {
+      "id": "912882",
+      "catalogId": "10148",
+      "position": [
+        -0.32380769224374717,
+        0.9748703612480343
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=912882",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location: After killing the boss in the Training Grounds and completing Secrets of the Baishan Sect, return here to pick up the Remnant Dust."
+    },
+    {
+      "id": "914525",
+      "catalogId": "10148",
+      "position": [
+        -0.9981555694099882,
+        0.7281416917492294
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f30ee8c3b38bf0910476aa574da39fd6caa821c59f998829a7c7d9faabb08215.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=914525",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location: On the corpse behind the climbable wall."
+    },
+    {
+      "id": "913057",
+      "catalogId": "10148",
+      "position": [
+        -0.9684743614255638,
+        0.7838225133002212
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913057",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "9,595",
+      "description": "Location:"
+    },
+    {
+      "id": "913045",
+      "catalogId": "10148",
+      "position": [
+        -1.1461477400050057,
+        0.12999069899725055
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913045",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location: Interact with the inscription on the rock wall."
+    },
+    {
+      "id": "913065",
+      "catalogId": "10148",
+      "position": [
+        -0.90447938377676,
+        0.7486830626624118
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913065",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913062",
+      "catalogId": "10148",
+      "position": [
+        -0.9698289397503004,
+        0.72278929870418
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913062",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913145",
+      "catalogId": "10148",
+      "position": [
+        -0.4541560938882583,
+        0.9315388201051743
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10148&landmarkId=913145",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location: Not at the very bottom; it is at a cliff edge farther along the route."
+    },
+    {
+      "id": "913017",
+      "catalogId": "10149",
+      "position": [
+        -0.24551724785652596,
+        0.9773069087044307
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/2e6e23d14e93fea540dd8ffac5b34043dbfbdd8980e73ee780a340c83700d0d4.jpg",
+        "/assets/images/96298513e7b644113eab3ef668cdc0f3af08f612707b50bde8a9ee6c04336f82.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913017",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal x3",
+      "description": "How to obtain:\nAfter the boss fight, go up the stairs and turn left."
+    },
+    {
+      "id": "913052",
+      "catalogId": "10149",
+      "position": [
+        -0.719909238833651,
+        0.7632403868442337
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c7525d417fd12143da84910eb9ae95634c70cbc226cfa569d50d98b2c9ee2a2a.jpg",
+        "/assets/images/acadccbeed76a3f9a3fee4c7e6e6b22fc430673891d929cff083d0a2fd8fad42.jpg",
+        "/assets/images/b34deaf338eba586b5ca6934723bdbf5d57aa54a61a98267f7cf01e856ee0a9d.jpg",
+        "/assets/images/ad3a63be26295fdaad09453c016f67045bb2dc6d4c68e3c81ddb2ed1164ab2cb.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913052",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913162",
+      "catalogId": "10149",
+      "position": [
+        -0.7980774172438032,
+        0.9256043844459214
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913162",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal",
+      "description": ""
+    },
+    {
+      "id": "913158",
+      "catalogId": "10149",
+      "position": [
+        -0.753878266538095,
+        0.8319131064235713
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913158",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": ""
+    },
+    {
+      "id": "913147",
+      "catalogId": "10149",
+      "position": [
+        -0.5618949423545132,
+        0.9984241156124002
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913147",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "913139",
+      "catalogId": "10149",
+      "position": [
+        -0.4028864304303852,
+        0.8591589773750176
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913139",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913135",
+      "catalogId": "10149",
+      "position": [
+        -0.34808714126648965,
+        0.9838435464413429
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/3274747bc3317f40870a3800637fccf8537313df4ac94e15aacaa977bf9b3538.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913135",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent x3",
+      "description": "How to obtain:\nInside the cave behind Bi Taotao's physical body."
+    },
+    {
+      "id": "913131",
+      "catalogId": "10149",
+      "position": [
+        -0.4065826626648743,
+        0.9411640902254135
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/60bb928b34f1c4a621145f94188ce352ff27f7ddda8d8a8cc71e0867d6d0c332.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913131",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent x3",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913130",
+      "catalogId": "10149",
+      "position": [
+        -0.414442174025055,
+        0.9186167146438865
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f13c6901461a22c12cc2fa77aeae11d6506d62d4bc43734642b86df12ae53b38.jpg",
+        "/assets/images/d16f3dd1241a13c084667fc879533c99bc038180475de0289faca89d435d3441.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913130",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Weapon Reforge Talisman",
+      "description": "How to obtain:\nExit through the small courtyard gate, then turn around and climb onto the roof to collect it."
+    },
+    {
+      "id": "913125",
+      "catalogId": "10149",
+      "position": [
+        -1.0032590318979828,
+        0.7340693223110408
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913125",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": ""
+    },
+    {
+      "id": "913124",
+      "catalogId": "10149",
+      "position": [
+        -0.814380620026526,
+        0.6744188795463146
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913124",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913123",
+      "catalogId": "10149",
+      "position": [
+        -0.7940860765980631,
+        0.7256705067301659
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913123",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal",
+      "description": ""
+    },
+    {
+      "id": "913122",
+      "catalogId": "10149",
+      "position": [
+        -0.8032656774544193,
+        0.8873789755949544
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913122",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": ""
+    },
+    {
+      "id": "913116",
+      "catalogId": "10149",
+      "position": [
+        -0.8040427099138583,
+        0.6962527885203188
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913116",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal",
+      "description": ""
+    },
+    {
+      "id": "913115",
+      "catalogId": "10149",
+      "position": [
+        -0.2853164321510917,
+        1.1309183744765616
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c46c570b0c81e1a4412d541ab5a063d7fb406969585572662ffcb736acd0d1fc.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913115",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent x17",
+      "description": "How to obtain:\nStart at the Path of the Baishan's Fall bell. Enter the cave and continue forward after the encounter."
+    },
+    {
+      "id": "913114",
+      "catalogId": "10149",
+      "position": [
+        -0.5735102101748453,
+        0.9947942781360763
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c70ffa17ad7ebc6e7569b5f0ad73703b94604b8fe02f14415a4ae9f181c62a3c.jpg",
+        "/assets/images/de8e64128ede80a874680ad0ee3e1fbb697217efae508f89da3dbbeec7b3cd04.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913114",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal x3",
+      "description": "How to obtain:\nTurn left at the fork, jump upward 3 times, go all the way to the end, then jump down to collect it."
+    },
+    {
+      "id": "913113",
+      "catalogId": "10149",
+      "position": [
+        -0.35947074723554806,
+        0.8821417928803978
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/2ad996e4ea5f06af3e7c66710f7b2fb5566bcb3c2975eb36a05ab2fd3fe8a779.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913113",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent x4",
+      "description": "How to obtain:\nInside the small pavilion behind the courtyard."
+    },
+    {
+      "id": "913109",
+      "catalogId": "10149",
+      "position": [
+        -1.223517972038593,
+        0.9841060423437209
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913109",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": ""
+    },
+    {
+      "id": "913104",
+      "catalogId": "10149",
+      "position": [
+        -0.9604337646712793,
+        0.7577727395570664
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913104",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "913103",
+      "catalogId": "10149",
+      "position": [
+        -0.40354119691278356,
+        0.8716255335407455
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/4a8af49c5ec0823db02a4c1340c788adc1ceab7521e918e56b66ddb62e74c76b.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913103",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Concentrated Solvent x16",
+      "description": "How to obtain:\nOn the wooden walkway along the cliff outside the courtyard."
+    },
+    {
+      "id": "913099",
+      "catalogId": "10149",
+      "position": [
+        -0.8172619143016107,
+        0.8410718502710594
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913099",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal",
+      "description": ""
+    },
+    {
+      "id": "913090",
+      "catalogId": "10149",
+      "position": [
+        -0.7911436493344581,
+        0.819573650421585
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913090",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "913089",
+      "catalogId": "10149",
+      "position": [
+        -0.6402851300388193,
+        0.8527042452828204
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913089",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "913088",
+      "catalogId": "10149",
+      "position": [
+        -0.4451647182860654,
+        0.9078944236378269
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913088",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": ""
+    },
+    {
+      "id": "913080",
+      "catalogId": "10149",
+      "position": [
+        -0.6206614407213351,
+        0.8985361469557718
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913080",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal",
+      "description": ""
+    },
+    {
+      "id": "913078",
+      "catalogId": "10149",
+      "position": [
+        -1.0545367391701177,
+        0.5308300883240193
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913078",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Twinned Metal",
+      "description": "How to obtain:\nBeside the ruined mill."
+    },
+    {
+      "id": "913077",
+      "catalogId": "10149",
+      "position": [
+        -0.8007720950276109,
+        0.7182524794573798
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913077",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": ""
+    },
+    {
+      "id": "913074",
+      "catalogId": "10149",
+      "position": [
+        -1.0022648164529642,
+        0.3214332322732904
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913074",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal",
+      "description": ""
+    },
+    {
+      "id": "913073",
+      "catalogId": "10149",
+      "position": [
+        -1.2671444031675776,
+        0.898792207505211
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913073",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "913066",
+      "catalogId": "10149",
+      "position": [
+        -0.36902518983731625,
+        0.8942781311673811
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/591ed9b579907cc9d6198144a72ca8b9e90ddf71673193515544d100b077e351.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913066",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent x17",
+      "description": "How to obtain:\nOn the path behind the courtyard."
+    },
+    {
+      "id": "913054",
+      "catalogId": "10149",
+      "position": [
+        -0.5006541667152078,
+        0.9979957499073214
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/d9cbfedaa549927a5911973ac6234ad1cfb29783b831c598370edc68e7294d64.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913054",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal x18",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913042",
+      "catalogId": "10149",
+      "position": [
+        -0.7580948339836482,
+        0.8322126542124398
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913042",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "913034",
+      "catalogId": "10149",
+      "position": [
+        -1.0134746760335815,
+        0.507315682944023
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913034",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": ""
+    },
+    {
+      "id": "913026",
+      "catalogId": "10149",
+      "position": [
+        -0.5360887773814511,
+        0.8892583686934386
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913026",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "913027",
+      "catalogId": "10149",
+      "position": [
+        -0.7622422246264193,
+        0.8787550130463597
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913027",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "913019",
+      "catalogId": "10149",
+      "position": [
+        -0.845350913767362,
+        0.8367686766437352
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913019",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": ""
+    },
+    {
+      "id": "912893",
+      "catalogId": "10149",
+      "position": [
+        -0.9560096668172946,
+        0.3962734524225664
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=912893",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "912890",
+      "catalogId": "10149",
+      "position": [
+        -0.9432682649977835,
+        0.19192607207946838
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=912890",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": ""
+    },
+    {
+      "id": "912886",
+      "catalogId": "10149",
+      "position": [
+        -0.9551875889978874,
+        0.561727236206653
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=912886",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "912884",
+      "catalogId": "10149",
+      "position": [
+        -1.2013701338000544,
+        0.6125999062129406
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=912884",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": ""
+    },
+    {
+      "id": "912874",
+      "catalogId": "10149",
+      "position": [
+        -1.0355967740664198,
+        1.0464522477274776
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=912874",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "912871",
+      "catalogId": "10149",
+      "position": [
+        -1.0677832925264283,
+        1.133800860301808
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=912871",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": ""
+    },
+    {
+      "id": "913075",
+      "catalogId": "10149",
+      "position": [
+        -0.20242009970715458,
+        1.038265099767177
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/a1cf3de6291ff7ffa7ec69bc681f9936bfad9270af9744f89293ad1961cf511c.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913075",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal x18",
+      "description": "How to obtain:\nStart at The Confinement bell and swing across the rope, then turn around and jump down to collect it."
+    },
+    {
+      "id": "914526",
+      "catalogId": "10149",
+      "position": [
+        -0.8507411200931188,
+        0.7068073725890969
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=914526",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Concentrated Solvent",
+      "description": "How to obtain:\nGo up the stairs and turn right; it is at the cliff edge."
+    },
+    {
+      "id": "913140",
+      "catalogId": "10149",
+      "position": [
+        -0.766011555998034,
+        0.750150231847891
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913140",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913049",
+      "catalogId": "10149",
+      "position": [
+        -0.6952983846625784,
+        0.7650538082411231
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913049",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal x17",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913134",
+      "catalogId": "10149",
+      "position": [
+        -1.1686382447318806,
+        0.5656070845871916
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913134",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal",
+      "description": "How to obtain:\nBeneath the waterfall."
+    },
+    {
+      "id": "913022",
+      "catalogId": "10149",
+      "position": [
+        -0.9608810007452462,
+        0.2853634150495952
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913022",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent",
+      "description": "How to obtain:\nOn top of the floor that needs to be broken."
+    },
+    {
+      "id": "913112",
+      "catalogId": "10149",
+      "position": [
+        -1.0132574930480303,
+        0.626200981531265
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913112",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal",
+      "description": "How to obtain:\nInside the tent after crossing the bridge."
+    },
+    {
+      "id": "913164",
+      "catalogId": "10150",
+      "position": [
+        -0.9614955481562504,
+        0.7866940179548276
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913164",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal",
+      "description": ""
+    },
+    {
+      "id": "913144",
+      "catalogId": "10150",
+      "position": [
+        -0.9901813986415675,
+        0.7771341384154111
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913144",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Precision Mechanical Gear",
+      "description": "How to obtain:\nGo down the stairs in front of the bell, kill the ordinary enemies, then collect it."
+    },
+    {
+      "id": "913132",
+      "catalogId": "10150",
+      "position": [
+        -0.5620252521458724,
+        0.9911724886707916
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/2907c19a8669b2e9f408e8f23935fb2f490d711d669d9f34d2079a4441558efc.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913132",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Precision Mechanical Gear",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913128",
+      "catalogId": "10150",
+      "position": [
+        -0.8578268697156375,
+        0.8396723530801004
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913128",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Illusory Incense Ash",
+      "description": ""
+    },
+    {
+      "id": "913120",
+      "catalogId": "10150",
+      "position": [
+        -0.6646434084414921,
+        0.7955694188632484
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/4c4b6f61f7afe2a0e3888058ebefb8b589df141b172b4b80722ecd274ad0fd8f.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913120",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blazing Darkfire Charcoal x10",
+      "description": "How to obtain:\nFrom the Dovecote bell, pass through the locked door to collect it."
+    },
+    {
+      "id": "913118",
+      "catalogId": "10150",
+      "position": [
+        -0.6183641273629803,
+        0.9241920356065917
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913118",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Otherworldly Copper",
+      "description": ""
+    },
+    {
+      "id": "913092",
+      "catalogId": "10150",
+      "position": [
+        -0.5223000709426628,
+        0.9780766834093664
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/be03e0d3bbe4686346d036863853c06789576d4dd03e939f66aa10544f54e774.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913092",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Camphor Timber x10",
+      "description": "How to obtain:\nTake the stairs to the second floor, then turn right."
+    },
+    {
+      "id": "913084",
+      "catalogId": "10150",
+      "position": [
+        -0.5485212967326163,
+        0.9858468888788314
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/247ecfa2a5de00ff498d1e1fbe313ca82fa63883eb7521086b6529e420096e28.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913084",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blazing Darkfire Charcoal x9",
+      "description": "How to obtain:\nJump from the gap in the roof onto the bookshelf to collect it."
+    },
+    {
+      "id": "913063",
+      "catalogId": "10150",
+      "position": [
+        -0.37343320006277736,
+        0.890860763938645
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/af1076e6bf856efeb40235b909cf9219e8cb71c7385a8f19c112de12355ecbfb.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913063",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Illusory Incense Ash x11",
+      "description": "How to obtain:\nOn the table in the courtyard."
+    },
+    {
+      "id": "913058",
+      "catalogId": "10150",
+      "position": [
+        -1.2150301392103415,
+        0.9150753667385638
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913058",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Otherworldly Copper",
+      "description": ""
+    },
+    {
+      "id": "913044",
+      "catalogId": "10150",
+      "position": [
+        -0.4074697958071454,
+        0.8577546553501515
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/17b4e925e7b39451ee18ea6f0d92ed9ece0e8ed325ad65bed3f130e11c01c6f6.jpg",
+        "/assets/images/5ac3406f490e14b323587f0143d1e2ce228e53135bc2820c6f336da6dd313d83.jpg",
+        "/assets/images/c3a964b3acb7ec170925e054cd44710170868fe8508b4ff5a1ee040d4c8124cf.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913044",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Camphor Timber x10",
+      "description": "How to obtain:\nGo through the small doorway at the fork, enter the house, then turn right to find it on the table."
+    },
+    {
+      "id": "912880",
+      "catalogId": "10150",
+      "position": [
+        -0.15012887183573298,
+        1.069342008139572
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=912880",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Otherworldly Copper",
+      "description": ""
+    },
+    {
+      "id": "912878",
+      "catalogId": "10150",
+      "position": [
+        -0.28139426830816205,
+        1.1292887220053704
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/60a93229932851af7e89fcb3e2bcde89ff86bbff7a05b7186b5bcab9454f1ecc.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=912878",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blazing Darkfire Charcoal x9",
+      "description": "How to obtain:\nStart at the Path of the Baishan's Fall bell. Enter the cave, finish the encounter, then continue forward to collect it."
+    },
+    {
+      "id": "913020",
+      "catalogId": "10150",
+      "position": [
+        -0.5519479616158662,
+        0.9387937950271785
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913020",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Illusory Incense Ash",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913024",
+      "catalogId": "10150",
+      "position": [
+        -0.9906093295612663,
+        0.42607761146264184
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913024",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Camphor Timber",
+      "description": "How to obtain:\nBe sure to collect the materials before fighting the Human-Faced Banyan Tree. After defeating it, you can no longer enter this area."
+    },
+    {
+      "id": "913028",
+      "catalogId": "10150",
+      "position": [
+        -1.1309095382329701,
+        0.16313759871320904
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10150&landmarkId=913028",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Precision Mechanical Gear x6",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913085",
+      "catalogId": "10151",
+      "position": [
+        -0.602112404991658,
+        0.8780383616651019
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5b9858565fce09cc3c050a9a9c79c950d8c0c7b731538e35c9185fe31d4109b9.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10151&landmarkId=913085",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": "How to obtain:\nFrom inside the cave, climb to the highest wooden scaffolding, then slide along the wall to reach it."
+    },
+    {
+      "id": "913094",
+      "catalogId": "10151",
+      "position": [
+        -1.2025397043963437,
+        0.5357616599410977
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10151&landmarkId=913094",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913070",
+      "catalogId": "10151",
+      "position": [
+        -0.5250188801693128,
+        0.9525242567663283
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/cb727808962deab5a1a114860f59d5aa14b2b48e102fc0be8a125053106cb2be.jpg",
+        "/assets/images/1dc292c0179f84e8020a5de9456d9e59feff4e7f6417b75b80a4558be06f56ea.jpg",
+        "/assets/images/485c3950e58696f239126a731d33df261615545e96979a0d345f3af0efb21bd4.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10151&landmarkId=913070",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Refined Indigo Crystal x4",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "912891",
+      "catalogId": "10151",
+      "position": [
+        -1.1240722960949938,
+        0.12079073497066993
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10151&landmarkId=912891",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912873",
+      "catalogId": "10151",
+      "position": [
+        -0.9531010235736233,
+        1.1115090256376758
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10151&landmarkId=912873",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913119",
+      "catalogId": "10151",
+      "position": [
+        -0.27657924108015663,
+        1.0260101042626197
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/aa41728356b95758df96b4ecf1658e32f1814a625236bfa50ab39ab5defb5f14.jpg",
+        "/assets/images/da656a02d0dee1065f2fa31df397ed9c50b57c032fe84b2b93c123392d5ef8a8.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10151&landmarkId=913119",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913151",
+      "catalogId": "10152",
+      "position": [
+        -1.1665050251848186,
+        0.649350912597055
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10152&landmarkId=913151",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Skilled Healer's Memory",
+      "description": ""
+    },
+    {
+      "id": "913148",
+      "catalogId": "10152",
+      "position": [
+        -0.9618510847474226,
+        0.28671955856059034
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10152&landmarkId=913148",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": ""
+    },
+    {
+      "id": "913141",
+      "catalogId": "10152",
+      "position": [
+        -0.7352809679227335,
+        0.8443217739165308
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10152&landmarkId=913141",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Skilled Healer's Memory",
+      "description": ""
+    },
+    {
+      "id": "913136",
+      "catalogId": "10152",
+      "position": [
+        -0.9770651550765876,
+        0.6653709122819467
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10152&landmarkId=913136",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Apprentice Healer's Memory",
+      "description": ""
+    },
+    {
+      "id": "913098",
+      "catalogId": "10152",
+      "position": [
+        -0.6866480667858639,
+        0.7642163490765985
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/49ad65c04c6b1574ea50b53130bff4a21ba77669b916afc27c1015419f7a6c77.jpg",
+        "/assets/images/31c3a4f14f0b92cf7103be74c8c7ca7c073c1b9262a72268b60d50a8b3a8aa37.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10152&landmarkId=913098",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Apprentice Healer's Memory",
+      "description": "How to obtain:\nStart at the Dovecote bell, climb 2 ladders, and enter the cave. Climb down the ladder inside the cave; it is on your right."
+    },
+    {
+      "id": "913097",
+      "catalogId": "10152",
+      "position": [
+        -0.4441061523268104,
+        0.892654801607374
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/d7f04adb8dbf3369be6f9b3776499cb88fd5007efb451ea63b8d14da35496bd9.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10152&landmarkId=913097",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": "How to obtain:\nOpen the chest inside the camp. Its contents include Master Healer's Memory x1, Precision Mechanical Gear x4, and Remnant Dust."
+    },
+    {
+      "id": "913064",
+      "catalogId": "10152",
+      "position": [
+        -0.6676485774565037,
+        0.9179451632639869
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/64196bdc57e0ffde53f85faaea340accfb7665d7317ef44f8efd6c8c0a334406.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10152&landmarkId=913064",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Apprentice Healer's Memory x2",
+      "description": "How to obtain:\nInside the tent."
+    },
+    {
+      "id": "913047",
+      "catalogId": "10152",
+      "position": [
+        -0.4097011498884058,
+        0.9506545595113285
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f0580c0e96aef6a2387d25295262110f3cd5c69cd334d201951295f33ecdbec3.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10152&landmarkId=913047",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Apprentice Healer's Memory",
+      "description": "How to obtain:\nBeside the Behind the Encampment Waterfall bell."
+    },
+    {
+      "id": "912881",
+      "catalogId": "10152",
+      "position": [
+        -0.4376308818314101,
+        1.0639956039381946
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10152&landmarkId=912881",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Skilled Healer's Memory",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913170",
+      "catalogId": "10153",
+      "position": [
+        -0.9802987684171853,
+        0.7417707727097843
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10153&landmarkId=913170",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Dying Mandate Disciple",
+      "description": ""
+    },
+    {
+      "id": "913169",
+      "catalogId": "10153",
+      "position": [
+        -0.7256171294467322,
+        0.8680358266365746
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10153&landmarkId=913169",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Surviving Mandate Disciple",
+      "description": ""
+    },
+    {
+      "id": "913174",
+      "catalogId": "10153",
+      "position": [
+        -0.7142447848176801,
+        0.7765672446069138
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10153&landmarkId=913174",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Dazed Swordswoman",
+      "description": "Related quest: Daughter of the Dark Sect."
+    },
+    {
+      "id": "913177",
+      "catalogId": "10153",
+      "position": [
+        -0.6999235778735908,
+        1.0863602590496868
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10153&landmarkId=913177",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bi Taotao",
+      "description": "Related quest:"
+    },
+    {
+      "id": "914524",
+      "catalogId": "10153",
+      "position": [
+        -0.32551587462683074,
+        0.9725442153872308
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6eaece943a58822265ea6101452ecdc9b06de23fc17302d24356509aa21058c4.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10153&landmarkId=914524",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Bi Taotao's body",
+      "description": "Related quest: Secrets of the Baishan Sect. After defeating Bi Taotao's puppet, come here if you cannot find her physical body or would like to see it.\nTeleport to The Confinement bell, then follow the route shown in the images."
+    },
+    {
+      "id": "913179",
+      "catalogId": "10156",
+      "position": [
+        -0.6499666649062306,
+        1.0279441743613689
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10156&landmarkId=913179",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun",
+      "description": ""
+    },
+    {
+      "id": "913198",
+      "catalogId": "10156",
+      "position": [
+        -0.7870879581744816,
+        1.1418331575932443
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10156&landmarkId=913198",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Herald's Illusion",
+      "description": ""
+    },
+    {
+      "id": "913188",
+      "catalogId": "10156",
+      "position": [
+        -0.7138649385626934,
+        1.080156680283892
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10156&landmarkId=913188",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Illusory Pipa",
+      "description": "Prerequisites:\n\nQuest objective:"
+    },
+    {
+      "id": "913187",
+      "catalogId": "10157",
+      "position": [
+        -0.677605210772299,
+        0.7826243077467703
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10157&landmarkId=913187",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Daughter of the Dark Sect",
+      "description": ""
+    },
+    {
+      "id": "913186",
+      "catalogId": "10157",
+      "position": [
+        -0.3240554417235728,
+        0.9750249604781431
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10157&landmarkId=913186",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Secrets of the Baishan Sect",
+      "description": ""
+    },
+    {
+      "id": "913185",
+      "catalogId": "10157",
+      "position": [
+        -0.7137846786408488,
+        1.089337799006144
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10157&landmarkId=913185",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Secrets of the Baishan Sect",
+      "description": ""
+    },
+    {
+      "id": "913193",
+      "catalogId": "10157",
+      "position": [
+        -0.743648930242216,
+        1.0210237672753948
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/3d934d8833162e7728b3bf118e71bebf3164be14eea92ef9ba9c3bd6b32c89e0.jpg",
+        "/assets/images/783cd5ab33c38ba4bef4d075539ecbe72505d462caf39be835bb9add1523217c.jpg",
+        "/assets/images/6b6bb33becfda0e77c804791c55bb11e6a559ff2fa60c0feac6f4da2ea1a5570.jpg",
+        "/assets/images/6174ab6c01304c2e414513f2e494233a9dc10e5386fda7ec4429e6f01d96f211.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10157&landmarkId=913193",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xue",
+      "description": "Prerequisites:\n\nObjectives:"
+    },
+    {
+      "id": "913191",
+      "catalogId": "10157",
+      "position": [
+        -0.21885200351832168,
+        1.0124651393951924
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10157&landmarkId=913191",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Secrets of the Baishan Sect",
+      "description": "Quest objective: Examine Bi Taotao's body.\n\nContinue forward to a field of flowers. Bi Taotao's body is among them. There is an exit behind her that leads directly to the Behind the Encampment Waterfall bell."
+    },
+    {
+      "id": "913189",
+      "catalogId": "10157",
+      "position": [
+        -0.7148641684088943,
+        0.7858033682898906
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10157&landmarkId=913189",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Daughter of the Dark Sect",
+      "description": "Prerequisites:\n\nObjectives:"
+    },
+    {
+      "id": "913197",
+      "catalogId": "10157",
+      "position": [
+        -0.5637587224888421,
+        0.9144786247524763
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10157&landmarkId=913197",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xue, Admirer of Heroes",
+      "description": ""
+    },
+    {
+      "id": "912872",
+      "catalogId": "10157",
+      "position": [
+        -1.0046979978315846,
+        1.1111288629709861
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10157&landmarkId=912872",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xue, Admirer of Heroes",
+      "description": ""
+    },
+    {
+      "id": "914561",
+      "catalogId": "10157",
+      "position": [
+        -1.201248293377546,
+        0.9867762321799631
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10157&landmarkId=914561",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xue, Admirer of Heroes",
+      "description": "Prerequisites:\nAutomatically accepted after defeating Corpse-Eating Xue.\n\nQuest objective:\nFind the 3 story items in Mandate Encampment."
+    },
+    {
+      "id": "913184",
+      "catalogId": "10158",
+      "position": [
+        -1.0622668446931982,
+        0.438838363069493
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10158&landmarkId=913184",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Heart of the Banyan",
+      "description": ""
+    },
+    {
+      "id": "913178",
+      "catalogId": "10158",
+      "position": [
+        -0.9614920069078892,
+        0.7090007964015967
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10158&landmarkId=913178",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Seven-Stars Formation",
+      "description": "Prerequisites:\n\nObjectives:"
+    },
+    {
+      "id": "913990",
+      "catalogId": "10159",
+      "position": [
+        -1.0743706254205279,
+        0.4320630850758391
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10159&landmarkId=913990",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Stone Hand Iron Fever; Iron Fiend, the Young Mistress's Guardian",
+      "description": "Inside the Great Banyan Tree.\n\nReward:\n\nCombat tips:"
+    },
+    {
+      "id": "913168",
+      "catalogId": "10159",
+      "position": [
+        -0.7184661785518358,
+        0.8021418092405402
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/af2b26e3872afba569235160b0b300dc2c41bb7c1fd3cc07c238fdd35a150d4a.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10159&landmarkId=913168",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Red, the Mysterious Swordswoman",
+      "description": "Warning: Defeating Red, the Mysterious Swordswoman on her own will make you miss a Memory Flower and an accessory.\n\nYou can escape along the chain during the fight. Continue until you fight the Chief Disciple of the Seven-Stars Formation; she will appear again then. Defeat them at that point to avoid missing these items."
+    },
+    {
+      "id": "913171",
+      "catalogId": "10159",
+      "position": [
+        -0.7279240953822352,
+        0.9282873625611817
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10159&landmarkId=913171",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Red, the Mysterious Swordswoman",
+      "description": "After completing Daughter of the Demonic Sect, Red, the Mysterious Swordswoman joins the fight in phase 2 of the battle with the Chief Disciple of the Seven-Stars Formation.\n\nReward:\n\nCombat tips:"
+    },
+    {
+      "id": "913175",
+      "catalogId": "10159",
+      "position": [
+        -0.7720476342337292,
+        0.8154604899446927
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/126324513ed7b661c228f51181d4981577e246bcd22c2dad98f23122b608edb8.jpg",
+        "/assets/images/e08bc7503386122da94114e2b9aeda4d4d542f14cf88a0560c82512aea5a5fa3.jpg",
+        "/assets/images/f4702093e3a7c83e18bd3aaeb16145a752b0d50ac1ca3e81a06aeda35e43ee56.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10159&landmarkId=913175",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Wan Jun, the Coppermaul",
+      "description": "Location:\nUse the Dread Axe to break open the blocked passage entrance beside the Beneath the Watchtower bell. Enter the area inside to trigger the boss fight.\n\nStrategy:\nThis is a low-difficulty boss. Take advantage of the recovery periods when he is incapacitated after using his skills.\n\nWhen the boss charges with his hammer, face him and dodge just before he hits you. After 2-3 consecutive charges, he enters an incapacitated recovery state.\n\nAfter swinging his hammer in a circle, he also becomes incapacitated briefly."
+    },
+    {
+      "id": "913172",
+      "catalogId": "10159",
+      "position": [
+        -0.7382603967320449,
+        0.9294565348608644
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/39689cdbea0ab1193f4628f05f978fc4332a2a57b4175a35a31ee6a1c213c4b7.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10159&landmarkId=913172",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Chief Disciple of the Seven-Stars Formation",
+      "description": "Warning: If you previously defeated Red, the Mysterious Swordswoman on her own, you will miss a Memory Flower and an accessory, but she will not appear in phase 2.\n\nStrategy:\nThis fight has 2 phases. In phase 1, you face several ordinary enemies alongside the Chief Disciple of the Seven-Stars Formation himself.\n\nPhase 1:\nKeep watching the blue Chief Disciple's movements throughout the fight. Dodge the instant a red light flashes, or you will be killed in one hit.\n\nIgnore the Chief Disciple and keep attacking the other enemies around him. This forces him to spend his own health healing them. Once he has drained most of his own health, finish him off.\n\nPhase 2:\nIf you did not kill the swordswoman earlier, she joins this phase to help the Chief Disciple, at around 2/3 of the boss's health.\n\nThe Chief Disciple's red-flash attack has very long reach. As soon as you see him move away, prepare to dodge. Otherwise, the boss is not particularly difficult.\n\nMixed doubles:\nRed, the Mysterious Swordswoman has relatively little health and is not very aggressive. She uses her own health to heal the Chief Disciple, but killing her enrages him.\n\nYou can therefore reduce the Chief Disciple to about 1/3 health before killing the swordswoman. This keeps his enraged period from lasting too long and reducing your margin for error.\n\nThe Chief Disciple also uses a Waterfowl Dance flurry. Block it carefully; he is briefly incapacitated for about 5 seconds after it ends."
+    },
+    {
+      "id": "913167",
+      "catalogId": "10159",
+      "position": [
+        -1.2012768255544017,
+        0.9665751359282759
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/501266c0b2ba4591104eeb66b9f84c722b9ea9b578f2f2e4842e6325a8e284cb.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10159&landmarkId=913167",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Corpse-Eating Xue",
+      "description": "Strategy:\nSimilar to the Deacons of the Deep in Dark Souls, only attacking the enemy with the flames reduces the boss's health bar.\n\nWhen you defeat the enemy burning with green flames, the flames randomly possess another nearby enemy.\n\nKeep pursuing and attacking the flaming enemy until the boss's health bar is depleted."
+    },
+    {
+      "id": "913166",
+      "catalogId": "10159",
+      "position": [
+        -0.7257651356295014,
+        1.0935907322601082
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8ae7bbed9c9e2ee902bae64a953947dc870f3ff0ae9f841f934d03f307bedd6a.jpg"
+      ],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10159&landmarkId=913166",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Yubi, No. 21 Swordfighter Puppet",
+      "description": "Strategy:\nThis is a puppet-type enemy; equipment relying on effects such as lifesteal and bleed is ineffective.\n\nWhen she presses one sword against the other, prepare to dodge. As she draws the swords apart, a ring of lightning appears on the ground and spreads outward.\n\nBeing hit by this move instantly paralyzes you. She always follows it with a heavy attack and a red- or blue-flash move of her choosing. Handling this move properly makes the boss much easier.\n\nDo not leave the tornadoes she summons on the battlefield to obstruct your view. Approach and block to remove them immediately."
+    },
+    {
+      "id": "913173",
+      "catalogId": "10159",
+      "position": [
+        -0.24507322930827513,
+        0.9989313907172644
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10159&landmarkId=913173",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Wu Lengshuang, the Soft Sword",
+      "description": "Location:\nFrom the Path of the Baishan's Fall bell, enter the nearby cave and follow the path out. Activate The Confinement at the end, then use the iron chain on the right to jump to the platform on the right and trigger this boss fight.\n\nStrategy:\n1. Wu Lengshuang, the Soft Sword has two notable traits. First, she has a chance to evade your attacks, making you vulnerable to counterattacks when using slower weapons.\n\n2. Wu Lengshuang sometimes ignores your defenses and directly removes health. The lifesteal of the Outlaw Warblade and Wolfjaw can restore this forcibly lost health. This is a fight where lifesteal weapons shine.\n\nStart by trading attacks, defenses, clashes, and health with Wu Lengshuang head-on using the Outlaw Warblade. When her guard breaks, first perform a normal attack combo, then switch to Wolfjaw, spin once, and smash 2 times. This can even refill your health completely."
+    },
+    {
+      "id": "913985",
+      "catalogId": "10160",
+      "position": [
+        -1.1416604657110554,
+        0.1401006668917546
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10160&landmarkId=913985",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "starting area",
+      "description": ""
+    },
+    {
+      "id": "914154",
+      "catalogId": "10160",
+      "position": [
+        -1.0701901054181349,
+        0.12691854225072063
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10160&landmarkId=914154",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Everyone Is Welcome to Help Edit Map Markers",
+      "description": "Because of the enormous workload, many details for later map markers are still missing, and we are working overtime to catch up.\nIf you have advice or insights about bosses and the locations of valuable collectibles, please help us edit the markers so that more users can benefit. Thank you very much for your support!"
+    },
+    {
+      "id": "914488",
+      "catalogId": "10161",
+      "position": [
+        -0.7066341883379152,
+        1.0890665370729806
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10161&landmarkId=914488",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Secrets of the Baishan Sect: Quest Failure Warning!",
+      "description": "First go to the right side of the map and meet Bi Taotao."
+    },
+    {
+      "id": "912978",
+      "catalogId": "10140",
+      "position": [
+        -0.6068711255197172,
+        0.9726850359553773
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10140&landmarkId=912978",
+      "name": "Blackstone Fragment",
+      "description": ""
+    },
+    {
+      "id": "913110",
+      "catalogId": "10144",
+      "position": [
+        -0.743791323430969,
+        1.0177713712699075
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10144&landmarkId=913110",
+      "name": "Plain Hairpin",
+      "description": ""
+    },
+    {
+      "id": "913121",
+      "catalogId": "10149",
+      "position": [
+        -0.8400838241768156,
+        0.7060447575321346
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913121",
+      "name": "Concentrated Solvent",
+      "description": ""
+    },
+    {
+      "id": "913097",
+      "catalogId": "10149",
+      "position": [
+        -0.4441061523268104,
+        0.892654801607374
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913097",
+      "name": "Broadplate Metal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913085",
+      "catalogId": "10149",
+      "position": [
+        -0.602112404991658,
+        0.8780383616651019
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913085",
+      "name": "Solvent",
+      "description": ""
+    },
+    {
+      "id": "913065",
+      "catalogId": "10149",
+      "position": [
+        -0.90447938377676,
+        0.7486830626624118
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913065",
+      "name": "Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "913062",
+      "catalogId": "10149",
+      "position": [
+        -0.9698289397503004,
+        0.72278929870418
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913062",
+      "name": "Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "913039",
+      "catalogId": "10149",
+      "position": [
+        -0.951637049374682,
+        0.327104211290686
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=913039",
+      "name": "Forged Metal",
+      "description": ""
+    },
+    {
+      "id": "912881",
+      "catalogId": "10149",
+      "position": [
+        -0.4376308818314101,
+        1.0639956039381946
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=255&landmarkCatalogId=10149&landmarkId=912881",
+      "name": "Solvent",
+      "description": ""
+    }
+  ]
+}

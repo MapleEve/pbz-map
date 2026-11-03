@@ -1,0 +1,4337 @@
+{
+  "name": "pbz map",
+  "snapshotAt": "2026-11-01T10:03:25.290Z",
+  "gameId": "839484",
+  "maps": [
+    {
+      "id": "251",
+      "center": [
+        -0.6898578428422013,
+        0.39407782838529215
+      ],
+      "bounds": [
+        -1.4,
+        0,
+        0,
+        1.4
+      ],
+      "minZoom": 8,
+      "maxZoom": 13,
+      "defaultZoom": 9,
+      "tileSize": 256,
+      "tileUrl": "/assets/tiles/251/{z}/{x}_{y}.webp",
+      "pointsUrl": "/data/maps/251.json",
+      "areas": null,
+      "catalogGroups": [
+        {
+          "id": "group-1",
+          "key": "group-1",
+          "orderIndex": 1,
+          "catalogs": [
+            {
+              "id": "9907",
+              "key": "catalog-9907",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08759193ea75990c2c9434aadf6734ce601ba19ecc5ae9efefad4a44ad1bd829.png",
+              "iconSelectedUrl": "/assets/icons/5296301f22458274a604bf1f98450db6005f00dc0417983c3f8b1cb835fbe946.png",
+              "defaultSelected": true,
+              "count": 23,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bells"
+            },
+            {
+              "id": "9910",
+              "key": "catalog-9910",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "iconSelectedUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "defaultSelected": true,
+              "count": 16,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Required Phantom Edge"
+            },
+            {
+              "id": "9911",
+              "key": "catalog-9911",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "iconSelectedUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Challenge Locations"
+            },
+            {
+              "id": "9912",
+              "key": "catalog-9912",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/6665eb8d4ba18beb71b5fa51423fafff298e3f7a700eb98be2589603d0377233.png",
+              "iconSelectedUrl": "/assets/icons/2b8568c53d27a548427cc6f3a2f3cd81ca1407abfe85ba3244fea431589bbe82.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Hidden Locations"
+            },
+            {
+              "id": "10123",
+              "key": "catalog-10123",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/a840cde92f4945dd8e09a70cca70661fc42b7cbea0d51c3da3f5cf178de764a5.png",
+              "iconSelectedUrl": "/assets/icons/76152dff039939c30c47f3bebec665caefd9f214c0af5886edff49e31c28dd4d.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": null,
+              "name": "locked one-way gate"
+            },
+            {
+              "id": "9913",
+              "key": "catalog-9913",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "iconSelectedUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "locked area"
+            },
+            {
+              "id": "9914",
+              "key": "catalog-9914",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "iconSelectedUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Chapter Transitions"
+            },
+            {
+              "id": "9915",
+              "key": "catalog-9915",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/b3aefc18da6e79a33b2e86f482b0336e6653565beb7afd113277b2f9991893f8.png",
+              "iconSelectedUrl": "/assets/icons/4bc58374f18d9638758966c3a15399957443e94dedd3fccbd7963dce76a73903.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "shortcut"
+            }
+          ],
+          "name": "Locations"
+        },
+        {
+          "id": "group-2",
+          "key": "group-2",
+          "orderIndex": 2,
+          "catalogs": [
+            {
+              "id": "9916",
+              "key": "catalog-9916",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/0b1f1a3ca037a739862f5040d5e79ebee151e262359791435356d98b6284c6fc.png",
+              "iconSelectedUrl": "/assets/icons/d611e1fc6a20ecce13baaf1c689d42d3b075ae7aeaa377b4f3ead10d5bff96a9.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapons"
+            },
+            {
+              "id": "9917",
+              "key": "catalog-9917",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/86d05861516407f4c55057952d96e39144c80f72b54c52dd5fa3e55bc1e6f1cc.png",
+              "iconSelectedUrl": "/assets/icons/08acebdaa987dd5677752af9e7bb64224b9c4a72eb4a47042077738f0ff94194.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edges"
+            },
+            {
+              "id": "9918",
+              "key": "catalog-9918",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/71b8b9d742aadf2781437cd68a25c668b7a134fb0b4625ee09a170932b7f4f0a.png",
+              "iconSelectedUrl": "/assets/icons/3906bab3c587409c793a77f0c7aa3cac56bde47e1f6b5b121f8c49fa2591807a.png",
+              "defaultSelected": true,
+              "count": 10,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessories"
+            },
+            {
+              "id": "9919",
+              "key": "catalog-9919",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/e9a4ab479efc209a980ad99e88613d1f207ae1d4a0485ea222d0a316f1d7ddfb.png",
+              "iconSelectedUrl": "/assets/icons/5ef6572a43a3d3b5c7adf659593250925d206055a2a7a591d48b1da8bbf92815.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine"
+            },
+            {
+              "id": "10277",
+              "key": "catalog-10277",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/4dc7d653186a2b242c7ee5c4140c9b0f5dd128c461058b44d789cb038923a1e2.png",
+              "iconSelectedUrl": "/assets/icons/8ac99d6c53245ae8b25925ca96303f87a2f76fe64f956eb8d7a78cef48946960.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Soul Tempering Materials"
+            }
+          ],
+          "name": "Equipments"
+        },
+        {
+          "id": "group-3",
+          "key": "group-3",
+          "orderIndex": 3,
+          "catalogs": [
+            {
+              "id": "9920",
+              "key": "catalog-9920",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/87f3295cfcb6b5aade35e8555750cdf28641b19bde5636994e558e6891263489.png",
+              "iconSelectedUrl": "/assets/icons/361e4cbeec45f4c0e1ff1f8d50b49e0a7941ebf8e140ae79994dca6e399ca549.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Blackstone Fragment"
+            },
+            {
+              "id": "9921",
+              "key": "catalog-9921",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/80531c5357979d05b33e2f2fb8a4c4980e0f8d38caff8f69c7991652dca69b40.png",
+              "iconSelectedUrl": "/assets/icons/b9502633cc4fe308533b0c511df37554f5ab6e3c7a808b8f36d5db7cedde5190.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Sha-Chi Amber Fragment"
+            },
+            {
+              "id": "9922",
+              "key": "catalog-9922",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "iconSelectedUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Memory Flowers"
+            },
+            {
+              "id": "9923",
+              "key": "catalog-9923",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "iconSelectedUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Key"
+            },
+            {
+              "id": "9924",
+              "key": "catalog-9924",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "iconSelectedUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "defaultSelected": true,
+              "count": 14,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Items"
+            },
+            {
+              "id": "9926",
+              "key": "catalog-9926",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "iconSelectedUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "defaultSelected": true,
+              "count": 42,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Books"
+            }
+          ],
+          "name": "Collectibles"
+        },
+        {
+          "id": "group-4",
+          "key": "group-4",
+          "orderIndex": 4,
+          "catalogs": [
+            {
+              "id": "9927",
+              "key": "catalog-9927",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "iconSelectedUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "defaultSelected": false,
+              "count": 15,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Consumables"
+            },
+            {
+              "id": "9928",
+              "key": "catalog-9928",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "iconSelectedUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "defaultSelected": false,
+              "count": 51,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Remnant Dust"
+            }
+          ],
+          "name": "Items"
+        },
+        {
+          "id": "group-5",
+          "key": "group-5",
+          "orderIndex": 5,
+          "catalogs": [
+            {
+              "id": "9929",
+              "key": "catalog-9929",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "iconSelectedUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "defaultSelected": false,
+              "count": 34,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Weapon Upgrade Materials"
+            },
+            {
+              "id": "9930",
+              "key": "catalog-9930",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "iconSelectedUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "defaultSelected": false,
+              "count": 16,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edge Upgrade Materials"
+            },
+            {
+              "id": "9931",
+              "key": "catalog-9931",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "iconSelectedUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "defaultSelected": false,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessory Materials"
+            },
+            {
+              "id": "9932",
+              "key": "catalog-9932",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "iconSelectedUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "defaultSelected": false,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Materials"
+            }
+          ],
+          "name": "Upgrade Materials"
+        },
+        {
+          "id": "group-6",
+          "key": "group-6",
+          "orderIndex": 6,
+          "catalogs": [
+            {
+              "id": "9933",
+              "key": "catalog-9933",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/86456e20ee9fdc55c251496a71cf99e4efad8f5f93e1b4a8d9f71fe018366a07.png",
+              "iconSelectedUrl": "/assets/icons/5a5655a0f4ba1efd664dac232c4942803d21835d4a8316a0ade575ba3bb7a661.png",
+              "defaultSelected": true,
+              "count": 10,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "story NPCs"
+            },
+            {
+              "id": "9934",
+              "key": "catalog-9934",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "iconSelectedUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Service NPCs"
+            }
+          ],
+          "name": "Characters"
+        },
+        {
+          "id": "group-7",
+          "key": "group-7",
+          "orderIndex": 7,
+          "catalogs": [
+            {
+              "id": "9935",
+              "key": "catalog-9935",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/3c7e1eb0b6749234bb8e5073bc6c2bc7049ae19c10b653f7d1ea2a77d7441b55.png",
+              "iconSelectedUrl": "/assets/icons/c4538683f94982639695ee19788c03fc1d5d70661e49d82cd1456b75cf1dfc18.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Quests"
+            },
+            {
+              "id": "10048",
+              "key": "catalog-10048",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/59d8ab5f5f43a6d3b7efac70dd11f1d6ac48c6b6a1c5fd7bed514857f3943a1d.png",
+              "iconSelectedUrl": "/assets/icons/8f30b546a7ae42a614a6156eba3062089866a3398156cdf5ee94234abb770605.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Side Quests"
+            },
+            {
+              "id": "9936",
+              "key": "catalog-9936",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "iconSelectedUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Wulin Tales"
+            },
+            {
+              "id": "9937",
+              "key": "catalog-9937",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "iconSelectedUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Collectible Quests"
+            }
+          ],
+          "name": "Quests"
+        },
+        {
+          "id": "group-8",
+          "key": "group-8",
+          "orderIndex": 8,
+          "catalogs": [
+            {
+              "id": "9938",
+              "key": "catalog-9938",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/69c5e3f6114d729d953d4500894c4bee585769b43ec0146a43692f2d993b8d72.png",
+              "iconSelectedUrl": "/assets/icons/02977dd03d173a3d4fd6343d9e99558befd4531dcc08c0dc5b6e17ad89e29204.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bosses"
+            }
+          ],
+          "name": "Enemies"
+        },
+        {
+          "id": "group-9",
+          "key": "group-9",
+          "orderIndex": 9,
+          "catalogs": [
+            {
+              "id": "9939",
+              "key": "catalog-9939",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/a0abc19b718835204b118674d6efa64d4d97ca518325e21e982ebcfdc033d3d3.png",
+              "iconSelectedUrl": "/assets/icons/8ecdc39b9e19b863f9a58d53de81054c98e82c3bb304def4ec1b1ffcc5c519e3.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Developer Messages"
+            },
+            {
+              "id": "9940",
+              "key": "catalog-9940",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/425faf3e7d6d16655ba52e69174b089a62ac37612373191f2f77ba4173b9cd8c.png",
+              "iconSelectedUrl": "/assets/icons/445d014b4a7b18d5bd26e2a5293b985b5764d4fbd9bbde7fec0040d55afd897b.png",
+              "defaultSelected": true,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Notes"
+            },
+            {
+              "id": "9941",
+              "key": "catalog-9941",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/ed197303b9f8b1a84829778a03e225b8ec028aa4a0d67f7a8bd2df1c2c4d1b06.png",
+              "iconSelectedUrl": "/assets/icons/83890beefaceed3a8b224a476955f48a98ea9444e922bb4fd6a2a6326a200ef8.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Others"
+            },
+            {
+              "id": "9942",
+              "key": "catalog-9942",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/1c5c6e1439d0d8b8d684c19e0c692717a1eb3c32cc402233e46ad24888b2c792.png",
+              "iconSelectedUrl": "/assets/icons/0a40a664984e8731706a490433ca9737869ff82c5532125c0ad7f6a9563a6fe4.png",
+              "defaultSelected": false,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Guide Notes"
+            }
+          ],
+          "name": "Others"
+        }
+      ],
+      "useNewMapEngine": true,
+      "defaultIconSize": 32,
+      "landmarkNameColor": "#FFFFFF",
+      "landmarkNameBackgroundColor": "#161413",
+      "siblingMapIds": "251,252,253,254,255,256,257,258",
+      "mapName": "Weeping Creek Valley"
+    },
+    {
+      "id": "252",
+      "center": [
+        -0.820552571139558,
+        0.5101784981668658
+      ],
+      "bounds": [
+        -1.4,
+        0,
+        0,
+        1.4
+      ],
+      "minZoom": 8,
+      "maxZoom": 13,
+      "defaultZoom": 10,
+      "tileSize": 256,
+      "tileUrl": "/assets/tiles/252/{z}/{x}_{y}.webp",
+      "pointsUrl": "/data/maps/252.json",
+      "areas": null,
+      "catalogGroups": [
+        {
+          "id": "group-1",
+          "key": "group-1",
+          "orderIndex": 1,
+          "catalogs": [
+            {
+              "id": "10051",
+              "key": "catalog-10051",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08759193ea75990c2c9434aadf6734ce601ba19ecc5ae9efefad4a44ad1bd829.png",
+              "iconSelectedUrl": "/assets/icons/5296301f22458274a604bf1f98450db6005f00dc0417983c3f8b1cb835fbe946.png",
+              "defaultSelected": true,
+              "count": 19,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bells"
+            },
+            {
+              "id": "10053",
+              "key": "catalog-10053",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/a840cde92f4945dd8e09a70cca70661fc42b7cbea0d51c3da3f5cf178de764a5.png",
+              "iconSelectedUrl": "/assets/icons/76152dff039939c30c47f3bebec665caefd9f214c0af5886edff49e31c28dd4d.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": false,
+              "name": "locked one-way gate"
+            },
+            {
+              "id": "10052",
+              "key": "catalog-10052",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "iconSelectedUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Required Phantom Edge"
+            },
+            {
+              "id": "10054",
+              "key": "catalog-10054",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "iconSelectedUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Challenge Locations"
+            },
+            {
+              "id": "10055",
+              "key": "catalog-10055",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/ed7ac6794bc5b24f7df3af11d2398d9706bffd2f2304ad026be3c20ed3476a15.png",
+              "iconSelectedUrl": "/assets/icons/9a45db04bfecfa33add7bf4b0508747f12ebe58fa67421ea5c31d5f047e38074.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Hidden Locations"
+            },
+            {
+              "id": "10056",
+              "key": "catalog-10056",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "iconSelectedUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "locked area"
+            },
+            {
+              "id": "10057",
+              "key": "catalog-10057",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "iconSelectedUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Chapter Transitions"
+            },
+            {
+              "id": "10058",
+              "key": "catalog-10058",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/b3aefc18da6e79a33b2e86f482b0336e6653565beb7afd113277b2f9991893f8.png",
+              "iconSelectedUrl": "/assets/icons/4bc58374f18d9638758966c3a15399957443e94dedd3fccbd7963dce76a73903.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "shortcut"
+            }
+          ],
+          "name": "Locations"
+        },
+        {
+          "id": "group-2",
+          "key": "group-2",
+          "orderIndex": 2,
+          "catalogs": [
+            {
+              "id": "10059",
+              "key": "catalog-10059",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/9f37096e7550deb341bf45cccc7ea808bfb5480dc901edfbc870da46e1aac05c.png",
+              "iconSelectedUrl": "/assets/icons/50a29d8161fde6cfe1ef907e282a4b92d782fc9c5277a5207471989c6be55a6b.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapons"
+            },
+            {
+              "id": "10060",
+              "key": "catalog-10060",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/86d05861516407f4c55057952d96e39144c80f72b54c52dd5fa3e55bc1e6f1cc.png",
+              "iconSelectedUrl": "/assets/icons/08acebdaa987dd5677752af9e7bb64224b9c4a72eb4a47042077738f0ff94194.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edges"
+            },
+            {
+              "id": "10061",
+              "key": "catalog-10061",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/71b8b9d742aadf2781437cd68a25c668b7a134fb0b4625ee09a170932b7f4f0a.png",
+              "iconSelectedUrl": "/assets/icons/3906bab3c587409c793a77f0c7aa3cac56bde47e1f6b5b121f8c49fa2591807a.png",
+              "defaultSelected": true,
+              "count": 14,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessories"
+            },
+            {
+              "id": "10062",
+              "key": "catalog-10062",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/e9a4ab479efc209a980ad99e88613d1f207ae1d4a0485ea222d0a316f1d7ddfb.png",
+              "iconSelectedUrl": "/assets/icons/5ef6572a43a3d3b5c7adf659593250925d206055a2a7a591d48b1da8bbf92815.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine"
+            },
+            {
+              "id": "10278",
+              "key": "catalog-10278",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/2463221df16dbb12da4e54d22caba38bdbc2e75b4a1b13206345a635ba00ba85.png",
+              "iconSelectedUrl": "/assets/icons/f21c3270c5f3932c347659be40194b2204213746b8b0cb83ea6acec8d6b1b660.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Soul Tempering Materials"
+            }
+          ],
+          "name": "Equipment"
+        },
+        {
+          "id": "group-3",
+          "key": "group-3",
+          "orderIndex": 3,
+          "catalogs": [
+            {
+              "id": "10063",
+              "key": "catalog-10063",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/87f3295cfcb6b5aade35e8555750cdf28641b19bde5636994e558e6891263489.png",
+              "iconSelectedUrl": "/assets/icons/361e4cbeec45f4c0e1ff1f8d50b49e0a7941ebf8e140ae79994dca6e399ca549.png",
+              "defaultSelected": true,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Blackstone Fragment"
+            },
+            {
+              "id": "10064",
+              "key": "catalog-10064",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/80531c5357979d05b33e2f2fb8a4c4980e0f8d38caff8f69c7991652dca69b40.png",
+              "iconSelectedUrl": "/assets/icons/b9502633cc4fe308533b0c511df37554f5ab6e3c7a808b8f36d5db7cedde5190.png",
+              "defaultSelected": true,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Sha-Chi Amber Fragment"
+            },
+            {
+              "id": "10065",
+              "key": "catalog-10065",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "iconSelectedUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "defaultSelected": true,
+              "count": 18,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Memory Flower"
+            },
+            {
+              "id": "10066",
+              "key": "catalog-10066",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "iconSelectedUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Key"
+            },
+            {
+              "id": "10067",
+              "key": "catalog-10067",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "iconSelectedUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Items"
+            },
+            {
+              "id": "10068",
+              "key": "catalog-10068",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "iconSelectedUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Treasures"
+            },
+            {
+              "id": "10069",
+              "key": "catalog-10069",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "iconSelectedUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "defaultSelected": true,
+              "count": 18,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Books"
+            }
+          ],
+          "name": "Collectibles"
+        },
+        {
+          "id": "group-4",
+          "key": "group-4",
+          "orderIndex": 4,
+          "catalogs": [
+            {
+              "id": "10070",
+              "key": "catalog-10070",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "iconSelectedUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "defaultSelected": false,
+              "count": 9,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Consumables"
+            },
+            {
+              "id": "10071",
+              "key": "catalog-10071",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "iconSelectedUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "defaultSelected": false,
+              "count": 42,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Remnant Dust"
+            }
+          ],
+          "name": "Items"
+        },
+        {
+          "id": "group-5",
+          "key": "group-5",
+          "orderIndex": 5,
+          "catalogs": [
+            {
+              "id": "10072",
+              "key": "catalog-10072",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "iconSelectedUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "defaultSelected": false,
+              "count": 25,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Weapon Upgrade Materials"
+            },
+            {
+              "id": "10073",
+              "key": "catalog-10073",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "iconSelectedUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "defaultSelected": false,
+              "count": 18,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edge Upgrade Materials"
+            },
+            {
+              "id": "10074",
+              "key": "catalog-10074",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "iconSelectedUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "defaultSelected": false,
+              "count": 9,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessory Materials"
+            },
+            {
+              "id": "10075",
+              "key": "catalog-10075",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "iconSelectedUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "defaultSelected": false,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Materials"
+            }
+          ],
+          "name": "Upgrade Materials"
+        },
+        {
+          "id": "group-6",
+          "key": "group-6",
+          "orderIndex": 6,
+          "catalogs": [
+            {
+              "id": "10076",
+              "key": "catalog-10076",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/86456e20ee9fdc55c251496a71cf99e4efad8f5f93e1b4a8d9f71fe018366a07.png",
+              "iconSelectedUrl": "/assets/icons/5a5655a0f4ba1efd664dac232c4942803d21835d4a8316a0ade575ba3bb7a661.png",
+              "defaultSelected": true,
+              "count": 15,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "story NPCs"
+            },
+            {
+              "id": "10077",
+              "key": "catalog-10077",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "iconSelectedUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Service NPCs"
+            }
+          ],
+          "name": "Characters"
+        },
+        {
+          "id": "group-7",
+          "key": "group-7",
+          "orderIndex": 7,
+          "catalogs": [
+            {
+              "id": "10078",
+              "key": "catalog-10078",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/3c7e1eb0b6749234bb8e5073bc6c2bc7049ae19c10b653f7d1ea2a77d7441b55.png",
+              "iconSelectedUrl": "/assets/icons/c4538683f94982639695ee19788c03fc1d5d70661e49d82cd1456b75cf1dfc18.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Quests"
+            },
+            {
+              "id": "10079",
+              "key": "catalog-10079",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/59d8ab5f5f43a6d3b7efac70dd11f1d6ac48c6b6a1c5fd7bed514857f3943a1d.png",
+              "iconSelectedUrl": "/assets/icons/8f30b546a7ae42a614a6156eba3062089866a3398156cdf5ee94234abb770605.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Side Quests"
+            },
+            {
+              "id": "10080",
+              "key": "catalog-10080",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "iconSelectedUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Wulin Tales"
+            },
+            {
+              "id": "10081",
+              "key": "catalog-10081",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "iconSelectedUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Collectible Quests"
+            }
+          ],
+          "name": "Quests"
+        },
+        {
+          "id": "group-8",
+          "key": "group-8",
+          "orderIndex": 8,
+          "catalogs": [
+            {
+              "id": "10082",
+              "key": "catalog-10082",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/69c5e3f6114d729d953d4500894c4bee585769b43ec0146a43692f2d993b8d72.png",
+              "iconSelectedUrl": "/assets/icons/02977dd03d173a3d4fd6343d9e99558befd4531dcc08c0dc5b6e17ad89e29204.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bosses"
+            }
+          ],
+          "name": "Enemies"
+        },
+        {
+          "id": "group-9",
+          "key": "group-9",
+          "orderIndex": 9,
+          "catalogs": [
+            {
+              "id": "10083",
+              "key": "catalog-10083",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/a0abc19b718835204b118674d6efa64d4d97ca518325e21e982ebcfdc033d3d3.png",
+              "iconSelectedUrl": "/assets/icons/8ecdc39b9e19b863f9a58d53de81054c98e82c3bb304def4ec1b1ffcc5c519e3.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Developer Messages"
+            },
+            {
+              "id": "10084",
+              "key": "catalog-10084",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/425faf3e7d6d16655ba52e69174b089a62ac37612373191f2f77ba4173b9cd8c.png",
+              "iconSelectedUrl": "/assets/icons/445d014b4a7b18d5bd26e2a5293b985b5764d4fbd9bbde7fec0040d55afd897b.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Notes"
+            },
+            {
+              "id": "10085",
+              "key": "catalog-10085",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/ed197303b9f8b1a84829778a03e225b8ec028aa4a0d67f7a8bd2df1c2c4d1b06.png",
+              "iconSelectedUrl": "/assets/icons/83890beefaceed3a8b224a476955f48a98ea9444e922bb4fd6a2a6326a200ef8.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Others"
+            },
+            {
+              "id": "10086",
+              "key": "catalog-10086",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/1c5c6e1439d0d8b8d684c19e0c692717a1eb3c32cc402233e46ad24888b2c792.png",
+              "iconSelectedUrl": "/assets/icons/0a40a664984e8731706a490433ca9737869ff82c5532125c0ad7f6a9563a6fe4.png",
+              "defaultSelected": false,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Guide Notes"
+            }
+          ],
+          "name": "Others"
+        }
+      ],
+      "useNewMapEngine": true,
+      "defaultIconSize": 32,
+      "landmarkNameColor": "#F3FFE1",
+      "landmarkNameBackgroundColor": "#0F0B09",
+      "siblingMapIds": "251,252,253,254,255,256,257,258",
+      "mapName": "Crimson Forest"
+    },
+    {
+      "id": "253",
+      "center": [
+        -0.5842706187644353,
+        0.4512893716765518
+      ],
+      "bounds": [
+        -1.4,
+        0,
+        0,
+        1.4
+      ],
+      "minZoom": 8,
+      "maxZoom": 13,
+      "defaultZoom": 10,
+      "tileSize": 256,
+      "tileUrl": "/assets/tiles/253/{z}/{x}_{y}.webp",
+      "pointsUrl": "/data/maps/253.json",
+      "areas": null,
+      "catalogGroups": [
+        {
+          "id": "group-1",
+          "key": "group-1",
+          "orderIndex": 1,
+          "catalogs": [
+            {
+              "id": "10087",
+              "key": "catalog-10087",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08759193ea75990c2c9434aadf6734ce601ba19ecc5ae9efefad4a44ad1bd829.png",
+              "iconSelectedUrl": "/assets/icons/5296301f22458274a604bf1f98450db6005f00dc0417983c3f8b1cb835fbe946.png",
+              "defaultSelected": true,
+              "count": 23,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bells"
+            },
+            {
+              "id": "10089",
+              "key": "catalog-10089",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/a840cde92f4945dd8e09a70cca70661fc42b7cbea0d51c3da3f5cf178de764a5.png",
+              "iconSelectedUrl": "/assets/icons/76152dff039939c30c47f3bebec665caefd9f214c0af5886edff49e31c28dd4d.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": false,
+              "name": "locked one-way gate"
+            },
+            {
+              "id": "10088",
+              "key": "catalog-10088",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "iconSelectedUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Required Phantom Edge"
+            },
+            {
+              "id": "10090",
+              "key": "catalog-10090",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "iconSelectedUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Challenge Locations"
+            },
+            {
+              "id": "10091",
+              "key": "catalog-10091",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/13ae859a6fbce19b3974ab70013bb6559193a38f286b65c3575167ce5b1620ec.png",
+              "iconSelectedUrl": "/assets/icons/4b12309e12336ea86df3c4dc4ddc96439d6934b15c070e8e757d0fb2b0bf6a84.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Hidden Locations"
+            },
+            {
+              "id": "10092",
+              "key": "catalog-10092",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "iconSelectedUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "locked area"
+            },
+            {
+              "id": "10093",
+              "key": "catalog-10093",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "iconSelectedUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Chapter Transitions"
+            },
+            {
+              "id": "10094",
+              "key": "catalog-10094",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/b3aefc18da6e79a33b2e86f482b0336e6653565beb7afd113277b2f9991893f8.png",
+              "iconSelectedUrl": "/assets/icons/4bc58374f18d9638758966c3a15399957443e94dedd3fccbd7963dce76a73903.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "shortcut"
+            }
+          ],
+          "name": "Locations"
+        },
+        {
+          "id": "group-2",
+          "key": "group-2",
+          "orderIndex": 2,
+          "catalogs": [
+            {
+              "id": "10095",
+              "key": "catalog-10095",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/8b6210724bbf49c2abb6c00c896e555c04c13f31e1944f897eb5470def220a82.png",
+              "iconSelectedUrl": "/assets/icons/859b0994ab8041a8d245b8f336b2f5ac074b97707a54d6f56ab835fa35bb1076.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapons"
+            },
+            {
+              "id": "10096",
+              "key": "catalog-10096",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/86d05861516407f4c55057952d96e39144c80f72b54c52dd5fa3e55bc1e6f1cc.png",
+              "iconSelectedUrl": "/assets/icons/08acebdaa987dd5677752af9e7bb64224b9c4a72eb4a47042077738f0ff94194.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edges"
+            },
+            {
+              "id": "10097",
+              "key": "catalog-10097",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/71b8b9d742aadf2781437cd68a25c668b7a134fb0b4625ee09a170932b7f4f0a.png",
+              "iconSelectedUrl": "/assets/icons/3906bab3c587409c793a77f0c7aa3cac56bde47e1f6b5b121f8c49fa2591807a.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessories"
+            },
+            {
+              "id": "10098",
+              "key": "catalog-10098",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/e9a4ab479efc209a980ad99e88613d1f207ae1d4a0485ea222d0a316f1d7ddfb.png",
+              "iconSelectedUrl": "/assets/icons/5ef6572a43a3d3b5c7adf659593250925d206055a2a7a591d48b1da8bbf92815.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine"
+            },
+            {
+              "id": "10124",
+              "key": "catalog-10124",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/325cd6637c59f67bfef61f19e81fe6d7d5725768e2f8d514d1d1992504158d5d.png",
+              "iconSelectedUrl": "/assets/icons/03cc5bbeb90ac0cd800bef6ea5ee68ad6287c27a97428a757654b8e5eefef786.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Soul Tempering Materials"
+            }
+          ],
+          "name": "Equipment"
+        },
+        {
+          "id": "group-3",
+          "key": "group-3",
+          "orderIndex": 3,
+          "catalogs": [
+            {
+              "id": "10099",
+              "key": "catalog-10099",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/87f3295cfcb6b5aade35e8555750cdf28641b19bde5636994e558e6891263489.png",
+              "iconSelectedUrl": "/assets/icons/361e4cbeec45f4c0e1ff1f8d50b49e0a7941ebf8e140ae79994dca6e399ca549.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Blackstone Fragment"
+            },
+            {
+              "id": "10100",
+              "key": "catalog-10100",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/80531c5357979d05b33e2f2fb8a4c4980e0f8d38caff8f69c7991652dca69b40.png",
+              "iconSelectedUrl": "/assets/icons/b9502633cc4fe308533b0c511df37554f5ab6e3c7a808b8f36d5db7cedde5190.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Sha-Chi Amber Fragment"
+            },
+            {
+              "id": "10101",
+              "key": "catalog-10101",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "iconSelectedUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "defaultSelected": true,
+              "count": 16,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Memory Flower"
+            },
+            {
+              "id": "10102",
+              "key": "catalog-10102",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "iconSelectedUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Key"
+            },
+            {
+              "id": "10103",
+              "key": "catalog-10103",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "iconSelectedUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Items"
+            },
+            {
+              "id": "10104",
+              "key": "catalog-10104",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "iconSelectedUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Treasures"
+            },
+            {
+              "id": "10105",
+              "key": "catalog-10105",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "iconSelectedUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "defaultSelected": true,
+              "count": 23,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Books"
+            }
+          ],
+          "name": "Collectibles"
+        },
+        {
+          "id": "group-4",
+          "key": "group-4",
+          "orderIndex": 4,
+          "catalogs": [
+            {
+              "id": "10106",
+              "key": "catalog-10106",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "iconSelectedUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "defaultSelected": false,
+              "count": 9,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Consumables"
+            },
+            {
+              "id": "10107",
+              "key": "catalog-10107",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "iconSelectedUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "defaultSelected": false,
+              "count": 54,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Remnant Dust"
+            }
+          ],
+          "name": "Items"
+        },
+        {
+          "id": "group-5",
+          "key": "group-5",
+          "orderIndex": 5,
+          "catalogs": [
+            {
+              "id": "10108",
+              "key": "catalog-10108",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "iconSelectedUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "defaultSelected": false,
+              "count": 31,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapon Upgrade Materials"
+            },
+            {
+              "id": "10109",
+              "key": "catalog-10109",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "iconSelectedUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "defaultSelected": false,
+              "count": 25,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edge materials"
+            },
+            {
+              "id": "10110",
+              "key": "catalog-10110",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "iconSelectedUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "defaultSelected": false,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessory Materials"
+            },
+            {
+              "id": "10111",
+              "key": "catalog-10111",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "iconSelectedUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "defaultSelected": false,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Materials"
+            }
+          ],
+          "name": "Upgrade Materials"
+        },
+        {
+          "id": "group-6",
+          "key": "group-6",
+          "orderIndex": 6,
+          "catalogs": [
+            {
+              "id": "10112",
+              "key": "catalog-10112",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/86456e20ee9fdc55c251496a71cf99e4efad8f5f93e1b4a8d9f71fe018366a07.png",
+              "iconSelectedUrl": "/assets/icons/5a5655a0f4ba1efd664dac232c4942803d21835d4a8316a0ade575ba3bb7a661.png",
+              "defaultSelected": true,
+              "count": 14,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "story NPCs"
+            },
+            {
+              "id": "10113",
+              "key": "catalog-10113",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "iconSelectedUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Service NPCs"
+            }
+          ],
+          "name": "Characters"
+        },
+        {
+          "id": "group-7",
+          "key": "group-7",
+          "orderIndex": 7,
+          "catalogs": [
+            {
+              "id": "10114",
+              "key": "catalog-10114",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/3c7e1eb0b6749234bb8e5073bc6c2bc7049ae19c10b653f7d1ea2a77d7441b55.png",
+              "iconSelectedUrl": "/assets/icons/c4538683f94982639695ee19788c03fc1d5d70661e49d82cd1456b75cf1dfc18.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Quests"
+            },
+            {
+              "id": "10115",
+              "key": "catalog-10115",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/59d8ab5f5f43a6d3b7efac70dd11f1d6ac48c6b6a1c5fd7bed514857f3943a1d.png",
+              "iconSelectedUrl": "/assets/icons/8f30b546a7ae42a614a6156eba3062089866a3398156cdf5ee94234abb770605.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Side Quests"
+            },
+            {
+              "id": "10116",
+              "key": "catalog-10116",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "iconSelectedUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Wulin Tales"
+            },
+            {
+              "id": "10117",
+              "key": "catalog-10117",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "iconSelectedUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Collectible Quests"
+            }
+          ],
+          "name": "Quests"
+        },
+        {
+          "id": "group-8",
+          "key": "group-8",
+          "orderIndex": 8,
+          "catalogs": [
+            {
+              "id": "10118",
+              "key": "catalog-10118",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/69c5e3f6114d729d953d4500894c4bee585769b43ec0146a43692f2d993b8d72.png",
+              "iconSelectedUrl": "/assets/icons/02977dd03d173a3d4fd6343d9e99558befd4531dcc08c0dc5b6e17ad89e29204.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bosses"
+            }
+          ],
+          "name": "Enemies"
+        },
+        {
+          "id": "group-9",
+          "key": "group-9",
+          "orderIndex": 9,
+          "catalogs": [
+            {
+              "id": "10119",
+              "key": "catalog-10119",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/a0abc19b718835204b118674d6efa64d4d97ca518325e21e982ebcfdc033d3d3.png",
+              "iconSelectedUrl": "/assets/icons/8ecdc39b9e19b863f9a58d53de81054c98e82c3bb304def4ec1b1ffcc5c519e3.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Developer Messages"
+            },
+            {
+              "id": "10120",
+              "key": "catalog-10120",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/425faf3e7d6d16655ba52e69174b089a62ac37612373191f2f77ba4173b9cd8c.png",
+              "iconSelectedUrl": "/assets/icons/445d014b4a7b18d5bd26e2a5293b985b5764d4fbd9bbde7fec0040d55afd897b.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Notes"
+            },
+            {
+              "id": "10121",
+              "key": "catalog-10121",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/ed197303b9f8b1a84829778a03e225b8ec028aa4a0d67f7a8bd2df1c2c4d1b06.png",
+              "iconSelectedUrl": "/assets/icons/83890beefaceed3a8b224a476955f48a98ea9444e922bb4fd6a2a6326a200ef8.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Others"
+            },
+            {
+              "id": "10122",
+              "key": "catalog-10122",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/1c5c6e1439d0d8b8d684c19e0c692717a1eb3c32cc402233e46ad24888b2c792.png",
+              "iconSelectedUrl": "/assets/icons/0a40a664984e8731706a490433ca9737869ff82c5532125c0ad7f6a9563a6fe4.png",
+              "defaultSelected": false,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Guide Notes"
+            }
+          ],
+          "name": "Others"
+        }
+      ],
+      "useNewMapEngine": true,
+      "defaultIconSize": 32,
+      "landmarkNameColor": "#F3FFE1",
+      "landmarkNameBackgroundColor": "#0F0B09",
+      "siblingMapIds": "251,252,253,254,255,256,257,258",
+      "mapName": "Village of Lu"
+    },
+    {
+      "id": "254",
+      "center": [
+        -0.40520260580467493,
+        0.5487435450189508
+      ],
+      "bounds": [
+        -1.4,
+        0,
+        0,
+        1.4
+      ],
+      "minZoom": 8,
+      "maxZoom": 14,
+      "defaultZoom": 11,
+      "tileSize": 256,
+      "tileUrl": "/assets/tiles/254/{z}/{x}_{y}.webp",
+      "pointsUrl": "/data/maps/254.json",
+      "areas": null,
+      "catalogGroups": [
+        {
+          "id": "group-1",
+          "key": "group-1",
+          "orderIndex": 1,
+          "catalogs": [
+            {
+              "id": "10014",
+              "key": "catalog-10014",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08759193ea75990c2c9434aadf6734ce601ba19ecc5ae9efefad4a44ad1bd829.png",
+              "iconSelectedUrl": "/assets/icons/5296301f22458274a604bf1f98450db6005f00dc0417983c3f8b1cb835fbe946.png",
+              "defaultSelected": true,
+              "count": 43,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bells"
+            },
+            {
+              "id": "10050",
+              "key": "catalog-10050",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/a840cde92f4945dd8e09a70cca70661fc42b7cbea0d51c3da3f5cf178de764a5.png",
+              "iconSelectedUrl": "/assets/icons/76152dff039939c30c47f3bebec665caefd9f214c0af5886edff49e31c28dd4d.png",
+              "defaultSelected": true,
+              "count": 11,
+              "regionType": 0,
+              "showLandmarkName": false,
+              "name": "locked one-way gate"
+            },
+            {
+              "id": "10015",
+              "key": "catalog-10015",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "iconSelectedUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "defaultSelected": true,
+              "count": 15,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Required Phantom Edge"
+            },
+            {
+              "id": "10016",
+              "key": "catalog-10016",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "iconSelectedUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Challenge Locations"
+            },
+            {
+              "id": "10017",
+              "key": "catalog-10017",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/89a848fb2c3fd1fab1b9f5d669246548299c69894740539ab6907b4bd5127047.png",
+              "iconSelectedUrl": "/assets/icons/c56bfa59f59facac152f6f8427ab0f0be07f5cb247f1ae2ee28c52e1e3f054e7.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Hidden Locations"
+            },
+            {
+              "id": "10018",
+              "key": "catalog-10018",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "iconSelectedUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "locked area"
+            },
+            {
+              "id": "10019",
+              "key": "catalog-10019",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "iconSelectedUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Chapter Transitions"
+            },
+            {
+              "id": "10020",
+              "key": "catalog-10020",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/b3aefc18da6e79a33b2e86f482b0336e6653565beb7afd113277b2f9991893f8.png",
+              "iconSelectedUrl": "/assets/icons/4bc58374f18d9638758966c3a15399957443e94dedd3fccbd7963dce76a73903.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "shortcut"
+            }
+          ],
+          "name": "Locations"
+        },
+        {
+          "id": "group-2",
+          "key": "group-2",
+          "orderIndex": 2,
+          "catalogs": [
+            {
+              "id": "10021",
+              "key": "catalog-10021",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/67e48a4033a36900671fe92c9a5a6aa296e98e2d39ad1f646f4e62af50f5f8fb.png",
+              "iconSelectedUrl": "/assets/icons/9fd95b481a18f5ecdd62d2cdcd323cd76fcb1c156397b430b302e632d8b97ac3.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapons"
+            },
+            {
+              "id": "10022",
+              "key": "catalog-10022",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/86d05861516407f4c55057952d96e39144c80f72b54c52dd5fa3e55bc1e6f1cc.png",
+              "iconSelectedUrl": "/assets/icons/08acebdaa987dd5677752af9e7bb64224b9c4a72eb4a47042077738f0ff94194.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edges"
+            },
+            {
+              "id": "10023",
+              "key": "catalog-10023",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/71b8b9d742aadf2781437cd68a25c668b7a134fb0b4625ee09a170932b7f4f0a.png",
+              "iconSelectedUrl": "/assets/icons/3906bab3c587409c793a77f0c7aa3cac56bde47e1f6b5b121f8c49fa2591807a.png",
+              "defaultSelected": true,
+              "count": 25,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessories"
+            },
+            {
+              "id": "10024",
+              "key": "catalog-10024",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/e9a4ab479efc209a980ad99e88613d1f207ae1d4a0485ea222d0a316f1d7ddfb.png",
+              "iconSelectedUrl": "/assets/icons/5ef6572a43a3d3b5c7adf659593250925d206055a2a7a591d48b1da8bbf92815.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Items"
+            },
+            {
+              "id": "10125",
+              "key": "catalog-10125",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/15d7c172dcf87cf5ab7e256b9a82fcd0c7b708007ee8cc2e9739b69c306cc838.png",
+              "iconSelectedUrl": "/assets/icons/9e1bd69132b26e07323ba8e47e3bea8d3e0813e596925a6c51744af8f05638f8.png",
+              "defaultSelected": true,
+              "count": 13,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Soul Tempering Materials"
+            }
+          ],
+          "name": "Equipment"
+        },
+        {
+          "id": "group-3",
+          "key": "group-3",
+          "orderIndex": 3,
+          "catalogs": [
+            {
+              "id": "10025",
+              "key": "catalog-10025",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/87f3295cfcb6b5aade35e8555750cdf28641b19bde5636994e558e6891263489.png",
+              "iconSelectedUrl": "/assets/icons/361e4cbeec45f4c0e1ff1f8d50b49e0a7941ebf8e140ae79994dca6e399ca549.png",
+              "defaultSelected": true,
+              "count": 12,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Blackstone Fragment"
+            },
+            {
+              "id": "10026",
+              "key": "catalog-10026",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/80531c5357979d05b33e2f2fb8a4c4980e0f8d38caff8f69c7991652dca69b40.png",
+              "iconSelectedUrl": "/assets/icons/b9502633cc4fe308533b0c511df37554f5ab6e3c7a808b8f36d5db7cedde5190.png",
+              "defaultSelected": true,
+              "count": 12,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Sha-Chi Amber Fragment"
+            },
+            {
+              "id": "10027",
+              "key": "catalog-10027",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "iconSelectedUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "defaultSelected": true,
+              "count": 34,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Memory Flower"
+            },
+            {
+              "id": "10028",
+              "key": "catalog-10028",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "iconSelectedUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Key"
+            },
+            {
+              "id": "10029",
+              "key": "catalog-10029",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "iconSelectedUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "defaultSelected": true,
+              "count": 9,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Items"
+            },
+            {
+              "id": "10030",
+              "key": "catalog-10030",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "iconSelectedUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Treasures"
+            },
+            {
+              "id": "10031",
+              "key": "catalog-10031",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "iconSelectedUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "defaultSelected": true,
+              "count": 38,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Books"
+            }
+          ],
+          "name": "Collectibles"
+        },
+        {
+          "id": "group-4",
+          "key": "group-4",
+          "orderIndex": 4,
+          "catalogs": [
+            {
+              "id": "10032",
+              "key": "catalog-10032",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "iconSelectedUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "defaultSelected": false,
+              "count": 31,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Consumables"
+            },
+            {
+              "id": "10033",
+              "key": "catalog-10033",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "iconSelectedUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "defaultSelected": false,
+              "count": 83,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Remnant Dust"
+            }
+          ],
+          "name": "Items"
+        },
+        {
+          "id": "group-5",
+          "key": "group-5",
+          "orderIndex": 5,
+          "catalogs": [
+            {
+              "id": "10034",
+              "key": "catalog-10034",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "iconSelectedUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "defaultSelected": false,
+              "count": 114,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Weapon Upgrade Materials"
+            },
+            {
+              "id": "10035",
+              "key": "catalog-10035",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "iconSelectedUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "defaultSelected": false,
+              "count": 78,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edge Upgrade Materials"
+            },
+            {
+              "id": "10036",
+              "key": "catalog-10036",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "iconSelectedUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "defaultSelected": false,
+              "count": 22,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessory Materials"
+            },
+            {
+              "id": "10037",
+              "key": "catalog-10037",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "iconSelectedUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "defaultSelected": false,
+              "count": 14,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Materials"
+            }
+          ],
+          "name": "Upgrade Materials"
+        },
+        {
+          "id": "group-6",
+          "key": "group-6",
+          "orderIndex": 6,
+          "catalogs": [
+            {
+              "id": "10038",
+              "key": "catalog-10038",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/86456e20ee9fdc55c251496a71cf99e4efad8f5f93e1b4a8d9f71fe018366a07.png",
+              "iconSelectedUrl": "/assets/icons/5a5655a0f4ba1efd664dac232c4942803d21835d4a8316a0ade575ba3bb7a661.png",
+              "defaultSelected": true,
+              "count": 15,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "story NPCs"
+            },
+            {
+              "id": "10039",
+              "key": "catalog-10039",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "iconSelectedUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Service NPCs"
+            }
+          ],
+          "name": "Characters"
+        },
+        {
+          "id": "group-7",
+          "key": "group-7",
+          "orderIndex": 7,
+          "catalogs": [
+            {
+              "id": "10040",
+              "key": "catalog-10040",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/3c7e1eb0b6749234bb8e5073bc6c2bc7049ae19c10b653f7d1ea2a77d7441b55.png",
+              "iconSelectedUrl": "/assets/icons/c4538683f94982639695ee19788c03fc1d5d70661e49d82cd1456b75cf1dfc18.png",
+              "defaultSelected": true,
+              "count": 12,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Quests"
+            },
+            {
+              "id": "10049",
+              "key": "catalog-10049",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/59d8ab5f5f43a6d3b7efac70dd11f1d6ac48c6b6a1c5fd7bed514857f3943a1d.png",
+              "iconSelectedUrl": "/assets/icons/8f30b546a7ae42a614a6156eba3062089866a3398156cdf5ee94234abb770605.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Side Stories"
+            },
+            {
+              "id": "10041",
+              "key": "catalog-10041",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "iconSelectedUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "defaultSelected": true,
+              "count": 16,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Wulin Tales"
+            },
+            {
+              "id": "10042",
+              "key": "catalog-10042",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "iconSelectedUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Collectible Quests"
+            }
+          ],
+          "name": "Quests"
+        },
+        {
+          "id": "group-8",
+          "key": "group-8",
+          "orderIndex": 8,
+          "catalogs": [
+            {
+              "id": "10043",
+              "key": "catalog-10043",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/69c5e3f6114d729d953d4500894c4bee585769b43ec0146a43692f2d993b8d72.png",
+              "iconSelectedUrl": "/assets/icons/02977dd03d173a3d4fd6343d9e99558befd4531dcc08c0dc5b6e17ad89e29204.png",
+              "defaultSelected": true,
+              "count": 15,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bosses"
+            }
+          ],
+          "name": "Enemies"
+        },
+        {
+          "id": "group-9",
+          "key": "group-9",
+          "orderIndex": 9,
+          "catalogs": [
+            {
+              "id": "10044",
+              "key": "catalog-10044",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/a0abc19b718835204b118674d6efa64d4d97ca518325e21e982ebcfdc033d3d3.png",
+              "iconSelectedUrl": "/assets/icons/8ecdc39b9e19b863f9a58d53de81054c98e82c3bb304def4ec1b1ffcc5c519e3.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Developer Messages"
+            },
+            {
+              "id": "10045",
+              "key": "catalog-10045",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/425faf3e7d6d16655ba52e69174b089a62ac37612373191f2f77ba4173b9cd8c.png",
+              "iconSelectedUrl": "/assets/icons/445d014b4a7b18d5bd26e2a5293b985b5764d4fbd9bbde7fec0040d55afd897b.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Notes"
+            },
+            {
+              "id": "10046",
+              "key": "catalog-10046",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/ed197303b9f8b1a84829778a03e225b8ec028aa4a0d67f7a8bd2df1c2c4d1b06.png",
+              "iconSelectedUrl": "/assets/icons/83890beefaceed3a8b224a476955f48a98ea9444e922bb4fd6a2a6326a200ef8.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Others"
+            },
+            {
+              "id": "10047",
+              "key": "catalog-10047",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/1c5c6e1439d0d8b8d684c19e0c692717a1eb3c32cc402233e46ad24888b2c792.png",
+              "iconSelectedUrl": "/assets/icons/0a40a664984e8731706a490433ca9737869ff82c5532125c0ad7f6a9563a6fe4.png",
+              "defaultSelected": false,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Guide Notes"
+            }
+          ],
+          "name": "Others"
+        }
+      ],
+      "useNewMapEngine": true,
+      "defaultIconSize": 24,
+      "landmarkNameColor": "#F3FFE1",
+      "landmarkNameBackgroundColor": "#0F0B09",
+      "siblingMapIds": "251,252,253,254,255,256,257,258",
+      "mapName": "Pangzhen"
+    },
+    {
+      "id": "255",
+      "center": [
+        0,
+        0
+      ],
+      "bounds": [
+        -1.4,
+        0,
+        0,
+        1.4
+      ],
+      "minZoom": 8,
+      "maxZoom": 14,
+      "defaultZoom": 10,
+      "tileSize": 256,
+      "tileUrl": "/assets/tiles/255/{z}/{x}_{y}.webp",
+      "pointsUrl": "/data/maps/255.json",
+      "areas": null,
+      "catalogGroups": [
+        {
+          "id": "group-1",
+          "key": "group-1",
+          "orderIndex": 1,
+          "catalogs": [
+            {
+              "id": "10126",
+              "key": "catalog-10126",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08759193ea75990c2c9434aadf6734ce601ba19ecc5ae9efefad4a44ad1bd829.png",
+              "iconSelectedUrl": "/assets/icons/5296301f22458274a604bf1f98450db6005f00dc0417983c3f8b1cb835fbe946.png",
+              "defaultSelected": true,
+              "count": 17,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bells"
+            },
+            {
+              "id": "10130",
+              "key": "catalog-10130",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/a840cde92f4945dd8e09a70cca70661fc42b7cbea0d51c3da3f5cf178de764a5.png",
+              "iconSelectedUrl": "/assets/icons/76152dff039939c30c47f3bebec665caefd9f214c0af5886edff49e31c28dd4d.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": false,
+              "name": "locked one-way gate"
+            },
+            {
+              "id": "10129",
+              "key": "catalog-10129",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "iconSelectedUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "defaultSelected": true,
+              "count": 15,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Required Phantom Edge"
+            },
+            {
+              "id": "10131",
+              "key": "catalog-10131",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "iconSelectedUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Challenge Locations"
+            },
+            {
+              "id": "10132",
+              "key": "catalog-10132",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/ed7ac6794bc5b24f7df3af11d2398d9706bffd2f2304ad026be3c20ed3476a15.png",
+              "iconSelectedUrl": "/assets/icons/9a45db04bfecfa33add7bf4b0508747f12ebe58fa67421ea5c31d5f047e38074.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Hidden Locations"
+            },
+            {
+              "id": "10133",
+              "key": "catalog-10133",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "iconSelectedUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "locked area"
+            },
+            {
+              "id": "10134",
+              "key": "catalog-10134",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "iconSelectedUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Chapter Transitions"
+            },
+            {
+              "id": "10135",
+              "key": "catalog-10135",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/b3aefc18da6e79a33b2e86f482b0336e6653565beb7afd113277b2f9991893f8.png",
+              "iconSelectedUrl": "/assets/icons/4bc58374f18d9638758966c3a15399957443e94dedd3fccbd7963dce76a73903.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "shortcut"
+            }
+          ],
+          "name": "Locations"
+        },
+        {
+          "id": "group-2",
+          "key": "group-2",
+          "orderIndex": 2,
+          "catalogs": [
+            {
+              "id": "10136",
+              "key": "catalog-10136",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/9f37096e7550deb341bf45cccc7ea808bfb5480dc901edfbc870da46e1aac05c.png",
+              "iconSelectedUrl": "/assets/icons/50a29d8161fde6cfe1ef907e282a4b92d782fc9c5277a5207471989c6be55a6b.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapons"
+            },
+            {
+              "id": "10137",
+              "key": "catalog-10137",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/86d05861516407f4c55057952d96e39144c80f72b54c52dd5fa3e55bc1e6f1cc.png",
+              "iconSelectedUrl": "/assets/icons/08acebdaa987dd5677752af9e7bb64224b9c4a72eb4a47042077738f0ff94194.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edges"
+            },
+            {
+              "id": "10138",
+              "key": "catalog-10138",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/71b8b9d742aadf2781437cd68a25c668b7a134fb0b4625ee09a170932b7f4f0a.png",
+              "iconSelectedUrl": "/assets/icons/3906bab3c587409c793a77f0c7aa3cac56bde47e1f6b5b121f8c49fa2591807a.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessories"
+            },
+            {
+              "id": "10139",
+              "key": "catalog-10139",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/e9a4ab479efc209a980ad99e88613d1f207ae1d4a0485ea222d0a316f1d7ddfb.png",
+              "iconSelectedUrl": "/assets/icons/5ef6572a43a3d3b5c7adf659593250925d206055a2a7a591d48b1da8bbf92815.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine"
+            },
+            {
+              "id": "10273",
+              "key": "catalog-10273",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/4d427814e56f69d1f19d032a04cdbd1e2728bb3a3df07db2b1dfe406ba37660a.png",
+              "iconSelectedUrl": "/assets/icons/34b6e752d302ddf60cd8aa1d6d6097b1da44b5a04bfbf53d74bd722406605fe8.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Soul Tempering Materials"
+            }
+          ],
+          "name": "Equipment"
+        },
+        {
+          "id": "group-3",
+          "key": "group-3",
+          "orderIndex": 3,
+          "catalogs": [
+            {
+              "id": "10140",
+              "key": "catalog-10140",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/87f3295cfcb6b5aade35e8555750cdf28641b19bde5636994e558e6891263489.png",
+              "iconSelectedUrl": "/assets/icons/361e4cbeec45f4c0e1ff1f8d50b49e0a7941ebf8e140ae79994dca6e399ca549.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Blackstone Fragment"
+            },
+            {
+              "id": "10141",
+              "key": "catalog-10141",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/80531c5357979d05b33e2f2fb8a4c4980e0f8d38caff8f69c7991652dca69b40.png",
+              "iconSelectedUrl": "/assets/icons/b9502633cc4fe308533b0c511df37554f5ab6e3c7a808b8f36d5db7cedde5190.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Sha-Chi Amber Fragment"
+            },
+            {
+              "id": "10142",
+              "key": "catalog-10142",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "iconSelectedUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "defaultSelected": true,
+              "count": 19,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Memory Flower"
+            },
+            {
+              "id": "10143",
+              "key": "catalog-10143",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "iconSelectedUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Key"
+            },
+            {
+              "id": "10144",
+              "key": "catalog-10144",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "iconSelectedUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Item"
+            },
+            {
+              "id": "10146",
+              "key": "catalog-10146",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "iconSelectedUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "defaultSelected": true,
+              "count": 34,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Books"
+            }
+          ],
+          "name": "Collectibles"
+        },
+        {
+          "id": "group-4",
+          "key": "group-4",
+          "orderIndex": 4,
+          "catalogs": [
+            {
+              "id": "10147",
+              "key": "catalog-10147",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "iconSelectedUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "defaultSelected": false,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Consumables"
+            },
+            {
+              "id": "10148",
+              "key": "catalog-10148",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "iconSelectedUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "defaultSelected": false,
+              "count": 32,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Remnant Dust"
+            }
+          ],
+          "name": "Items"
+        },
+        {
+          "id": "group-5",
+          "key": "group-5",
+          "orderIndex": 5,
+          "catalogs": [
+            {
+              "id": "10149",
+              "key": "catalog-10149",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "iconSelectedUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "defaultSelected": false,
+              "count": 56,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Weapon Upgrade Materials"
+            },
+            {
+              "id": "10150",
+              "key": "catalog-10150",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "iconSelectedUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "defaultSelected": false,
+              "count": 16,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edge Upgrade Materials"
+            },
+            {
+              "id": "10151",
+              "key": "catalog-10151",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "iconSelectedUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "defaultSelected": false,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessory Materials"
+            },
+            {
+              "id": "10152",
+              "key": "catalog-10152",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "iconSelectedUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "defaultSelected": false,
+              "count": 9,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Materials"
+            }
+          ],
+          "name": "Upgrade Materials"
+        },
+        {
+          "id": "group-6",
+          "key": "group-6",
+          "orderIndex": 6,
+          "catalogs": [
+            {
+              "id": "10153",
+              "key": "catalog-10153",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/86456e20ee9fdc55c251496a71cf99e4efad8f5f93e1b4a8d9f71fe018366a07.png",
+              "iconSelectedUrl": "/assets/icons/5a5655a0f4ba1efd664dac232c4942803d21835d4a8316a0ade575ba3bb7a661.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "story NPCs"
+            },
+            {
+              "id": "10154",
+              "key": "catalog-10154",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "iconSelectedUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Service NPCs"
+            }
+          ],
+          "name": "NPCs"
+        },
+        {
+          "id": "group-7",
+          "key": "group-7",
+          "orderIndex": 7,
+          "catalogs": [
+            {
+              "id": "10155",
+              "key": "catalog-10155",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/3c7e1eb0b6749234bb8e5073bc6c2bc7049ae19c10b653f7d1ea2a77d7441b55.png",
+              "iconSelectedUrl": "/assets/icons/c4538683f94982639695ee19788c03fc1d5d70661e49d82cd1456b75cf1dfc18.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Chapters"
+            },
+            {
+              "id": "10156",
+              "key": "catalog-10156",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/59d8ab5f5f43a6d3b7efac70dd11f1d6ac48c6b6a1c5fd7bed514857f3943a1d.png",
+              "iconSelectedUrl": "/assets/icons/8f30b546a7ae42a614a6156eba3062089866a3398156cdf5ee94234abb770605.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Side Quests"
+            },
+            {
+              "id": "10157",
+              "key": "catalog-10157",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "iconSelectedUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "defaultSelected": true,
+              "count": 9,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Wulin Tales"
+            },
+            {
+              "id": "10158",
+              "key": "catalog-10158",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "iconSelectedUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Collectible Quests"
+            }
+          ],
+          "name": "Quests"
+        },
+        {
+          "id": "group-8",
+          "key": "group-8",
+          "orderIndex": 8,
+          "catalogs": [
+            {
+              "id": "10159",
+              "key": "catalog-10159",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/69c5e3f6114d729d953d4500894c4bee585769b43ec0146a43692f2d993b8d72.png",
+              "iconSelectedUrl": "/assets/icons/02977dd03d173a3d4fd6343d9e99558befd4531dcc08c0dc5b6e17ad89e29204.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bosses"
+            }
+          ],
+          "name": "Enemies"
+        },
+        {
+          "id": "group-9",
+          "key": "group-9",
+          "orderIndex": 9,
+          "catalogs": [
+            {
+              "id": "10160",
+              "key": "catalog-10160",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/a0abc19b718835204b118674d6efa64d4d97ca518325e21e982ebcfdc033d3d3.png",
+              "iconSelectedUrl": "/assets/icons/8ecdc39b9e19b863f9a58d53de81054c98e82c3bb304def4ec1b1ffcc5c519e3.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Developer Messages"
+            },
+            {
+              "id": "10161",
+              "key": "catalog-10161",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/425faf3e7d6d16655ba52e69174b089a62ac37612373191f2f77ba4173b9cd8c.png",
+              "iconSelectedUrl": "/assets/icons/445d014b4a7b18d5bd26e2a5293b985b5764d4fbd9bbde7fec0040d55afd897b.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Notes"
+            },
+            {
+              "id": "10162",
+              "key": "catalog-10162",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/ed197303b9f8b1a84829778a03e225b8ec028aa4a0d67f7a8bd2df1c2c4d1b06.png",
+              "iconSelectedUrl": "/assets/icons/83890beefaceed3a8b224a476955f48a98ea9444e922bb4fd6a2a6326a200ef8.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Others"
+            },
+            {
+              "id": "10163",
+              "key": "catalog-10163",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/1c5c6e1439d0d8b8d684c19e0c692717a1eb3c32cc402233e46ad24888b2c792.png",
+              "iconSelectedUrl": "/assets/icons/0a40a664984e8731706a490433ca9737869ff82c5532125c0ad7f6a9563a6fe4.png",
+              "defaultSelected": false,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Guide Notes"
+            }
+          ],
+          "name": "Others"
+        }
+      ],
+      "useNewMapEngine": true,
+      "defaultIconSize": 32,
+      "landmarkNameColor": "#F3FFE1",
+      "landmarkNameBackgroundColor": "#0F0B09",
+      "siblingMapIds": "251,252,253,254,255,256,257,258",
+      "maxNativeZoom": 13,
+      "mapName": "Mandate Encampment"
+    },
+    {
+      "id": "256",
+      "center": [
+        0,
+        0
+      ],
+      "bounds": [
+        -1.4,
+        0,
+        0,
+        1.4
+      ],
+      "minZoom": 8,
+      "maxZoom": 14,
+      "defaultZoom": 10,
+      "tileSize": 256,
+      "tileUrl": "/assets/tiles/256/{z}/{x}_{y}.webp",
+      "pointsUrl": "/data/maps/256.json",
+      "areas": null,
+      "catalogGroups": [
+        {
+          "id": "group-1",
+          "key": "group-1",
+          "orderIndex": 1,
+          "catalogs": [
+            {
+              "id": "10165",
+              "key": "catalog-10165",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08759193ea75990c2c9434aadf6734ce601ba19ecc5ae9efefad4a44ad1bd829.png",
+              "iconSelectedUrl": "/assets/icons/5296301f22458274a604bf1f98450db6005f00dc0417983c3f8b1cb835fbe946.png",
+              "defaultSelected": true,
+              "count": 31,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bells"
+            },
+            {
+              "id": "10166",
+              "key": "catalog-10166",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/a840cde92f4945dd8e09a70cca70661fc42b7cbea0d51c3da3f5cf178de764a5.png",
+              "iconSelectedUrl": "/assets/icons/76152dff039939c30c47f3bebec665caefd9f214c0af5886edff49e31c28dd4d.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": false,
+              "name": "locked one-way gate"
+            },
+            {
+              "id": "10167",
+              "key": "catalog-10167",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "iconSelectedUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "defaultSelected": true,
+              "count": 22,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Required Phantom Edge"
+            },
+            {
+              "id": "10168",
+              "key": "catalog-10168",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "iconSelectedUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Challenge Locations"
+            },
+            {
+              "id": "10169",
+              "key": "catalog-10169",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/ed7ac6794bc5b24f7df3af11d2398d9706bffd2f2304ad026be3c20ed3476a15.png",
+              "iconSelectedUrl": "/assets/icons/9a45db04bfecfa33add7bf4b0508747f12ebe58fa67421ea5c31d5f047e38074.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Hidden Locations"
+            },
+            {
+              "id": "10170",
+              "key": "catalog-10170",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "iconSelectedUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "locked area"
+            },
+            {
+              "id": "10171",
+              "key": "catalog-10171",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "iconSelectedUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Chapter Transitions"
+            },
+            {
+              "id": "10172",
+              "key": "catalog-10172",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/b3aefc18da6e79a33b2e86f482b0336e6653565beb7afd113277b2f9991893f8.png",
+              "iconSelectedUrl": "/assets/icons/4bc58374f18d9638758966c3a15399957443e94dedd3fccbd7963dce76a73903.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "shortcut"
+            }
+          ],
+          "name": "Locations"
+        },
+        {
+          "id": "group-2",
+          "key": "group-2",
+          "orderIndex": 2,
+          "catalogs": [
+            {
+              "id": "10173",
+              "key": "catalog-10173",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/9f37096e7550deb341bf45cccc7ea808bfb5480dc901edfbc870da46e1aac05c.png",
+              "iconSelectedUrl": "/assets/icons/50a29d8161fde6cfe1ef907e282a4b92d782fc9c5277a5207471989c6be55a6b.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapons"
+            },
+            {
+              "id": "10174",
+              "key": "catalog-10174",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/86d05861516407f4c55057952d96e39144c80f72b54c52dd5fa3e55bc1e6f1cc.png",
+              "iconSelectedUrl": "/assets/icons/08acebdaa987dd5677752af9e7bb64224b9c4a72eb4a47042077738f0ff94194.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edges"
+            },
+            {
+              "id": "10175",
+              "key": "catalog-10175",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/71b8b9d742aadf2781437cd68a25c668b7a134fb0b4625ee09a170932b7f4f0a.png",
+              "iconSelectedUrl": "/assets/icons/3906bab3c587409c793a77f0c7aa3cac56bde47e1f6b5b121f8c49fa2591807a.png",
+              "defaultSelected": true,
+              "count": 10,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessories"
+            },
+            {
+              "id": "10176",
+              "key": "catalog-10176",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/e9a4ab479efc209a980ad99e88613d1f207ae1d4a0485ea222d0a316f1d7ddfb.png",
+              "iconSelectedUrl": "/assets/icons/5ef6572a43a3d3b5c7adf659593250925d206055a2a7a591d48b1da8bbf92815.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine"
+            },
+            {
+              "id": "10274",
+              "key": "catalog-10274",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/820707d44e0a962d67c157338f43651cc9f3cbd59197d9d5ec8edc2c82b38fac.png",
+              "iconSelectedUrl": "/assets/icons/6ad1892dfb7aca74e2d25bd61d81544b144a356e0de25f9969a3077e269461b7.png",
+              "defaultSelected": true,
+              "count": 16,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Soul Tempering Materials"
+            }
+          ],
+          "name": "Equipment"
+        },
+        {
+          "id": "group-3",
+          "key": "group-3",
+          "orderIndex": 3,
+          "catalogs": [
+            {
+              "id": "10177",
+              "key": "catalog-10177",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/87f3295cfcb6b5aade35e8555750cdf28641b19bde5636994e558e6891263489.png",
+              "iconSelectedUrl": "/assets/icons/361e4cbeec45f4c0e1ff1f8d50b49e0a7941ebf8e140ae79994dca6e399ca549.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Blackstone Fragment"
+            },
+            {
+              "id": "10178",
+              "key": "catalog-10178",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/80531c5357979d05b33e2f2fb8a4c4980e0f8d38caff8f69c7991652dca69b40.png",
+              "iconSelectedUrl": "/assets/icons/b9502633cc4fe308533b0c511df37554f5ab6e3c7a808b8f36d5db7cedde5190.png",
+              "defaultSelected": true,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Sha-Chi Amber Fragment"
+            },
+            {
+              "id": "10179",
+              "key": "catalog-10179",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "iconSelectedUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "defaultSelected": true,
+              "count": 33,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Memory Flower"
+            },
+            {
+              "id": "10180",
+              "key": "catalog-10180",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "iconSelectedUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Key"
+            },
+            {
+              "id": "10181",
+              "key": "catalog-10181",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "iconSelectedUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Items"
+            },
+            {
+              "id": "10182",
+              "key": "catalog-10182",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "iconSelectedUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Treasures"
+            },
+            {
+              "id": "10183",
+              "key": "catalog-10183",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "iconSelectedUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "defaultSelected": true,
+              "count": 24,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Books"
+            }
+          ],
+          "name": "Collectibles"
+        },
+        {
+          "id": "group-4",
+          "key": "group-4",
+          "orderIndex": 4,
+          "catalogs": [
+            {
+              "id": "10184",
+              "key": "catalog-10184",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "iconSelectedUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "defaultSelected": false,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Consumables"
+            },
+            {
+              "id": "10185",
+              "key": "catalog-10185",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "iconSelectedUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "defaultSelected": false,
+              "count": 84,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Remnant Dust"
+            }
+          ],
+          "name": "Items"
+        },
+        {
+          "id": "group-5",
+          "key": "group-5",
+          "orderIndex": 5,
+          "catalogs": [
+            {
+              "id": "10186",
+              "key": "catalog-10186",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "iconSelectedUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "defaultSelected": false,
+              "count": 59,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapon Upgrade Materials"
+            },
+            {
+              "id": "10187",
+              "key": "catalog-10187",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "iconSelectedUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "defaultSelected": false,
+              "count": 30,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edge Upgrade Materials"
+            },
+            {
+              "id": "10188",
+              "key": "catalog-10188",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "iconSelectedUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "defaultSelected": false,
+              "count": 9,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessory Materials"
+            },
+            {
+              "id": "10189",
+              "key": "catalog-10189",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "iconSelectedUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "defaultSelected": false,
+              "count": 27,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Materials"
+            }
+          ],
+          "name": "Upgrade Materials"
+        },
+        {
+          "id": "group-6",
+          "key": "group-6",
+          "orderIndex": 6,
+          "catalogs": [
+            {
+              "id": "10190",
+              "key": "catalog-10190",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/86456e20ee9fdc55c251496a71cf99e4efad8f5f93e1b4a8d9f71fe018366a07.png",
+              "iconSelectedUrl": "/assets/icons/5a5655a0f4ba1efd664dac232c4942803d21835d4a8316a0ade575ba3bb7a661.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Character"
+            },
+            {
+              "id": "10191",
+              "key": "catalog-10191",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "iconSelectedUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Service NPCs"
+            }
+          ],
+          "name": "Characters"
+        },
+        {
+          "id": "group-7",
+          "key": "group-7",
+          "orderIndex": 7,
+          "catalogs": [
+            {
+              "id": "10192",
+              "key": "catalog-10192",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/3c7e1eb0b6749234bb8e5073bc6c2bc7049ae19c10b653f7d1ea2a77d7441b55.png",
+              "iconSelectedUrl": "/assets/icons/c4538683f94982639695ee19788c03fc1d5d70661e49d82cd1456b75cf1dfc18.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Quests"
+            },
+            {
+              "id": "10193",
+              "key": "catalog-10193",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/59d8ab5f5f43a6d3b7efac70dd11f1d6ac48c6b6a1c5fd7bed514857f3943a1d.png",
+              "iconSelectedUrl": "/assets/icons/8f30b546a7ae42a614a6156eba3062089866a3398156cdf5ee94234abb770605.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Side Quests"
+            },
+            {
+              "id": "10194",
+              "key": "catalog-10194",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "iconSelectedUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Wulin Tales"
+            },
+            {
+              "id": "10195",
+              "key": "catalog-10195",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "iconSelectedUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "defaultSelected": true,
+              "count": 11,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Collectible Quests"
+            }
+          ],
+          "name": "Quests"
+        },
+        {
+          "id": "group-8",
+          "key": "group-8",
+          "orderIndex": 8,
+          "catalogs": [
+            {
+              "id": "10196",
+              "key": "catalog-10196",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/69c5e3f6114d729d953d4500894c4bee585769b43ec0146a43692f2d993b8d72.png",
+              "iconSelectedUrl": "/assets/icons/02977dd03d173a3d4fd6343d9e99558befd4531dcc08c0dc5b6e17ad89e29204.png",
+              "defaultSelected": true,
+              "count": 12,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bosses"
+            }
+          ],
+          "name": "Enemies"
+        },
+        {
+          "id": "group-9",
+          "key": "group-9",
+          "orderIndex": 9,
+          "catalogs": [
+            {
+              "id": "10197",
+              "key": "catalog-10197",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/a0abc19b718835204b118674d6efa64d4d97ca518325e21e982ebcfdc033d3d3.png",
+              "iconSelectedUrl": "/assets/icons/8ecdc39b9e19b863f9a58d53de81054c98e82c3bb304def4ec1b1ffcc5c519e3.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Developer Messages"
+            },
+            {
+              "id": "10198",
+              "key": "catalog-10198",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/425faf3e7d6d16655ba52e69174b089a62ac37612373191f2f77ba4173b9cd8c.png",
+              "iconSelectedUrl": "/assets/icons/445d014b4a7b18d5bd26e2a5293b985b5764d4fbd9bbde7fec0040d55afd897b.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Notes"
+            },
+            {
+              "id": "10199",
+              "key": "catalog-10199",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/ed197303b9f8b1a84829778a03e225b8ec028aa4a0d67f7a8bd2df1c2c4d1b06.png",
+              "iconSelectedUrl": "/assets/icons/83890beefaceed3a8b224a476955f48a98ea9444e922bb4fd6a2a6326a200ef8.png",
+              "defaultSelected": false,
+              "count": 21,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Others"
+            },
+            {
+              "id": "10200",
+              "key": "catalog-10200",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/1c5c6e1439d0d8b8d684c19e0c692717a1eb3c32cc402233e46ad24888b2c792.png",
+              "iconSelectedUrl": "/assets/icons/0a40a664984e8731706a490433ca9737869ff82c5532125c0ad7f6a9563a6fe4.png",
+              "defaultSelected": false,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Guide Notes"
+            }
+          ],
+          "name": "Others"
+        }
+      ],
+      "useNewMapEngine": true,
+      "defaultIconSize": 32,
+      "landmarkNameColor": "#F3FFE1",
+      "landmarkNameBackgroundColor": "#0F0B09",
+      "siblingMapIds": "251,252,253,254,255,256,257,258",
+      "maxNativeZoom": 13,
+      "mapName": "Meigu Lake"
+    },
+    {
+      "id": "257",
+      "center": [
+        0,
+        0
+      ],
+      "bounds": [
+        -1.4,
+        0,
+        0,
+        1.4
+      ],
+      "minZoom": 8,
+      "maxZoom": 13,
+      "defaultZoom": 10,
+      "tileSize": 256,
+      "tileUrl": "/assets/tiles/257/{z}/{x}_{y}.webp",
+      "pointsUrl": "/data/maps/257.json",
+      "areas": null,
+      "catalogGroups": [
+        {
+          "id": "group-1",
+          "key": "group-1",
+          "orderIndex": 1,
+          "catalogs": [
+            {
+              "id": "10201",
+              "key": "catalog-10201",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08759193ea75990c2c9434aadf6734ce601ba19ecc5ae9efefad4a44ad1bd829.png",
+              "iconSelectedUrl": "/assets/icons/5296301f22458274a604bf1f98450db6005f00dc0417983c3f8b1cb835fbe946.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bells"
+            },
+            {
+              "id": "10202",
+              "key": "catalog-10202",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/a840cde92f4945dd8e09a70cca70661fc42b7cbea0d51c3da3f5cf178de764a5.png",
+              "iconSelectedUrl": "/assets/icons/76152dff039939c30c47f3bebec665caefd9f214c0af5886edff49e31c28dd4d.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": false,
+              "name": "locked one-way gate"
+            },
+            {
+              "id": "10203",
+              "key": "catalog-10203",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "iconSelectedUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "defaultSelected": true,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Required Phantom Edge"
+            },
+            {
+              "id": "10204",
+              "key": "catalog-10204",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "iconSelectedUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Challenge Locations"
+            },
+            {
+              "id": "10205",
+              "key": "catalog-10205",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/ed7ac6794bc5b24f7df3af11d2398d9706bffd2f2304ad026be3c20ed3476a15.png",
+              "iconSelectedUrl": "/assets/icons/9a45db04bfecfa33add7bf4b0508747f12ebe58fa67421ea5c31d5f047e38074.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Hidden Locations"
+            },
+            {
+              "id": "10206",
+              "key": "catalog-10206",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "iconSelectedUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "locked area"
+            },
+            {
+              "id": "10207",
+              "key": "catalog-10207",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "iconSelectedUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Chapter Transitions"
+            },
+            {
+              "id": "10208",
+              "key": "catalog-10208",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/b3aefc18da6e79a33b2e86f482b0336e6653565beb7afd113277b2f9991893f8.png",
+              "iconSelectedUrl": "/assets/icons/4bc58374f18d9638758966c3a15399957443e94dedd3fccbd7963dce76a73903.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "shortcut"
+            }
+          ],
+          "name": "Locations"
+        },
+        {
+          "id": "group-2",
+          "key": "group-2",
+          "orderIndex": 2,
+          "catalogs": [
+            {
+              "id": "10209",
+              "key": "catalog-10209",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/9f37096e7550deb341bf45cccc7ea808bfb5480dc901edfbc870da46e1aac05c.png",
+              "iconSelectedUrl": "/assets/icons/50a29d8161fde6cfe1ef907e282a4b92d782fc9c5277a5207471989c6be55a6b.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapons"
+            },
+            {
+              "id": "10210",
+              "key": "catalog-10210",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/86d05861516407f4c55057952d96e39144c80f72b54c52dd5fa3e55bc1e6f1cc.png",
+              "iconSelectedUrl": "/assets/icons/08acebdaa987dd5677752af9e7bb64224b9c4a72eb4a47042077738f0ff94194.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edges"
+            },
+            {
+              "id": "10211",
+              "key": "catalog-10211",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/71b8b9d742aadf2781437cd68a25c668b7a134fb0b4625ee09a170932b7f4f0a.png",
+              "iconSelectedUrl": "/assets/icons/3906bab3c587409c793a77f0c7aa3cac56bde47e1f6b5b121f8c49fa2591807a.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessories"
+            },
+            {
+              "id": "10212",
+              "key": "catalog-10212",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/e9a4ab479efc209a980ad99e88613d1f207ae1d4a0485ea222d0a316f1d7ddfb.png",
+              "iconSelectedUrl": "/assets/icons/5ef6572a43a3d3b5c7adf659593250925d206055a2a7a591d48b1da8bbf92815.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Items"
+            },
+            {
+              "id": "10275",
+              "key": "catalog-10275",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/eccf9966781d17a32266dca1d6df4695e1597b63a17f55bb7e669a197f681817.png",
+              "iconSelectedUrl": "/assets/icons/637cc38e0ec749fd7cd66fcaa62db6cc1855840bd57af178053c81d4da3ae18b.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Soul Tempering Materials"
+            }
+          ],
+          "name": "Equipment"
+        },
+        {
+          "id": "group-3",
+          "key": "group-3",
+          "orderIndex": 3,
+          "catalogs": [
+            {
+              "id": "10213",
+              "key": "catalog-10213",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/87f3295cfcb6b5aade35e8555750cdf28641b19bde5636994e558e6891263489.png",
+              "iconSelectedUrl": "/assets/icons/361e4cbeec45f4c0e1ff1f8d50b49e0a7941ebf8e140ae79994dca6e399ca549.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Blackstone Fragment"
+            },
+            {
+              "id": "10214",
+              "key": "catalog-10214",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/80531c5357979d05b33e2f2fb8a4c4980e0f8d38caff8f69c7991652dca69b40.png",
+              "iconSelectedUrl": "/assets/icons/b9502633cc4fe308533b0c511df37554f5ab6e3c7a808b8f36d5db7cedde5190.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Sha-Chi Amber Fragment"
+            },
+            {
+              "id": "10215",
+              "key": "catalog-10215",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "iconSelectedUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "defaultSelected": true,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Memory Flower"
+            },
+            {
+              "id": "10216",
+              "key": "catalog-10216",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "iconSelectedUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Key"
+            },
+            {
+              "id": "10217",
+              "key": "catalog-10217",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "iconSelectedUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Items"
+            },
+            {
+              "id": "10218",
+              "key": "catalog-10218",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "iconSelectedUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Treasures"
+            },
+            {
+              "id": "10219",
+              "key": "catalog-10219",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "iconSelectedUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "defaultSelected": true,
+              "count": 19,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Books"
+            }
+          ],
+          "name": "Collectibles"
+        },
+        {
+          "id": "group-4",
+          "key": "group-4",
+          "orderIndex": 4,
+          "catalogs": [
+            {
+              "id": "10220",
+              "key": "catalog-10220",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "iconSelectedUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "defaultSelected": false,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Consumables"
+            },
+            {
+              "id": "10221",
+              "key": "catalog-10221",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "iconSelectedUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "defaultSelected": false,
+              "count": 49,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Remnant Dust"
+            }
+          ],
+          "name": "Items"
+        },
+        {
+          "id": "group-5",
+          "key": "group-5",
+          "orderIndex": 5,
+          "catalogs": [
+            {
+              "id": "10222",
+              "key": "catalog-10222",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "iconSelectedUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "defaultSelected": false,
+              "count": 24,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Weapon Upgrade Materials"
+            },
+            {
+              "id": "10223",
+              "key": "catalog-10223",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "iconSelectedUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "defaultSelected": false,
+              "count": 23,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edge Upgrade Materials"
+            },
+            {
+              "id": "10224",
+              "key": "catalog-10224",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "iconSelectedUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "defaultSelected": false,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessory Materials"
+            },
+            {
+              "id": "10225",
+              "key": "catalog-10225",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "iconSelectedUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "defaultSelected": false,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Materials"
+            }
+          ],
+          "name": "Upgrade Materials"
+        },
+        {
+          "id": "group-6",
+          "key": "group-6",
+          "orderIndex": 6,
+          "catalogs": [
+            {
+              "id": "10226",
+              "key": "catalog-10226",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/86456e20ee9fdc55c251496a71cf99e4efad8f5f93e1b4a8d9f71fe018366a07.png",
+              "iconSelectedUrl": "/assets/icons/5a5655a0f4ba1efd664dac232c4942803d21835d4a8316a0ade575ba3bb7a661.png",
+              "defaultSelected": true,
+              "count": 11,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "story NPCs"
+            },
+            {
+              "id": "10227",
+              "key": "catalog-10227",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "iconSelectedUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Service NPCs"
+            }
+          ],
+          "name": "Characters"
+        },
+        {
+          "id": "group-7",
+          "key": "group-7",
+          "orderIndex": 7,
+          "catalogs": [
+            {
+              "id": "10228",
+              "key": "catalog-10228",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/3c7e1eb0b6749234bb8e5073bc6c2bc7049ae19c10b653f7d1ea2a77d7441b55.png",
+              "iconSelectedUrl": "/assets/icons/c4538683f94982639695ee19788c03fc1d5d70661e49d82cd1456b75cf1dfc18.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Quests"
+            },
+            {
+              "id": "10229",
+              "key": "catalog-10229",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/59d8ab5f5f43a6d3b7efac70dd11f1d6ac48c6b6a1c5fd7bed514857f3943a1d.png",
+              "iconSelectedUrl": "/assets/icons/8f30b546a7ae42a614a6156eba3062089866a3398156cdf5ee94234abb770605.png",
+              "defaultSelected": true,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Side Quests"
+            },
+            {
+              "id": "10230",
+              "key": "catalog-10230",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "iconSelectedUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "defaultSelected": true,
+              "count": 12,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Wulin Tales"
+            },
+            {
+              "id": "10231",
+              "key": "catalog-10231",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "iconSelectedUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Collectible Quests"
+            }
+          ],
+          "name": "Quests"
+        },
+        {
+          "id": "group-8",
+          "key": "group-8",
+          "orderIndex": 8,
+          "catalogs": [
+            {
+              "id": "10232",
+              "key": "catalog-10232",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/69c5e3f6114d729d953d4500894c4bee585769b43ec0146a43692f2d993b8d72.png",
+              "iconSelectedUrl": "/assets/icons/02977dd03d173a3d4fd6343d9e99558befd4531dcc08c0dc5b6e17ad89e29204.png",
+              "defaultSelected": true,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bosses"
+            }
+          ],
+          "name": "Enemies"
+        },
+        {
+          "id": "group-9",
+          "key": "group-9",
+          "orderIndex": 9,
+          "catalogs": [
+            {
+              "id": "10233",
+              "key": "catalog-10233",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/a0abc19b718835204b118674d6efa64d4d97ca518325e21e982ebcfdc033d3d3.png",
+              "iconSelectedUrl": "/assets/icons/8ecdc39b9e19b863f9a58d53de81054c98e82c3bb304def4ec1b1ffcc5c519e3.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Developer Messages"
+            },
+            {
+              "id": "10234",
+              "key": "catalog-10234",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/425faf3e7d6d16655ba52e69174b089a62ac37612373191f2f77ba4173b9cd8c.png",
+              "iconSelectedUrl": "/assets/icons/445d014b4a7b18d5bd26e2a5293b985b5764d4fbd9bbde7fec0040d55afd897b.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Notes"
+            },
+            {
+              "id": "10235",
+              "key": "catalog-10235",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/ed197303b9f8b1a84829778a03e225b8ec028aa4a0d67f7a8bd2df1c2c4d1b06.png",
+              "iconSelectedUrl": "/assets/icons/83890beefaceed3a8b224a476955f48a98ea9444e922bb4fd6a2a6326a200ef8.png",
+              "defaultSelected": false,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Others"
+            },
+            {
+              "id": "10236",
+              "key": "catalog-10236",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/1c5c6e1439d0d8b8d684c19e0c692717a1eb3c32cc402233e46ad24888b2c792.png",
+              "iconSelectedUrl": "/assets/icons/0a40a664984e8731706a490433ca9737869ff82c5532125c0ad7f6a9563a6fe4.png",
+              "defaultSelected": false,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Guide Notes"
+            }
+          ],
+          "name": "Others"
+        }
+      ],
+      "useNewMapEngine": true,
+      "defaultIconSize": 32,
+      "landmarkNameColor": "#F3FFE1",
+      "landmarkNameBackgroundColor": "#0F0B09",
+      "siblingMapIds": "251,252,253,254,255,256,257,258",
+      "mapName": "Mountain of Imprisonment"
+    },
+    {
+      "id": "258",
+      "center": [
+        0,
+        0
+      ],
+      "bounds": [
+        -1.4,
+        0,
+        0,
+        1.4
+      ],
+      "minZoom": 8,
+      "maxZoom": 13,
+      "defaultZoom": 10,
+      "tileSize": 256,
+      "tileUrl": "/assets/tiles/258/{z}/{x}_{y}.webp",
+      "pointsUrl": "/data/maps/258.json",
+      "areas": null,
+      "catalogGroups": [
+        {
+          "id": "group-1",
+          "key": "group-1",
+          "orderIndex": 1,
+          "catalogs": [
+            {
+              "id": "10237",
+              "key": "catalog-10237",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08759193ea75990c2c9434aadf6734ce601ba19ecc5ae9efefad4a44ad1bd829.png",
+              "iconSelectedUrl": "/assets/icons/5296301f22458274a604bf1f98450db6005f00dc0417983c3f8b1cb835fbe946.png",
+              "defaultSelected": true,
+              "count": 8,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bells"
+            },
+            {
+              "id": "10238",
+              "key": "catalog-10238",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/a840cde92f4945dd8e09a70cca70661fc42b7cbea0d51c3da3f5cf178de764a5.png",
+              "iconSelectedUrl": "/assets/icons/76152dff039939c30c47f3bebec665caefd9f214c0af5886edff49e31c28dd4d.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": false,
+              "name": "locked one-way gate"
+            },
+            {
+              "id": "10239",
+              "key": "catalog-10239",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "iconSelectedUrl": "/assets/icons/7f4a7b7c4d52a4cb3e764bb616065a3fb18d63f925d44a5ba7ea8b1975a1e71e.png",
+              "defaultSelected": true,
+              "count": 9,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Required Phantom Edge"
+            },
+            {
+              "id": "10240",
+              "key": "catalog-10240",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "iconSelectedUrl": "/assets/icons/e13477d71cba9d0ffbf9dc41bb6a38dfbfbf613a39216960719aad5052e3420d.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Challenge Locations"
+            },
+            {
+              "id": "10241",
+              "key": "catalog-10241",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/ed7ac6794bc5b24f7df3af11d2398d9706bffd2f2304ad026be3c20ed3476a15.png",
+              "iconSelectedUrl": "/assets/icons/9a45db04bfecfa33add7bf4b0508747f12ebe58fa67421ea5c31d5f047e38074.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Hidden Locations"
+            },
+            {
+              "id": "10242",
+              "key": "catalog-10242",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "iconSelectedUrl": "/assets/icons/23ef8b8fac87d54bc430e21ef0c04e797aa1ac1904262d8e25052ba245febe6b.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "locked area"
+            },
+            {
+              "id": "10243",
+              "key": "catalog-10243",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "iconSelectedUrl": "/assets/icons/2f421011040738597e8670990af5eecc22b64246371e42ec8fe9ba0abc023d58.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Chapter Transitions"
+            },
+            {
+              "id": "10244",
+              "key": "catalog-10244",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/b3aefc18da6e79a33b2e86f482b0336e6653565beb7afd113277b2f9991893f8.png",
+              "iconSelectedUrl": "/assets/icons/4bc58374f18d9638758966c3a15399957443e94dedd3fccbd7963dce76a73903.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "shortcut"
+            }
+          ],
+          "name": "Locations"
+        },
+        {
+          "id": "group-2",
+          "key": "group-2",
+          "orderIndex": 2,
+          "catalogs": [
+            {
+              "id": "10245",
+              "key": "catalog-10245",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/9f37096e7550deb341bf45cccc7ea808bfb5480dc901edfbc870da46e1aac05c.png",
+              "iconSelectedUrl": "/assets/icons/50a29d8161fde6cfe1ef907e282a4b92d782fc9c5277a5207471989c6be55a6b.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Weapons"
+            },
+            {
+              "id": "10246",
+              "key": "catalog-10246",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/86d05861516407f4c55057952d96e39144c80f72b54c52dd5fa3e55bc1e6f1cc.png",
+              "iconSelectedUrl": "/assets/icons/08acebdaa987dd5677752af9e7bb64224b9c4a72eb4a47042077738f0ff94194.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edges"
+            },
+            {
+              "id": "10247",
+              "key": "catalog-10247",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/71b8b9d742aadf2781437cd68a25c668b7a134fb0b4625ee09a170932b7f4f0a.png",
+              "iconSelectedUrl": "/assets/icons/3906bab3c587409c793a77f0c7aa3cac56bde47e1f6b5b121f8c49fa2591807a.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessories"
+            },
+            {
+              "id": "10248",
+              "key": "catalog-10248",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/e9a4ab479efc209a980ad99e88613d1f207ae1d4a0485ea222d0a316f1d7ddfb.png",
+              "iconSelectedUrl": "/assets/icons/5ef6572a43a3d3b5c7adf659593250925d206055a2a7a591d48b1da8bbf92815.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine"
+            },
+            {
+              "id": "10276",
+              "key": "catalog-10276",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/adc0ddc3abe6801e63f2f39d765a8f21be4bac2b04a39090a2492dcc13cbcc79.png",
+              "iconSelectedUrl": "/assets/icons/774a5ee69dc97f1e9664523f33cd9fb94400c8fe551fd8f1c10cb7dd419dca44.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Soul Tempering Materials"
+            }
+          ],
+          "name": "Equipment"
+        },
+        {
+          "id": "group-3",
+          "key": "group-3",
+          "orderIndex": 3,
+          "catalogs": [
+            {
+              "id": "10249",
+              "key": "catalog-10249",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/87f3295cfcb6b5aade35e8555750cdf28641b19bde5636994e558e6891263489.png",
+              "iconSelectedUrl": "/assets/icons/361e4cbeec45f4c0e1ff1f8d50b49e0a7941ebf8e140ae79994dca6e399ca549.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Blackstone Fragment"
+            },
+            {
+              "id": "10250",
+              "key": "catalog-10250",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/80531c5357979d05b33e2f2fb8a4c4980e0f8d38caff8f69c7991652dca69b40.png",
+              "iconSelectedUrl": "/assets/icons/b9502633cc4fe308533b0c511df37554f5ab6e3c7a808b8f36d5db7cedde5190.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Sha-Chi Amber Fragment"
+            },
+            {
+              "id": "10251",
+              "key": "catalog-10251",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "iconSelectedUrl": "/assets/icons/6999e0ee656edebe21189f2422cb263da391551a165669572295962f086b5012.png",
+              "defaultSelected": true,
+              "count": 6,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Memory Flower"
+            },
+            {
+              "id": "10252",
+              "key": "catalog-10252",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "iconSelectedUrl": "/assets/icons/84ab3b121638853ee389c3a902bfe255319eb7aabad4116e64ca371bbc3201cf.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Key"
+            },
+            {
+              "id": "10253",
+              "key": "catalog-10253",
+              "orderIndex": 5,
+              "iconUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "iconSelectedUrl": "/assets/icons/aff2455bd0dbbac7358fe76608f967051cd1c11cc54e10372ca2c7772dda5a7a.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Items"
+            },
+            {
+              "id": "10254",
+              "key": "catalog-10254",
+              "orderIndex": 6,
+              "iconUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "iconSelectedUrl": "/assets/icons/e564f1c54ddf9ffb4750f29b531f119061baa5acb1781e7b021f3e9147f1b36e.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Treasures"
+            },
+            {
+              "id": "10255",
+              "key": "catalog-10255",
+              "orderIndex": 7,
+              "iconUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "iconSelectedUrl": "/assets/icons/3f4207a5b5a0a926fbdfab9bf1131fc58d8dec0f1be26127dcac5e6d7c2c28e9.png",
+              "defaultSelected": true,
+              "count": 1,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Books"
+            }
+          ],
+          "name": "Collectibles"
+        },
+        {
+          "id": "group-4",
+          "key": "group-4",
+          "orderIndex": 4,
+          "catalogs": [
+            {
+              "id": "10256",
+              "key": "catalog-10256",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "iconSelectedUrl": "/assets/icons/08d2b1509c28a190d1e08444aade065eb8c1eafff0a022d023c4ee562481f14f.png",
+              "defaultSelected": false,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Consumables"
+            },
+            {
+              "id": "10257",
+              "key": "catalog-10257",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "iconSelectedUrl": "/assets/icons/46c9cabf695e005254a33a469fb87e5557cea60aa1b25f0eebbc17ae174b3ff9.png",
+              "defaultSelected": false,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Remnant Dust"
+            }
+          ],
+          "name": "Items"
+        },
+        {
+          "id": "group-5",
+          "key": "group-5",
+          "orderIndex": 5,
+          "catalogs": [
+            {
+              "id": "10258",
+              "key": "catalog-10258",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "iconSelectedUrl": "/assets/icons/17f21515e302fcce650ac9289769fadff5717e05c15e2faa5d6f234b89657305.png",
+              "defaultSelected": false,
+              "count": 14,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Weapon Upgrade Materials"
+            },
+            {
+              "id": "10259",
+              "key": "catalog-10259",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "iconSelectedUrl": "/assets/icons/3968bb886be8845f95115b9a80cb40efeb24694a7d97b946be28b37282bddc21.png",
+              "defaultSelected": false,
+              "count": 5,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Phantom Edge Upgrade Materials"
+            },
+            {
+              "id": "10260",
+              "key": "catalog-10260",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "iconSelectedUrl": "/assets/icons/9d4c708b25b2661ecb16f774c317ccef834df20cf83c9bcd435a100d1ccfe4e9.png",
+              "defaultSelected": false,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Accessory Materials"
+            },
+            {
+              "id": "10261",
+              "key": "catalog-10261",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "iconSelectedUrl": "/assets/icons/401d348acad1438b20bc0a07322a59b06f7ef276da8fa2e3b19b1b4677e68271.png",
+              "defaultSelected": false,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Medicine Materials"
+            }
+          ],
+          "name": "Upgrade Materials"
+        },
+        {
+          "id": "group-6",
+          "key": "group-6",
+          "orderIndex": 6,
+          "catalogs": [
+            {
+              "id": "10262",
+              "key": "catalog-10262",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/86456e20ee9fdc55c251496a71cf99e4efad8f5f93e1b4a8d9f71fe018366a07.png",
+              "iconSelectedUrl": "/assets/icons/5a5655a0f4ba1efd664dac232c4942803d21835d4a8316a0ade575ba3bb7a661.png",
+              "defaultSelected": true,
+              "count": 7,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Story Character"
+            },
+            {
+              "id": "10263",
+              "key": "catalog-10263",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "iconSelectedUrl": "/assets/icons/3bd16e6b4cf5b660f9453f75d75bec028a9aa914cb4a0051044b8b80e8017c24.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Service NPCs"
+            }
+          ],
+          "name": "Characters"
+        },
+        {
+          "id": "group-7",
+          "key": "group-7",
+          "orderIndex": 7,
+          "catalogs": [
+            {
+              "id": "10264",
+              "key": "catalog-10264",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/3c7e1eb0b6749234bb8e5073bc6c2bc7049ae19c10b653f7d1ea2a77d7441b55.png",
+              "iconSelectedUrl": "/assets/icons/c4538683f94982639695ee19788c03fc1d5d70661e49d82cd1456b75cf1dfc18.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Main Quests"
+            },
+            {
+              "id": "10265",
+              "key": "catalog-10265",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/59d8ab5f5f43a6d3b7efac70dd11f1d6ac48c6b6a1c5fd7bed514857f3943a1d.png",
+              "iconSelectedUrl": "/assets/icons/8f30b546a7ae42a614a6156eba3062089866a3398156cdf5ee94234abb770605.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Side Quests"
+            },
+            {
+              "id": "10266",
+              "key": "catalog-10266",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "iconSelectedUrl": "/assets/icons/4830c47a4c7bba2fe45a7313fc5ba41a13750ed6fcce02e9abadd78c935ca4d6.png",
+              "defaultSelected": true,
+              "count": 3,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Wulin Tales"
+            },
+            {
+              "id": "10267",
+              "key": "catalog-10267",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "iconSelectedUrl": "/assets/icons/4edf14e077949f7a784e94c6964c504963283fedb9fbab003c8669555d8ef180.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Collectible Quests"
+            }
+          ],
+          "name": "Quests"
+        },
+        {
+          "id": "group-8",
+          "key": "group-8",
+          "orderIndex": 8,
+          "catalogs": [
+            {
+              "id": "10268",
+              "key": "catalog-10268",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/69c5e3f6114d729d953d4500894c4bee585769b43ec0146a43692f2d993b8d72.png",
+              "iconSelectedUrl": "/assets/icons/02977dd03d173a3d4fd6343d9e99558befd4531dcc08c0dc5b6e17ad89e29204.png",
+              "defaultSelected": true,
+              "count": 4,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Bosses"
+            }
+          ],
+          "name": "Enemies"
+        },
+        {
+          "id": "group-9",
+          "key": "group-9",
+          "orderIndex": 9,
+          "catalogs": [
+            {
+              "id": "10269",
+              "key": "catalog-10269",
+              "orderIndex": 1,
+              "iconUrl": "/assets/icons/a0abc19b718835204b118674d6efa64d4d97ca518325e21e982ebcfdc033d3d3.png",
+              "iconSelectedUrl": "/assets/icons/8ecdc39b9e19b863f9a58d53de81054c98e82c3bb304def4ec1b1ffcc5c519e3.png",
+              "defaultSelected": true,
+              "count": 2,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Developer Messages"
+            },
+            {
+              "id": "10270",
+              "key": "catalog-10270",
+              "orderIndex": 2,
+              "iconUrl": "/assets/icons/425faf3e7d6d16655ba52e69174b089a62ac37612373191f2f77ba4173b9cd8c.png",
+              "iconSelectedUrl": "/assets/icons/445d014b4a7b18d5bd26e2a5293b985b5764d4fbd9bbde7fec0040d55afd897b.png",
+              "defaultSelected": true,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Notes"
+            },
+            {
+              "id": "10271",
+              "key": "catalog-10271",
+              "orderIndex": 3,
+              "iconUrl": "/assets/icons/ed197303b9f8b1a84829778a03e225b8ec028aa4a0d67f7a8bd2df1c2c4d1b06.png",
+              "iconSelectedUrl": "/assets/icons/83890beefaceed3a8b224a476955f48a98ea9444e922bb4fd6a2a6326a200ef8.png",
+              "defaultSelected": false,
+              "count": 23,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Others"
+            },
+            {
+              "id": "10272",
+              "key": "catalog-10272",
+              "orderIndex": 4,
+              "iconUrl": "/assets/icons/1c5c6e1439d0d8b8d684c19e0c692717a1eb3c32cc402233e46ad24888b2c792.png",
+              "iconSelectedUrl": "/assets/icons/0a40a664984e8731706a490433ca9737869ff82c5532125c0ad7f6a9563a6fe4.png",
+              "defaultSelected": false,
+              "count": 0,
+              "regionType": 0,
+              "showLandmarkName": true,
+              "name": "Guide Notes"
+            }
+          ],
+          "name": "Others"
+        }
+      ],
+      "useNewMapEngine": true,
+      "defaultIconSize": 32,
+      "landmarkNameColor": "#F3FFE1",
+      "landmarkNameBackgroundColor": "#0F0B09",
+      "siblingMapIds": "251,252,253,254,255,256,257,258",
+      "mapName": "Mount Soulrend"
+    }
+  ]
+}

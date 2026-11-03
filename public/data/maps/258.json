@@ -1,0 +1,1639 @@
+{
+  "mapId": "258",
+  "sourceCount": 109,
+  "landmarks": [
+    {
+      "id": "913998",
+      "catalogId": "10237",
+      "position": [
+        -1.048124936571952,
+        0.48881164386830306
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10237&landmarkId=913998",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Last Mandate Encampment",
+      "description": ""
+    },
+    {
+      "id": "913996",
+      "catalogId": "10237",
+      "position": [
+        -1.2321492799410123,
+        0.7065335320129092
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10237&landmarkId=913996",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Last Chance",
+      "description": ""
+    },
+    {
+      "id": "913995",
+      "catalogId": "10237",
+      "position": [
+        -1.12122460153941,
+        1.0355819496759462
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10237&landmarkId=913995",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Soulrend Cliff",
+      "description": ""
+    },
+    {
+      "id": "913994",
+      "catalogId": "10237",
+      "position": [
+        -1.1719859094854144,
+        1.0880683032544705
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10237&landmarkId=913994",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Fallen Dream",
+      "description": ""
+    },
+    {
+      "id": "913993",
+      "catalogId": "10237",
+      "position": [
+        -1.2441991220287036,
+        0.7301792064583174
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10237&landmarkId=913993",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Giant's Lair",
+      "description": ""
+    },
+    {
+      "id": "913992",
+      "catalogId": "10237",
+      "position": [
+        -0.37662881619053223,
+        0.31417210865013734
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10237&landmarkId=913992",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mountain God Temple",
+      "description": ""
+    },
+    {
+      "id": "913991",
+      "catalogId": "10237",
+      "position": [
+        -1.2237494141098466,
+        0.5900782481356833
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10237&landmarkId=913991",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Frostcliff Cavern",
+      "description": ""
+    },
+    {
+      "id": "913997",
+      "catalogId": "10237",
+      "position": [
+        -0.6752140866810805,
+        0.37843306235729973
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10237&landmarkId=913997",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Path of Silver",
+      "description": ""
+    },
+    {
+      "id": "914007",
+      "catalogId": "10239",
+      "position": [
+        -0.5689169667616625,
+        0.3587752068100674
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10239&landmarkId=914007",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "914006",
+      "catalogId": "10239",
+      "position": [
+        -1.2419744241829846,
+        0.5610970177054703
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10239&landmarkId=914006",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "914005",
+      "catalogId": "10239",
+      "position": [
+        -0.9731167944087531,
+        0.5237032373663171
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10239&landmarkId=914005",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "914004",
+      "catalogId": "10239",
+      "position": [
+        -0.648908078321,
+        0.36829271128913926
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10239&landmarkId=914004",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "914003",
+      "catalogId": "10239",
+      "position": [
+        -1.0949957796078138,
+        0.47563338443694225
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10239&landmarkId=914003",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "914002",
+      "catalogId": "10239",
+      "position": [
+        -1.194823583489523,
+        0.6772483123216777
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10239&landmarkId=914002",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "914001",
+      "catalogId": "10239",
+      "position": [
+        -1.0789089506345988,
+        1.0060362768970446
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10239&landmarkId=914001",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "914000",
+      "catalogId": "10239",
+      "position": [
+        -0.9323127633716979,
+        0.444184936058421
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10239&landmarkId=914000",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "913999",
+      "catalogId": "10239",
+      "position": [
+        -0.8888547352096055,
+        0.5540329752382226
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10239&landmarkId=913999",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hunter's Chain Sickle",
+      "description": ""
+    },
+    {
+      "id": "914008",
+      "catalogId": "10242",
+      "position": [
+        -1.1068123298902321,
+        0.4629753794139643
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10242&landmarkId=914008",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "locked area",
+      "description": ""
+    },
+    {
+      "id": "914084",
+      "catalogId": "10243",
+      "position": [
+        -0.22123400533396875,
+        0.23849159549068938
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10243&landmarkId=914084",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pangzhen",
+      "description": ""
+    },
+    {
+      "id": "914364",
+      "catalogId": "10245",
+      "position": [
+        -1.2130989584932195,
+        1.0978054738651366
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10245&landmarkId=914364",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Aureate",
+      "description": "How to Obtain:\n\nYou can get this as a reward for defeating Zuo Shang."
+    },
+    {
+      "id": "914087",
+      "catalogId": "10245",
+      "position": [
+        -1.1951904456247746,
+        1.0654610432018927
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10245&landmarkId=914087",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Lady's Fan",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914086",
+      "catalogId": "10245",
+      "position": [
+        -1.2286915364824154,
+        0.7135836387506059
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10245&landmarkId=914086",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bonesaw",
+      "description": ""
+    },
+    {
+      "id": "914031",
+      "catalogId": "10276",
+      "position": [
+        -0.38312706260410323,
+        0.3137006777433598
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10276&landmarkId=914031",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Craftsman's Tool Kit",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914542",
+      "catalogId": "10276",
+      "position": [
+        -1.1197421962733642,
+        0.4653872301836799
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10276&landmarkId=914542",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Statue of the Loyal Hero",
+      "description": "How to obtain:\nComplete the \"A Severed Mindseal\" quests at all Sha-Chi Towers, then come to this location to trigger the Ghost-Slayer cutscene. You will receive it automatically."
+    },
+    {
+      "id": "914062",
+      "catalogId": "10276",
+      "position": [
+        -1.2008750515560678,
+        0.7133514022859941
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/22c1c112bdd31e06db380b97e2b89ac9c29951e54f5504d339693caacc548062.jpg"
+      ],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10276&landmarkId=914062",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Baishan Headband",
+      "description": "At the end of Xiaocui's side quest, you can obtain the soul-casting material for the Baishan Stormswords."
+    },
+    {
+      "id": "914057",
+      "catalogId": "10276",
+      "position": [
+        -0.807021756604172,
+        0.4060903722964835
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10276&landmarkId=914057",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Statue of the Loyal Hero",
+      "description": "Follow the Shadow Warden's Mindseal-related questline through to the end."
+    },
+    {
+      "id": "914014",
+      "catalogId": "10251",
+      "position": [
+        -1.2514906785228277,
+        0.5739031061212372
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10251&landmarkId=914014",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of the Monster\n(Petal 2/3 — +7% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "914013",
+      "catalogId": "10251",
+      "position": [
+        -1.259322568122741,
+        0.7357099713287925
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10251&landmarkId=914013",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of the Monster\n(Petal 3/3 — +7% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "914012",
+      "catalogId": "10251",
+      "position": [
+        -1.2292698744083452,
+        0.4770863583403531
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10251&landmarkId=914012",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xuan Li's Memory Flower\n(Petal 5/6 — +10% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "914011",
+      "catalogId": "10251",
+      "position": [
+        -0.3323535668362467,
+        0.2790750144760004
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10251&landmarkId=914011",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower of the Monster\n(Petal 1/3 — +7% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "914010",
+      "catalogId": "10251",
+      "position": [
+        -0.6326320444899522,
+        0.36514025093541075
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10251&landmarkId=914010",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xuan Li's Memory Flower\n(Petal 4/6 — +10% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "914009",
+      "catalogId": "10251",
+      "position": [
+        -1.2400282821419921,
+        0.713368720386422
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10251&landmarkId=914009",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xuan Li's Memory Flower\n(Petal 6/6 — +10% Max HP upon completion)",
+      "description": ""
+    },
+    {
+      "id": "914028",
+      "catalogId": "10255",
+      "position": [
+        -0.3636406810750259,
+        0.3138109862371047
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10255&landmarkId=914028",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Fragments of the Mandate 18",
+      "description": ""
+    },
+    {
+      "id": "914034",
+      "catalogId": "10256",
+      "position": [
+        -0.9908092180768904,
+        0.44276604651023677
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10256&landmarkId=914034",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Reforge Talisman",
+      "description": ""
+    },
+    {
+      "id": "914026",
+      "catalogId": "10256",
+      "position": [
+        -1.2468978477770065,
+        0.5633924642020435
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10256&landmarkId=914026",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Reforge Talisman",
+      "description": ""
+    },
+    {
+      "id": "914045",
+      "catalogId": "10256",
+      "position": [
+        -0.9337129815158391,
+        0.45094062712028626
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10256&landmarkId=914045",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Traversal Talisman",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914015",
+      "catalogId": "10256",
+      "position": [
+        -1.1960136382082283,
+        0.4640551273805304
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10256&landmarkId=914015",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Reforge Talisman",
+      "description": ""
+    },
+    {
+      "id": "914051",
+      "catalogId": "10257",
+      "position": [
+        -1.1913116071289664,
+        0.7028272008326645
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10257&landmarkId=914051",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "914048",
+      "catalogId": "10257",
+      "position": [
+        -1.094238060479256,
+        0.4566119898509068
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10257&landmarkId=914048",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "914037",
+      "catalogId": "10257",
+      "position": [
+        -1.0985178394495847,
+        0.45522260137911236
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10257&landmarkId=914037",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "914035",
+      "catalogId": "10257",
+      "position": [
+        -1.1020498569632764,
+        0.496272142054374
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10257&landmarkId=914035",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "914022",
+      "catalogId": "10257",
+      "position": [
+        -1.0905218962570018,
+        0.4593845353495828
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10257&landmarkId=914022",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "914021",
+      "catalogId": "10257",
+      "position": [
+        -1.0974690729037775,
+        0.47547152437457985
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10257&landmarkId=914021",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "914017",
+      "catalogId": "10257",
+      "position": [
+        -1.1182680891826635,
+        0.5194512825517463
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10257&landmarkId=914017",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "914050",
+      "catalogId": "10258",
+      "position": [
+        -0.5062058158614775,
+        0.33097136789555415
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914050",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "914047",
+      "catalogId": "10258",
+      "position": [
+        -1.2187450722451558,
+        0.6868779435752725
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914047",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": ""
+    },
+    {
+      "id": "914042",
+      "catalogId": "10258",
+      "position": [
+        -1.2330441976830855,
+        0.4318358144237369
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914042",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "914041",
+      "catalogId": "10258",
+      "position": [
+        -1.2550688701474257,
+        0.7357970113749179
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914041",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "914036",
+      "catalogId": "10258",
+      "position": [
+        -1.2279882598653273,
+        0.7308725837686967
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914036",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "914039",
+      "catalogId": "10258",
+      "position": [
+        -0.8198619663495208,
+        0.3981472593920735
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914039",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "914033",
+      "catalogId": "10258",
+      "position": [
+        -0.35772441543252853,
+        0.32682444071385724
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914033",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": ""
+    },
+    {
+      "id": "914032",
+      "catalogId": "10258",
+      "position": [
+        -1.1139217688047438,
+        0.5159504037427374
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914032",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914029",
+      "catalogId": "10258",
+      "position": [
+        -1.1944119908065147,
+        0.6734202194956627
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914029",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": ""
+    },
+    {
+      "id": "914030",
+      "catalogId": "10258",
+      "position": [
+        -1.2484705451592788,
+        0.5698176779127241
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914030",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "914025",
+      "catalogId": "10258",
+      "position": [
+        -1.2576077758874078,
+        0.730606545207868
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914025",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal",
+      "description": ""
+    },
+    {
+      "id": "914024",
+      "catalogId": "10258",
+      "position": [
+        -1.2237530342504215,
+        0.5883584697108498
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914024",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": ""
+    },
+    {
+      "id": "914023",
+      "catalogId": "10258",
+      "position": [
+        -1.1467466292652944,
+        0.722201347215663
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914023",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": ""
+    },
+    {
+      "id": "914019",
+      "catalogId": "10258",
+      "position": [
+        -0.6963465586015616,
+        0.366974403516861
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10258&landmarkId=914019",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": ""
+    },
+    {
+      "id": "914044",
+      "catalogId": "10259",
+      "position": [
+        -1.0713938783157175,
+        0.5332580561289667
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10259&landmarkId=914044",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ying Mechanical Gear",
+      "description": ""
+    },
+    {
+      "id": "914043",
+      "catalogId": "10259",
+      "position": [
+        -1.084107337727147,
+        0.4742108724796444
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10259&landmarkId=914043",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Incense Ash for the Lady",
+      "description": ""
+    },
+    {
+      "id": "914038",
+      "catalogId": "10259",
+      "position": [
+        -0.9734951060532069,
+        0.46241571359792333
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10259&landmarkId=914038",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Otherworldly Copper",
+      "description": ""
+    },
+    {
+      "id": "914027",
+      "catalogId": "10259",
+      "position": [
+        -0.8869605204995423,
+        0.621097240904242
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10259&landmarkId=914027",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Searing Darkfire Charcoal",
+      "description": ""
+    },
+    {
+      "id": "914016",
+      "catalogId": "10259",
+      "position": [
+        -1.2697127786053102,
+        0.5087286687510213
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10259&landmarkId=914016",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forbidden Camphor Timber",
+      "description": ""
+    },
+    {
+      "id": "914046",
+      "catalogId": "10260",
+      "position": [
+        -1.120267467730713,
+        0.47838624132929264
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10260&landmarkId=914046",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": ""
+    },
+    {
+      "id": "914020",
+      "catalogId": "10260",
+      "position": [
+        -0.9570136397305475,
+        0.4279018995020146
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10260&landmarkId=914020",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Refined Indigo Crystal",
+      "description": ""
+    },
+    {
+      "id": "914049",
+      "catalogId": "10261",
+      "position": [
+        -1.2134103808721477,
+        0.6514767318679977
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10261&landmarkId=914049",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": ""
+    },
+    {
+      "id": "914040",
+      "catalogId": "10261",
+      "position": [
+        -1.10246659675488,
+        0.44996631957470606
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10261&landmarkId=914040",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": ""
+    },
+    {
+      "id": "914018",
+      "catalogId": "10261",
+      "position": [
+        -1.1894445375375255,
+        0.7012727650522942
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10261&landmarkId=914018",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": ""
+    },
+    {
+      "id": "914077",
+      "catalogId": "10262",
+      "position": [
+        -1.1165424775547024,
+        0.49842455002751607
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10262&landmarkId=914077",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Lu Jieyuan",
+      "description": ""
+    },
+    {
+      "id": "914072",
+      "catalogId": "10262",
+      "position": [
+        -1.0956574859488057,
+        0.45695100872717603
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10262&landmarkId=914072",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Lu Jieyuan",
+      "description": ""
+    },
+    {
+      "id": "914064",
+      "catalogId": "10262",
+      "position": [
+        -1.1121754274896318,
+        0.4661140099400755
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10262&landmarkId=914064",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Friendly Shadow Warden",
+      "description": ""
+    },
+    {
+      "id": "914063",
+      "catalogId": "10262",
+      "position": [
+        -1.1727022182543578,
+        1.0841008500824676
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10262&landmarkId=914063",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Leng Tu",
+      "description": ""
+    },
+    {
+      "id": "914055",
+      "catalogId": "10262",
+      "position": [
+        -1.123092742971977,
+        0.5726183878800557
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10262&landmarkId=914055",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mu Xiaokui",
+      "description": ""
+    },
+    {
+      "id": "914085",
+      "catalogId": "10264",
+      "position": [
+        -0.8457465775376818,
+        0.18205905838218123
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10264&landmarkId=914085",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Breaking the Deadlock",
+      "description": ""
+    },
+    {
+      "id": "914081",
+      "catalogId": "10264",
+      "position": [
+        -1.1789249272493691,
+        1.0949227627477285
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10264&landmarkId=914081",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Dragon Jade Throne",
+      "description": ""
+    },
+    {
+      "id": "914083",
+      "catalogId": "10266",
+      "position": [
+        -0.8920670713089862,
+        0.5491391500990812
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10266&landmarkId=914083",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Wulin Tales",
+      "description": ""
+    },
+    {
+      "id": "914082",
+      "catalogId": "10266",
+      "position": [
+        -1.2262624457507911,
+        0.47380194643786355
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10266&landmarkId=914082",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Wulin Tales",
+      "description": ""
+    },
+    {
+      "id": "914080",
+      "catalogId": "10266",
+      "position": [
+        -0.9038884133151441,
+        0.5436312506386212
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10266&landmarkId=914080",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Wulin Tales",
+      "description": ""
+    },
+    {
+      "id": "914128",
+      "catalogId": "10268",
+      "position": [
+        -1.2051397244613895,
+        1.1080282448568113
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10268&landmarkId=914128",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Zuo Shang",
+      "description": "Rewards\n\nBoss Fight Strategy"
+    },
+    {
+      "id": "914075",
+      "catalogId": "10268",
+      "position": [
+        -1.2122761487689218,
+        0.7138353219033579
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10268&landmarkId=914075",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Crusher and the Saw",
+      "description": ""
+    },
+    {
+      "id": "914060",
+      "catalogId": "10268",
+      "position": [
+        -1.1758350224645824,
+        1.0753568754937675
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10268&landmarkId=914060",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Leng Tu, Herald of the Veil",
+      "description": "Rewards\n\nBoss Fight Strategy"
+    },
+    {
+      "id": "914066",
+      "catalogId": "10268",
+      "position": [
+        -1.1944556952273047,
+        1.0761655363790226
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10268&landmarkId=914066",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Meng Hua, the Merciful Lady of the Blossom Veil",
+      "description": "Rewards\n\nBoss Fight Strategy"
+    },
+    {
+      "id": "914133",
+      "catalogId": "10269",
+      "position": [
+        -0.24166133645991295,
+        0.24378163952796683
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10269&landmarkId=914133",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "starting area",
+      "description": ""
+    },
+    {
+      "id": "914157",
+      "catalogId": "10269",
+      "position": [
+        -0.4241384350121393,
+        0.3838975850507893
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10269&landmarkId=914157",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Everyone is welcome to help edit map markers",
+      "description": "Due to the enormous workload, many details for the remaining map markers are missing, and we are working overtime to catch up.\nIf you have insights about the locations of bosses or valuable collectibles, please help us edit the map markers to help more users. Thank you very much for your support!"
+    },
+    {
+      "id": "914125",
+      "catalogId": "10271",
+      "position": [
+        -1.0544939675786793,
+        0.8311466510412245
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914125",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914124",
+      "catalogId": "10271",
+      "position": [
+        -1.0544939675786793,
+        0.8311466510412245
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914124",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914123",
+      "catalogId": "10271",
+      "position": [
+        -1.0840086664417754,
+        0.831254494944707
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914123",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914122",
+      "catalogId": "10271",
+      "position": [
+        -1.147830005526913,
+        0.8100958858545767
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914122",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914121",
+      "catalogId": "10271",
+      "position": [
+        -1.147830005526913,
+        0.8100958858545767
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914121",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914120",
+      "catalogId": "10271",
+      "position": [
+        -1.111603137043602,
+        0.8297547433397046
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914120",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914119",
+      "catalogId": "10271",
+      "position": [
+        -1.0840086664417754,
+        0.831254494944707
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914119",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914118",
+      "catalogId": "10271",
+      "position": [
+        -1.111603137043602,
+        0.8297547433397046
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914118",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914079",
+      "catalogId": "10271",
+      "position": [
+        -1.1865079504322011,
+        1.102347554446289
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914079",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914078",
+      "catalogId": "10271",
+      "position": [
+        -1.1851799904299583,
+        1.1036314796118103
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914078",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914076",
+      "catalogId": "10271",
+      "position": [
+        -1.0657583136551239,
+        0.7886645096789402
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914076",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914074",
+      "catalogId": "10271",
+      "position": [
+        -1.1857980351982462,
+        1.1065373831681247
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914074",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914073",
+      "catalogId": "10271",
+      "position": [
+        -1.1917588985376142,
+        1.1096967059517358
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914073",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914071",
+      "catalogId": "10271",
+      "position": [
+        -1.11865076405644,
+        0.7946720207720739
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914071",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914070",
+      "catalogId": "10271",
+      "position": [
+        -1.0829338435317766,
+        0.8317940105019217
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914070",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914069",
+      "catalogId": "10271",
+      "position": [
+        -1.1886185042018838,
+        1.103094511058128
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914069",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914068",
+      "catalogId": "10271",
+      "position": [
+        -1.0845387574312326,
+        0.8312869291592272
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914068",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914067",
+      "catalogId": "10271",
+      "position": [
+        -0.6701454372856404,
+        0.39100026750025385
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914067",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914061",
+      "catalogId": "10271",
+      "position": [
+        -1.0831128203642777,
+        0.8591075513293681
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914061",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914059",
+      "catalogId": "10271",
+      "position": [
+        -1.18833679980267,
+        1.108925082345899
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914059",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914058",
+      "catalogId": "10271",
+      "position": [
+        -1.1952011223808938,
+        1.1140186287561809
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914058",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914054",
+      "catalogId": "10271",
+      "position": [
+        -1.0503361073995165,
+        0.9951099259754917
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914054",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914053",
+      "catalogId": "10271",
+      "position": [
+        -1.1921575318558837,
+        1.106857263796319
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10271&landmarkId=914053",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "914062",
+      "catalogId": "10262",
+      "position": [
+        -1.203715559115949,
+        0.7141076994996054
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10262&landmarkId=914062",
+      "name": "Lu Jieyuan",
+      "description": ""
+    },
+    {
+      "id": "914057",
+      "catalogId": "10262",
+      "position": [
+        -0.807021756604172,
+        0.4060903722964835
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=258&landmarkCatalogId=10262&landmarkId=914057",
+      "name": "Dying Shadow Warden",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,3330 @@
+{
+  "mapId": "257",
+  "sourceCount": 221,
+  "landmarks": [
+    {
+      "id": "913737",
+      "catalogId": "10201",
+      "position": [
+        -0.8691208417029657,
+        0.5214464753852823
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10201&landmarkId=913737",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hanging Cage Cavern",
+      "description": ""
+    },
+    {
+      "id": "913732",
+      "catalogId": "10201",
+      "position": [
+        -0.33293927803703127,
+        0.2081577514022257
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10201&landmarkId=913732",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Lady's Path",
+      "description": ""
+    },
+    {
+      "id": "913736",
+      "catalogId": "10201",
+      "position": [
+        -0.41968762199277876,
+        0.39868639137458217
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10201&landmarkId=913736",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Iron Butcher's Camp",
+      "description": ""
+    },
+    {
+      "id": "913738",
+      "catalogId": "10201",
+      "position": [
+        -0.7358625247858868,
+        0.6055234236108618
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10201&landmarkId=913738",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Commander's Platform",
+      "description": ""
+    },
+    {
+      "id": "913735",
+      "catalogId": "10201",
+      "position": [
+        -0.9433373826358888,
+        0.9266146158331026
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10201&landmarkId=913735",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Shrine Outer Gate",
+      "description": ""
+    },
+    {
+      "id": "913739",
+      "catalogId": "10201",
+      "position": [
+        -1.02243748979663,
+        1.1405602508257005
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10201&landmarkId=913739",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Lady's Shrine",
+      "description": ""
+    },
+    {
+      "id": "913734",
+      "catalogId": "10201",
+      "position": [
+        -0.8576378363185313,
+        0.6743275988571327
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10201&landmarkId=913734",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Cavern Passage",
+      "description": ""
+    },
+    {
+      "id": "913733",
+      "catalogId": "10201",
+      "position": [
+        -0.9607123232777042,
+        1.2094033058904898
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10201&landmarkId=913733",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Puppet Cell",
+      "description": ""
+    },
+    {
+      "id": "913748",
+      "catalogId": "10202",
+      "position": [
+        -0.6710243560733602,
+        0.5625108110684351
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10202&landmarkId=913748",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "locked one-way gate",
+      "description": "Does not open from this side"
+    },
+    {
+      "id": "913750",
+      "catalogId": "10202",
+      "position": [
+        -0.7649050996613198,
+        0.7520979512983246
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10202&landmarkId=913750",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "locked one-way gate",
+      "description": ""
+    },
+    {
+      "id": "913747",
+      "catalogId": "10202",
+      "position": [
+        -0.9448216430185425,
+        0.9424241055967997
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10202&landmarkId=913747",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "locked one-way gate",
+      "description": "Take the lift up; it is right there."
+    },
+    {
+      "id": "913745",
+      "catalogId": "10203",
+      "position": [
+        -0.6102522203905494,
+        0.5052493661499782
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10203&landmarkId=913745",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flaming Mane",
+      "description": ""
+    },
+    {
+      "id": "913742",
+      "catalogId": "10203",
+      "position": [
+        -0.3833987531392893,
+        0.23026236695478985
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10203&landmarkId=913742",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flying Guillotine",
+      "description": "Required Phantom Edge:"
+    },
+    {
+      "id": "913743",
+      "catalogId": "10203",
+      "position": [
+        -0.8557756205151179,
+        0.7585672999576047
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10203&landmarkId=913743",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flying Guillotine",
+      "description": "Required Phantom Edge:"
+    },
+    {
+      "id": "913744",
+      "catalogId": "10203",
+      "position": [
+        -1.1793917062657044,
+        1.0225064727508197
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10203&landmarkId=913744",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flaming Mane",
+      "description": "Required Phantom Edge:"
+    },
+    {
+      "id": "913746",
+      "catalogId": "10203",
+      "position": [
+        -0.9795577399138722,
+        1.2988338376972308
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10203&landmarkId=913746",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flying Guillotine",
+      "description": "Required Phantom Edge:"
+    },
+    {
+      "id": "913731",
+      "catalogId": "10204",
+      "position": [
+        -1.1077676864142632,
+        1.0274713408363851
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10204&landmarkId=913731",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Human-Faced Banyan",
+      "description": "Location:"
+    },
+    {
+      "id": "913921",
+      "catalogId": "10206",
+      "position": [
+        -0.9470971591836417,
+        0.7836817303017369
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10206&landmarkId=913921",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broken Lift",
+      "description": "Location:\n\nHow to unlock:\n\nMissing Lift Switch"
+    },
+    {
+      "id": "913922",
+      "catalogId": "10206",
+      "position": [
+        -0.8186905902485364,
+        0.8443989479242475
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10206&landmarkId=913922",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Isolated Cage",
+      "description": "Location:\n\nHow to unlock:\n\nDetached Cage Lever"
+    },
+    {
+      "id": "913749",
+      "catalogId": "10206",
+      "position": [
+        -0.9539097721032306,
+        0.9508378914371889
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10206&landmarkId=913749",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Gate to the Shrine",
+      "description": "Location:\n\nHow to unlock:\n\nKey to the Shrine Gate"
+    },
+    {
+      "id": "913924",
+      "catalogId": "10207",
+      "position": [
+        -0.17511393222864058,
+        0.16376193114979287
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10207&landmarkId=913924",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Meigu Lake",
+      "description": ""
+    },
+    {
+      "id": "913947",
+      "catalogId": "10209",
+      "position": [
+        -0.9987139424356997,
+        1.2499495306864645
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10209&landmarkId=913947",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Seamless Death",
+      "description": "Where to Find Seamless Death in Phantom Blade Zero"
+    },
+    {
+      "id": "913757",
+      "catalogId": "10209",
+      "position": [
+        -0.6947704747656474,
+        0.6066251161221174
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10209&landmarkId=913757",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Juggernaut",
+      "description": "Where to Find Juggernaut in Phantom Blade Zero"
+    },
+    {
+      "id": "914412",
+      "catalogId": "10210",
+      "position": [
+        -1.0132332685180927,
+        1.2966864045636584
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10210&landmarkId=914412",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Inanis' Radiant Fan",
+      "description": "How to obtain:\nAfter defeating Huangxing, the Kunlun Renegade, go deeper into The Lady's Shrine and speak to Lord Inanis to complete the quest Whence the Weeping and obtain it."
+    },
+    {
+      "id": "913946",
+      "catalogId": "10210",
+      "position": [
+        -0.9701409547306241,
+        1.3022738721568743
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10210&landmarkId=913946",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flying Guillotine",
+      "description": "Where to Find Flying Guillotine in Phantom Blade Zero"
+    },
+    {
+      "id": "913945",
+      "catalogId": "10210",
+      "position": [
+        -0.9113331414718289,
+        0.7055257642021928
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10210&landmarkId=913945",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ink Cut",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913817",
+      "catalogId": "10211",
+      "position": [
+        -0.31100386801233526,
+        0.1982696860306561
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10211&landmarkId=913817",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Baishan Secret Order",
+      "description": "How to obtain:\n\nEffect:"
+    },
+    {
+      "id": "913778",
+      "catalogId": "10211",
+      "position": [
+        -0.9778940567993857,
+        1.2511652479615805
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10211&landmarkId=913778",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Desperate Stand",
+      "description": "How to obtain:\n\nEffect:"
+    },
+    {
+      "id": "913728",
+      "catalogId": "10211",
+      "position": [
+        -1.034038026709453,
+        1.1963849259238657
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10211&landmarkId=913728",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Rough Radiant Heart",
+      "description": "How to obtain:\n\nEffect:"
+    },
+    {
+      "id": "913729",
+      "catalogId": "10211",
+      "position": [
+        -0.6075823234688187,
+        0.36305143502664805
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10211&landmarkId=913729",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Despair Talisman",
+      "description": "How to obtain:\n\nEffect:"
+    },
+    {
+      "id": "914540",
+      "catalogId": "10275",
+      "position": [
+        -0.437181558705646,
+        0.37919376464829213
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10275&landmarkId=914540",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Iron-Slaughter Mask",
+      "description": "How to obtain:\nDefeat the boss to obtain it."
+    },
+    {
+      "id": "913889",
+      "catalogId": "10275",
+      "position": [
+        -0.36618052564864456,
+        0.24518424378817372
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10275&landmarkId=913889",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Treasure Cauldron Fragment 1",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "914539",
+      "catalogId": "10275",
+      "position": [
+        -0.8470733155066057,
+        0.7669260795173187
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10275&landmarkId=914539",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Treasure Cauldron Fragment 3",
+      "description": "How to obtain:\nAfter defeating Bi Feng, the Giant Saber Commander, return and speak to the NPC to obtain it."
+    },
+    {
+      "id": "913741",
+      "catalogId": "10213",
+      "position": [
+        -0.8493982269480966,
+        0.7478332192201549
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10213&landmarkId=913741",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "Where to Find Blackstone Fragment in Phantom Blade Zero"
+    },
+    {
+      "id": "913868",
+      "catalogId": "10213",
+      "position": [
+        -0.8400983655847369,
+        0.8931381779365921
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10213&landmarkId=913868",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "Where to Find Blackstone Fragment in Phantom Blade Zero"
+    },
+    {
+      "id": "913740",
+      "catalogId": "10213",
+      "position": [
+        -1.080179195965428,
+        1.0313564409823925
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10213&landmarkId=913740",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "Where to Find Blackstone Fragment in Phantom Blade Zero"
+    },
+    {
+      "id": "913886",
+      "catalogId": "10213",
+      "position": [
+        -0.46049837512083514,
+        0.41652441672202656
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10213&landmarkId=913886",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913826",
+      "catalogId": "10214",
+      "position": [
+        -0.6741185369161542,
+        0.9286815196584541
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10214&landmarkId=913826",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "Where to Find Sha-Chi Amber Fragment in Phantom Blade Zero"
+    },
+    {
+      "id": "913860",
+      "catalogId": "10214",
+      "position": [
+        -0.948304557584521,
+        0.9392909712715891
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10214&landmarkId=913860",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "Where to Find Sha-Chi Amber Fragment in Phantom Blade Zero"
+    },
+    {
+      "id": "913730",
+      "catalogId": "10214",
+      "position": [
+        -0.5852344168946217,
+        1.079206494397198
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10214&landmarkId=913730",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913758",
+      "catalogId": "10214",
+      "position": [
+        -0.800877998722143,
+        0.9898360532306185
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10214&landmarkId=913758",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913755",
+      "catalogId": "10215",
+      "position": [
+        -0.9702551255245453,
+        1.2502213353162972
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10215&landmarkId=913755",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower on Huangxing\n(Petal 6/6 — +10% Max HP upon completion)",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913753",
+      "catalogId": "10215",
+      "position": [
+        -0.4474754559661278,
+        0.4242665020422862
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10215&landmarkId=913753",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower on Huangxing\n(Petal 2/6 — +10% Max HP upon completion)",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913754",
+      "catalogId": "10215",
+      "position": [
+        -0.8311540002055438,
+        0.6110264079646868
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10215&landmarkId=913754",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower on Huangxing\n(Petal 3/6 — +10% Max HP upon completion)",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913752",
+      "catalogId": "10215",
+      "position": [
+        -0.8384959325792352,
+        0.9179444969579151
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10215&landmarkId=913752",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower on Huangxing\n(Petal 5/6 — +10% Max HP upon completion)",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913751",
+      "catalogId": "10215",
+      "position": [
+        -0.9215647629423245,
+        0.945320460572816
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10215&landmarkId=913751",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower on Huangxing\n(Petal 4/6 — +10% Max HP upon completion)",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913756",
+      "catalogId": "10215",
+      "position": [
+        -0.33622964009310863,
+        0.3988117268325624
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10215&landmarkId=913756",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower on Huangxing\n(Petal 1/6 — +10% Max HP upon completion)",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913867",
+      "catalogId": "10216",
+      "position": [
+        -0.6888457418762925,
+        0.6095947115713329
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10216&landmarkId=913867",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Detached Cage Lever",
+      "description": "How to obtain:\n\nUse:"
+    },
+    {
+      "id": "914491",
+      "catalogId": "10216",
+      "position": [
+        -0.8633982258632784,
+        0.7992646515750863
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10216&landmarkId=914491",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Key to the Mountain Gate Leading to the Shrine",
+      "description": "How to obtain: From the blessing checkpoint beside the mountain gate, keep heading down. Kill the group of people by the bonfire to obtain it.\n\nUse:"
+    },
+    {
+      "id": "914492",
+      "catalogId": "10216",
+      "position": [
+        -0.5946755918742781,
+        1.0717585434055934
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10216&landmarkId=914492",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pangzhen Backstreet Court Key",
+      "description": "How to obtain: Speak to the Suffering Iron-Masked Man several times to trigger the quest. If you choose not to forgive him, you can obtain Sha-Chi Amber and the key. Then speak to the Female Puppet to obtain a necklace.\n\nUse: Opens Pangzhen's backstreet."
+    },
+    {
+      "id": "913821",
+      "catalogId": "10217",
+      "position": [
+        -0.7779696136498444,
+        0.5523925678895836
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10217&landmarkId=913821",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Rootless Immortal Dew",
+      "description": "How to obtain:\n\nUse:"
+    },
+    {
+      "id": "913855",
+      "catalogId": "10217",
+      "position": [
+        -0.8258938099495765,
+        0.8481525215600385
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10217&landmarkId=913855",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Moji's Bloodstained Sword",
+      "description": "How to obtain:\n\nUse:"
+    },
+    {
+      "id": "913909",
+      "catalogId": "10219",
+      "position": [
+        -0.7933647263291732,
+        1.0006511240720073
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913909",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Wulin Tales 15",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913883",
+      "catalogId": "10219",
+      "position": [
+        -0.5409652789828385,
+        0.5106451630287552
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913883",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Prayers and Vows 5",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913882",
+      "catalogId": "10219",
+      "position": [
+        -0.94030477826837,
+        0.772430975842326
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913882",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Prayers and Vows 6",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913881",
+      "catalogId": "10219",
+      "position": [
+        -0.7685155585381267,
+        0.9923104177331936
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913881",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Fragments of the Mandate 15",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913849",
+      "catalogId": "10219",
+      "position": [
+        -0.847960401745496,
+        0.6252065384782488
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913849",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "People of Pangzhen 15",
+      "description": ""
+    },
+    {
+      "id": "913848",
+      "catalogId": "10219",
+      "position": [
+        -1.1079273808969674,
+        1.0601724975322782
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913848",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Prayers and Vows 9",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913844",
+      "catalogId": "10219",
+      "position": [
+        -0.3115375737376098,
+        0.2618566892808758
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913844",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Prayers and Vows 3",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913840",
+      "catalogId": "10219",
+      "position": [
+        -0.8855045355723803,
+        0.5487066190812726
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913840",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "People of Pangzhen 14",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913833",
+      "catalogId": "10219",
+      "position": [
+        -0.8565018522336914,
+        0.6883871892993341
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913833",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Fragments of the Mandate 16",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913810",
+      "catalogId": "10219",
+      "position": [
+        -0.7158251139172478,
+        0.39061079201951543
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913810",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Prayers and Vows 7",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913807",
+      "catalogId": "10219",
+      "position": [
+        -0.5353771875477946,
+        0.5132023231386427
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913807",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Prayers and Vows 2",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913784",
+      "catalogId": "10219",
+      "position": [
+        -0.7774158646704734,
+        0.5945268089919153
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913784",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Prayers and Vows 8",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913785",
+      "catalogId": "10219",
+      "position": [
+        -0.9717051277994244,
+        0.7691632444979888
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913785",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Fragments of the Mandate 17",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913777",
+      "catalogId": "10219",
+      "position": [
+        -0.7832490272837163,
+        0.556471923789843
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913777",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun 9",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913769",
+      "catalogId": "10219",
+      "position": [
+        -0.8763062551801113,
+        0.7017724101559395
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913769",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mystery of the Lady 5",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913761",
+      "catalogId": "10219",
+      "position": [
+        -0.7354147345088222,
+        0.8493535547546429
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913761",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Wulin Tales 14",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913798",
+      "catalogId": "10219",
+      "position": [
+        -0.8245568499634146,
+        0.6764430543314717
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/9f91a323592fec50df3493bff0c8701aa06ef080fe54726e624981ed1cb54fa8.jpg",
+        "/assets/images/ec913ab773e56698b54e0a9fcc9b010919c10cfa5042f57ff1cff21de3fec7c5.jpg"
+      ],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913798",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Prayers and Vows 4",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913879",
+      "catalogId": "10219",
+      "position": [
+        -0.9006921157014744,
+        0.9768308339789229
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913879",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Huangxing's Betrayal 5",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913874",
+      "catalogId": "10219",
+      "position": [
+        -0.3473020903956012,
+        0.2025985446938705
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/adb9e92dee3d1ef00ee86c6aee635c3e5b3903b61d5429050ccca75895b24e26.jpg",
+        "/assets/images/1c4a6b879e554e2b45f05bb752c7681d2c0562911b8ab26617419dcadb5950cc.jpg"
+      ],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10219&landmarkId=913874",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Reflections 16",
+      "description": "How to obtain:"
+    },
+    {
+      "id": "913850",
+      "catalogId": "10220",
+      "position": [
+        -0.7655807609970395,
+        0.3941995588746465
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10220&landmarkId=913850",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Weapon Reforge Talisman",
+      "description": "Where to Find Weapon Reforge Talisman in Phantom Blade Zero"
+    },
+    {
+      "id": "913771",
+      "catalogId": "10220",
+      "position": [
+        -0.8370634423208116,
+        0.8174687483420797
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10220&landmarkId=913771",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Reforge Talisman",
+      "description": "Where to Find Phantom Reforge Talisman in Phantom Blade Zero"
+    },
+    {
+      "id": "913760",
+      "catalogId": "10220",
+      "position": [
+        -1.006384890638941,
+        0.9740315298676734
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10220&landmarkId=913760",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Traversal Talisman",
+      "description": "Where to Find Traversal Talisman in Phantom Blade Zero"
+    },
+    {
+      "id": "913871",
+      "catalogId": "10221",
+      "position": [
+        -0.8227632451363149,
+        0.7586998029569947
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913871",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913838",
+      "catalogId": "10221",
+      "position": [
+        -0.27814009690362695,
+        0.20654106534752023
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913838",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913827",
+      "catalogId": "10221",
+      "position": [
+        -0.726943499259761,
+        0.5694225831389043
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913827",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913776",
+      "catalogId": "10221",
+      "position": [
+        -0.6098835048719309,
+        0.5729506898130414
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913776",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913772",
+      "catalogId": "10221",
+      "position": [
+        -0.7872308808085791,
+        0.5250020384839327
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913772",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913770",
+      "catalogId": "10221",
+      "position": [
+        -0.6484996717189233,
+        0.835511897467655
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913770",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": ""
+    },
+    {
+      "id": "913888",
+      "catalogId": "10221",
+      "position": [
+        -0.397138506674537,
+        0.21601384175063743
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913888",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913887",
+      "catalogId": "10221",
+      "position": [
+        -0.3805619935464222,
+        0.244795606558597
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913887",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913812",
+      "catalogId": "10221",
+      "position": [
+        -0.38662309840188414,
+        0.27101994228543447
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913812",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913822",
+      "catalogId": "10221",
+      "position": [
+        -0.3405337784167273,
+        0.2710245077877289
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913822",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913895",
+      "catalogId": "10221",
+      "position": [
+        -0.35941479833655876,
+        0.3316108468393395
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913895",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913786",
+      "catalogId": "10221",
+      "position": [
+        -0.335496845724947,
+        0.4034482389451597
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913786",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913820",
+      "catalogId": "10221",
+      "position": [
+        -0.3228797345307157,
+        0.3890290281285331
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913820",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913797",
+      "catalogId": "10221",
+      "position": [
+        -0.3581853927917962,
+        0.39710553290740336
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913797",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913809",
+      "catalogId": "10221",
+      "position": [
+        -0.5025304532115626,
+        0.2659052018692307
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913809",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913773",
+      "catalogId": "10221",
+      "position": [
+        -0.4963901474194188,
+        0.26678058179652453
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913773",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913792",
+      "catalogId": "10221",
+      "position": [
+        -0.5475263749932253,
+        0.3374573936827261
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913792",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913875",
+      "catalogId": "10221",
+      "position": [
+        -0.675526079344877,
+        0.5766312947371262
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913875",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913805",
+      "catalogId": "10221",
+      "position": [
+        -0.7212324472906175,
+        0.3922415370454786
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913805",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913825",
+      "catalogId": "10221",
+      "position": [
+        -0.7658417031944111,
+        0.3862351743756278
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913825",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913800",
+      "catalogId": "10221",
+      "position": [
+        -0.8281984559918669,
+        0.44526932238738937
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913800",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913763",
+      "catalogId": "10221",
+      "position": [
+        -0.889341202096233,
+        0.49030459978006036
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913763",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913885",
+      "catalogId": "10221",
+      "position": [
+        -0.8263493235217538,
+        0.6090952152234621
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913885",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913865",
+      "catalogId": "10221",
+      "position": [
+        -0.8108198879176598,
+        0.6284966032163055
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913865",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913880",
+      "catalogId": "10221",
+      "position": [
+        -0.682680623304492,
+        0.6168659138401011
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913880",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913824",
+      "catalogId": "10221",
+      "position": [
+        -0.6800935923507154,
+        0.7160982451197242
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913824",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913845",
+      "catalogId": "10221",
+      "position": [
+        -0.714214471595028,
+        0.7448419620432674
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913845",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913847",
+      "catalogId": "10221",
+      "position": [
+        -0.6451659414156836,
+        0.923799678913241
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913847",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913831",
+      "catalogId": "10221",
+      "position": [
+        -0.8228977005120441,
+        0.681280402092483
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913831",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913851",
+      "catalogId": "10221",
+      "position": [
+        -0.8688519048722299,
+        0.7164227175459104
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913851",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913799",
+      "catalogId": "10221",
+      "position": [
+        -0.9621988147785316,
+        0.7720678474098719
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913799",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913859",
+      "catalogId": "10221",
+      "position": [
+        -0.8338843221824561,
+        0.7192604540914687
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913859",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913816",
+      "catalogId": "10221",
+      "position": [
+        -0.8050804101237077,
+        0.7268479571721116
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913816",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913759",
+      "catalogId": "10221",
+      "position": [
+        -0.855689789826215,
+        0.7630301022939818
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913759",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913846",
+      "catalogId": "10221",
+      "position": [
+        -0.86937741651073,
+        0.7631950642479381
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913846",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913790",
+      "catalogId": "10221",
+      "position": [
+        -0.868641530836328,
+        0.8035429366475171
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913790",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913839",
+      "catalogId": "10221",
+      "position": [
+        -0.8726212687729742,
+        0.8525800214177508
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913839",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913830",
+      "catalogId": "10221",
+      "position": [
+        -0.8754178314981687,
+        0.8506059841505049
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913830",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913801",
+      "catalogId": "10221",
+      "position": [
+        -0.8274527227972328,
+        0.8272009835462342
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913801",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913789",
+      "catalogId": "10221",
+      "position": [
+        -0.816400686004215,
+        0.8804536807501364
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913789",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913853",
+      "catalogId": "10221",
+      "position": [
+        -0.9539400832316005,
+        0.9297066644254244
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913853",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913794",
+      "catalogId": "10221",
+      "position": [
+        -0.8839331819763174,
+        0.9851773605676613
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913794",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913791",
+      "catalogId": "10221",
+      "position": [
+        -1.0914274207091523,
+        0.9827211710649806
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913791",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913818",
+      "catalogId": "10221",
+      "position": [
+        -1.0639622459646887,
+        1.0760558603846135
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913818",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913764",
+      "catalogId": "10221",
+      "position": [
+        -1.071317741240108,
+        1.1612795244307108
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913764",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913775",
+      "catalogId": "10221",
+      "position": [
+        -1.060968918115492,
+        1.182404142291034
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913775",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913774",
+      "catalogId": "10221",
+      "position": [
+        -1.0465837588666318,
+        1.238427502036643
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913774",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913870",
+      "catalogId": "10221",
+      "position": [
+        -0.9539500302527699,
+        1.2793086384194936
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913870",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913842",
+      "catalogId": "10221",
+      "position": [
+        -0.9762715641542741,
+        1.2864938325958803
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10221&landmarkId=913842",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "913893",
+      "catalogId": "10222",
+      "position": [
+        -1.0406177098946614,
+        1.1784374365202837
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913893",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": "Where to Find Flawless Broadplate Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913877",
+      "catalogId": "10222",
+      "position": [
+        -0.35068992622663586,
+        0.24842089408332413
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913877",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Concentrated Solvent",
+      "description": "Where to Find Concentrated Solvent in Phantom Blade Zero"
+    },
+    {
+      "id": "913872",
+      "catalogId": "10222",
+      "position": [
+        -0.3131258077115149,
+        0.18570091267365285
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913872",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": "Where to Find Flawless Twinned Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913873",
+      "catalogId": "10222",
+      "position": [
+        -1.1985535853968088,
+        1.031499379308542
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913873",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Forged Metal",
+      "description": "Where to Find Polished Forged Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913861",
+      "catalogId": "10222",
+      "position": [
+        -0.7695544161958026,
+        0.7478919934082882
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913861",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Twinned Metal",
+      "description": "Where to Find Polished Twinned Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913863",
+      "catalogId": "10222",
+      "position": [
+        -0.9039512343975957,
+        0.9735079200922456
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913863",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Broadplate Metal",
+      "description": "Where to Find Polished Broadplate Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913852",
+      "catalogId": "10222",
+      "position": [
+        -0.5908031918619372,
+        0.3455889790058251
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913852",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Twinned Metal",
+      "description": "Where to Find Polished Twinned Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913843",
+      "catalogId": "10222",
+      "position": [
+        -0.55189780201502,
+        0.5122262543253394
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913843",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": ""
+    },
+    {
+      "id": "913837",
+      "catalogId": "10222",
+      "position": [
+        -0.9597129537740159,
+        0.7640876423456575
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913837",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": "Where to Find Flawless Broadplate Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913835",
+      "catalogId": "10222",
+      "position": [
+        -0.814677582946274,
+        0.8446878439889502
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913835",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": "Where to Find Universal Solvent in Phantom Blade Zero"
+    },
+    {
+      "id": "913834",
+      "catalogId": "10222",
+      "position": [
+        -0.8350980342908088,
+        0.5439363392693082
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913834",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": "Where to Find Flawless Twinned Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913832",
+      "catalogId": "10222",
+      "position": [
+        -0.36142912091094104,
+        0.24304784028811355
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913832",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal",
+      "description": "Where to Find Flawless Forged Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913828",
+      "catalogId": "10222",
+      "position": [
+        -0.7215610011504054,
+        0.38715666806143645
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913828",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": "Where to Find Universal Solvent in Phantom Blade Zero"
+    },
+    {
+      "id": "913813",
+      "catalogId": "10222",
+      "position": [
+        -0.7572368112292622,
+        1.037658262792803
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913813",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal",
+      "description": "Where to Find Flawless Forged Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913815",
+      "catalogId": "10222",
+      "position": [
+        -1.0093464329807205,
+        1.2836017183890505
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913815",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Broadplate Metal",
+      "description": "Where to Find Polished Broadplate Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913808",
+      "catalogId": "10222",
+      "position": [
+        -0.8757806394680756,
+        0.7689483866656701
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913808",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Forged Metal",
+      "description": "Where to Find Polished Forged Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913806",
+      "catalogId": "10222",
+      "position": [
+        -1.1131386842978372,
+        1.0570838828716091
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913806",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": "Where to Find Flawless Twinned Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913804",
+      "catalogId": "10222",
+      "position": [
+        -0.8753034442602825,
+        0.4716182881675479
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913804",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Forged Metal",
+      "description": "Where to Find Flawless Forged Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913803",
+      "catalogId": "10222",
+      "position": [
+        -0.34771845605919793,
+        0.20780308210744636
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913803",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": "Where to Find Flawless Broadplate Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913787",
+      "catalogId": "10222",
+      "position": [
+        -0.6250114652557102,
+        0.6827317904031247
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913787",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": "Where to Find Flawless Twinned Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913781",
+      "catalogId": "10222",
+      "position": [
+        -0.9699118027706106,
+        1.256399666457341
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913781",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Concentrated Solvent",
+      "description": "Where to Find Concentrated Solvent in Phantom Blade Zero"
+    },
+    {
+      "id": "913779",
+      "catalogId": "10222",
+      "position": [
+        -0.3620606526021106,
+        0.2485316095693264
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913779",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Forged Metal",
+      "description": "Where to Find Polished Forged Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913767",
+      "catalogId": "10222",
+      "position": [
+        -0.6932231069886541,
+        0.6105387956257857
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913767",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Broadplate Metal",
+      "description": "Where to Find Polished Broadplate Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913766",
+      "catalogId": "10222",
+      "position": [
+        -0.7047714753491903,
+        0.7700578056633134
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10222&landmarkId=913766",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Broadplate Metal",
+      "description": "Where to Find Flawless Broadplate Metal in Phantom Blade Zero"
+    },
+    {
+      "id": "913891",
+      "catalogId": "10223",
+      "position": [
+        -0.5916483006666056,
+        0.7929892214841914
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913891",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Otherworldly Copper",
+      "description": "Where to Find Forged Otherworldly Copper in Phantom Blade Zero"
+    },
+    {
+      "id": "913890",
+      "catalogId": "10223",
+      "position": [
+        -0.8733506950549383,
+        0.599988848293161
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913890",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Otherworldly Copper",
+      "description": ""
+    },
+    {
+      "id": "913884",
+      "catalogId": "10223",
+      "position": [
+        -0.34590488522925966,
+        0.17117047643279193
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913884",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Otherworldly Copper",
+      "description": "Where to Find Forged Otherworldly Copper in Phantom Blade Zero"
+    },
+    {
+      "id": "913876",
+      "catalogId": "10223",
+      "position": [
+        -0.6513289230364592,
+        0.9507595538627811
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913876",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forbidden Camphor Timber",
+      "description": "Where to Find Forbidden Camphor Timber in Phantom Blade Zero"
+    },
+    {
+      "id": "913866",
+      "catalogId": "10223",
+      "position": [
+        -0.3284101708954097,
+        0.4013223718250316
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913866",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Incense Ash for the Lady",
+      "description": "Where to Find Incense Ash for the Lady in Phantom Blade Zero"
+    },
+    {
+      "id": "913864",
+      "catalogId": "10223",
+      "position": [
+        -0.9757811896212729,
+        1.2922265640970352
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913864",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forbidden Camphor Timber",
+      "description": "Where to Find Forbidden Camphor Timber in Phantom Blade Zero"
+    },
+    {
+      "id": "913862",
+      "catalogId": "10223",
+      "position": [
+        -1.1161719104442511,
+        0.9862617347560274
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913862",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ying Mechanical Gear",
+      "description": "Where to Find Ying Mechanical Gear in Phantom Blade Zero"
+    },
+    {
+      "id": "913858",
+      "catalogId": "10223",
+      "position": [
+        -0.8356060376155767,
+        0.5031705898212977
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913858",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Searing Darkfire Charcoal",
+      "description": ""
+    },
+    {
+      "id": "913857",
+      "catalogId": "10223",
+      "position": [
+        -0.9465599509163098,
+        1.2887122354350993
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913857",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Otherworldly Copper",
+      "description": "Where to Find Forged Otherworldly Copper in Phantom Blade Zero"
+    },
+    {
+      "id": "913854",
+      "catalogId": "10223",
+      "position": [
+        -0.17685186891995386,
+        0.17360291559034266
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913854",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Searing Darkfire Charcoal",
+      "description": ""
+    },
+    {
+      "id": "913841",
+      "catalogId": "10223",
+      "position": [
+        -0.7895966714292797,
+        0.6093482833948229
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913841",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Camphor Timber",
+      "description": "Where to Find Camphor Timber in Phantom Blade Zero"
+    },
+    {
+      "id": "913829",
+      "catalogId": "10223",
+      "position": [
+        -0.8212496329596206,
+        0.4218177162070731
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913829",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Searing Darkfire Charcoal",
+      "description": "Where to Find Searing Darkfire Charcoal in Phantom Blade Zero"
+    },
+    {
+      "id": "913823",
+      "catalogId": "10223",
+      "position": [
+        -0.5254328360119018,
+        0.2834691045004263
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913823",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forbidden Camphor Timber",
+      "description": "Where to Find Forbidden Camphor Timber in Phantom Blade Zero"
+    },
+    {
+      "id": "913814",
+      "catalogId": "10223",
+      "position": [
+        -0.9053328666092852,
+        0.4939525973132959
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913814",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forbidden Camphor Timber",
+      "description": "Where to Find Forbidden Camphor Timber in Phantom Blade Zero"
+    },
+    {
+      "id": "913811",
+      "catalogId": "10223",
+      "position": [
+        -0.32377743040561313,
+        0.20717853770742067
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913811",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ying Mechanical Gear",
+      "description": "Where to Find Ying Mechanical Gear in Phantom Blade Zero"
+    },
+    {
+      "id": "913802",
+      "catalogId": "10223",
+      "position": [
+        -1.1940564096828439,
+        1.0236794619962382
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913802",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Otherworldly Copper",
+      "description": "Where to Find Forged Otherworldly Copper in Phantom Blade Zero"
+    },
+    {
+      "id": "913795",
+      "catalogId": "10223",
+      "position": [
+        -0.7623446383618386,
+        0.7476345232674646
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913795",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ying Mechanical Gear",
+      "description": "Where to Find Ying Mechanical Gear in Phantom Blade Zero"
+    },
+    {
+      "id": "913793",
+      "catalogId": "10223",
+      "position": [
+        -1.0420398902433874,
+        1.24608674854737
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913793",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Incense Ash for the Lady",
+      "description": "Where to Find Incense Ash for the Lady in Phantom Blade Zero"
+    },
+    {
+      "id": "913788",
+      "catalogId": "10223",
+      "position": [
+        -0.4424265380285419,
+        0.4132559244366689
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913788",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Otherworldly Copper",
+      "description": "Where to Find Forged Otherworldly Copper in Phantom Blade Zero"
+    },
+    {
+      "id": "913783",
+      "catalogId": "10223",
+      "position": [
+        -1.0123666006663825,
+        1.009591298790113
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913783",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forbidden Camphor Timber",
+      "description": "Where to Find Forbidden Camphor Timber in Phantom Blade Zero"
+    },
+    {
+      "id": "913782",
+      "catalogId": "10223",
+      "position": [
+        -0.5961165293395538,
+        0.5686704782859254
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913782",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ying Mechanical Gear",
+      "description": ""
+    },
+    {
+      "id": "913780",
+      "catalogId": "10223",
+      "position": [
+        -0.9600945877357674,
+        1.2713468629048066
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913780",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ying Mechanical Gear",
+      "description": "Where to Find Ying Mechanical Gear in Phantom Blade Zero"
+    },
+    {
+      "id": "913765",
+      "catalogId": "10223",
+      "position": [
+        -0.983211988557315,
+        1.299211746220891
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10223&landmarkId=913765",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Searing Darkfire Charcoal",
+      "description": "Where to Find Searing Darkfire Charcoal in Phantom Blade Zero"
+    },
+    {
+      "id": "913869",
+      "catalogId": "10224",
+      "position": [
+        -0.5910008010402521,
+        0.5445511028850283
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10224&landmarkId=913869",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": "Where to Find Tainted Crystal Shard in Phantom Blade Zero"
+    },
+    {
+      "id": "913856",
+      "catalogId": "10224",
+      "position": [
+        -1.009448357258691,
+        1.0075316814006783
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10224&landmarkId=913856",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": "Where to Find Tainted Crystal Shard in Phantom Blade Zero"
+    },
+    {
+      "id": "913762",
+      "catalogId": "10224",
+      "position": [
+        -0.8350265926211478,
+        0.8245301250733377
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10224&landmarkId=913762",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Refined Indigo Crystal",
+      "description": "Where to Find Refined Indigo Crystal in Phantom Blade Zero"
+    },
+    {
+      "id": "913892",
+      "catalogId": "10225",
+      "position": [
+        -0.8371654376219624,
+        0.5348470312270877
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10225&landmarkId=913892",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Apprentice Healer's Memory",
+      "description": "Where to Find Apprentice Healer's Memory in Phantom Blade Zero"
+    },
+    {
+      "id": "913878",
+      "catalogId": "10225",
+      "position": [
+        -1.051800585159583,
+        1.2350030352894805
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10225&landmarkId=913878",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": "Where to Find Master Healer's Memory in Phantom Blade Zero"
+    },
+    {
+      "id": "913836",
+      "catalogId": "10225",
+      "position": [
+        -0.6891600047068493,
+        0.5989778960329346
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10225&landmarkId=913836",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": "Where to Find Master Healer's Memory in Phantom Blade Zero"
+    },
+    {
+      "id": "913819",
+      "catalogId": "10225",
+      "position": [
+        -0.7141384896474676,
+        0.903099220021133
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10225&landmarkId=913819",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": "Where to Find Master Healer's Memory in Phantom Blade Zero"
+    },
+    {
+      "id": "913796",
+      "catalogId": "10225",
+      "position": [
+        -0.6428580744898511,
+        0.6514230860463357
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10225&landmarkId=913796",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Skilled Healer's Memory",
+      "description": "Where to Find Skilled Healer's Memory in Phantom Blade Zero"
+    },
+    {
+      "id": "913768",
+      "catalogId": "10225",
+      "position": [
+        -1.0585329117398885,
+        1.042788713484569
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10225&landmarkId=913768",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Skilled Healer's Memory",
+      "description": "Where to Find Skilled Healer's Memory in Phantom Blade Zero"
+    },
+    {
+      "id": "913911",
+      "catalogId": "10226",
+      "position": [
+        -0.621051913892245,
+        0.5745155285760921
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913911",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Lu Sanqian",
+      "description": ""
+    },
+    {
+      "id": "913919",
+      "catalogId": "10226",
+      "position": [
+        -0.6059941979571875,
+        0.3516526186903093
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913919",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Terrified Mandate Disciple",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913899",
+      "catalogId": "10226",
+      "position": [
+        -0.5883409263630597,
+        1.0744987416103697
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913899",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Suffering Iron-Masked Man",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913914",
+      "catalogId": "10226",
+      "position": [
+        -0.5815988995754537,
+        1.0732203059332903
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913914",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Female Puppet",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913917",
+      "catalogId": "10226",
+      "position": [
+        -0.8389360491210027,
+        0.7275551066020114
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913917",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Clear-Headed Jianghu Wanderer",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913905",
+      "catalogId": "10226",
+      "position": [
+        -0.828250863241152,
+        0.8402531160338071
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913905",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Lu Sanqian",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913910",
+      "catalogId": "10226",
+      "position": [
+        -1.0497815641832062,
+        1.1823008924153413
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913910",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Lu Sanqian",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913912",
+      "catalogId": "10226",
+      "position": [
+        -0.3216668739454178,
+        0.19450570187538574
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913912",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Gravely Wounded Heroine",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913898",
+      "catalogId": "10226",
+      "position": [
+        -0.9019775964280825,
+        0.7130782860115659
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913898",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Liu Yi",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913907",
+      "catalogId": "10226",
+      "position": [
+        -0.7389128604067707,
+        0.7271655998386279
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913907",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sickly Man",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913903",
+      "catalogId": "10226",
+      "position": [
+        -0.8347592060316629,
+        0.4858754941485586
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10226&landmarkId=913903",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Dying Bomber",
+      "description": "Related quest:"
+    },
+    {
+      "id": "913943",
+      "catalogId": "10229",
+      "position": [
+        -1.0690088478471012,
+        1.1459599275372483
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10229&landmarkId=913943",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun",
+      "description": ""
+    },
+    {
+      "id": "913934",
+      "catalogId": "10229",
+      "position": [
+        -1.0277378937624349,
+        1.2152595312171712
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10229&landmarkId=913934",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Whence the Weeping",
+      "description": ""
+    },
+    {
+      "id": "913942",
+      "catalogId": "10229",
+      "position": [
+        -0.9874656789866378,
+        1.275542517009498
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10229&landmarkId=913942",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun",
+      "description": ""
+    },
+    {
+      "id": "913931",
+      "catalogId": "10229",
+      "position": [
+        -1.0028813673971229,
+        1.29658907875546
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10229&landmarkId=913931",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Whence the Weeping",
+      "description": ""
+    },
+    {
+      "id": "913939",
+      "catalogId": "10229",
+      "position": [
+        -1.0029261976326609,
+        1.3100188606127858
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10229&landmarkId=913939",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pillars of Kunlun",
+      "description": ""
+    },
+    {
+      "id": "913941",
+      "catalogId": "10229",
+      "position": [
+        -0.9421342889087043,
+        1.2744391459050206
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10229&landmarkId=913941",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Herald's Illusion",
+      "description": ""
+    },
+    {
+      "id": "913926",
+      "catalogId": "10230",
+      "position": [
+        -0.6211275696166183,
+        0.5805777154854184
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913926",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xiaocui",
+      "description": "Prerequisites:\n\nQuest rewards:\n\nNotes:"
+    },
+    {
+      "id": "913928",
+      "catalogId": "10230",
+      "position": [
+        -0.6785067157928495,
+        0.5676250867015398
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913928",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xiaocui",
+      "description": "Prerequisites:\n\nQuest rewards:\n\nNotes:"
+    },
+    {
+      "id": "913984",
+      "catalogId": "10230",
+      "position": [
+        -0.8372630855309353,
+        0.8464322561787014
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913984",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xiaocui",
+      "description": "Prerequisites:\n\nQuest rewards:\n\nNotes:"
+    },
+    {
+      "id": "913983",
+      "catalogId": "10230",
+      "position": [
+        -0.8369197627770006,
+        0.8339881445206032
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913983",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xiaocui",
+      "description": "Prerequisites:\n\nQuest rewards:\n\nNotes:"
+    },
+    {
+      "id": "913925",
+      "catalogId": "10230",
+      "position": [
+        -1.0527031846085322,
+        1.1967856576999054
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913925",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Xiaocui",
+      "description": "Prerequisites:\n\nQuest rewards:\n\nNotes:"
+    },
+    {
+      "id": "913927",
+      "catalogId": "10230",
+      "position": [
+        -0.9130497552415306,
+        0.7199442041810329
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913927",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Liu Yi",
+      "description": "Prerequisites:\n\nQuest rewards:\n\nNotes:"
+    },
+    {
+      "id": "914537",
+      "catalogId": "10230",
+      "position": [
+        -0.7815548641014232,
+        1.0152762569409362
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f6b2ca0b994482a58d32da01a4385b652043c73de120cabf5db28479aa97b310.jpg",
+        "/assets/images/c1b72845e602e819766a4ea4335c025badefe7743846ae14e6e78f7087776ce0.jpg"
+      ],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=914537",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Forget Me Not",
+      "description": "After speaking to the weakened man in the cage at the foot of the mountain, go down the stairs behind the bell. You will find the man's body and his farewell letter."
+    },
+    {
+      "id": "913933",
+      "catalogId": "10230",
+      "position": [
+        -0.8304590998036474,
+        0.7379748662420553
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8a024f89912ffbe13f2862b38779d028e914521fa645358539489e816c22f893.jpg"
+      ],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913933",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Broad Saber",
+      "description": "Prerequisites:\n\nQuest rewards:\n\nNotes:"
+    },
+    {
+      "id": "914538",
+      "catalogId": "10230",
+      "position": [
+        -0.7344748186373522,
+        0.8543047532119061
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/92ffad25c4a92276f952069f852b753e3598028f1fde67ffbc82736ac1fbbf7a.jpg"
+      ],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=914538",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ledger of Atonement",
+      "description": "Prerequisite: You may need to have cleared Mountain of Imprisonment first (uncertain). Speak to the headache-stricken masked figure, who will ask you to find the Ledger of Atonement. Follow the stairs behind the Shrine Outer Gate all the way down."
+    },
+    {
+      "id": "913937",
+      "catalogId": "10230",
+      "position": [
+        -0.5954294926298189,
+        1.0909868362055022
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913937",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bai Xue'er",
+      "description": "Prerequisites:\n\nQuest rewards:\n\nNotes:"
+    },
+    {
+      "id": "913929",
+      "catalogId": "10230",
+      "position": [
+        -0.5964756691990942,
+        1.0640234980134124
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913929",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ledger of Atonement",
+      "description": ""
+    },
+    {
+      "id": "913923",
+      "catalogId": "10231",
+      "position": [
+        -0.3402175336016171,
+        0.37881540551086346
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10231&landmarkId=913923",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tarnished Justice",
+      "description": "Prerequisites:\n\nQuest objectives"
+    },
+    {
+      "id": "913930",
+      "catalogId": "10231",
+      "position": [
+        -1.11150790121701,
+        1.044897975544643
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10231&landmarkId=913930",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Heart of the Banyan",
+      "description": "Prerequisites:\n\nQuest objectives"
+    },
+    {
+      "id": "913989",
+      "catalogId": "10232",
+      "position": [
+        -1.1255108222912327,
+        1.0347240478541408
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10232&landmarkId=913989",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Iron Butcher, the Frenzied Brute\nJagged Steel, the Frenzied Brute",
+      "description": "Rewards\n\nBoss Fight Strategy"
+    },
+    {
+      "id": "913918",
+      "catalogId": "10232",
+      "position": [
+        -0.9809367270900395,
+        1.2946055577482412
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10232&landmarkId=913918",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Huangxing, the Kunlun Renegade",
+      "description": "Rewards\n\nBoss Fight Strategy"
+    },
+    {
+      "id": "913916",
+      "catalogId": "10232",
+      "position": [
+        -0.4378775115353335,
+        0.38587660086149356
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10232&landmarkId=913916",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Iron Butcher, the Frenzied Brute",
+      "description": "Rewards\n\nBoss Fight Strategy"
+    },
+    {
+      "id": "913915",
+      "catalogId": "10232",
+      "position": [
+        -0.7619877479206139,
+        0.6128468524744477
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10232&landmarkId=913915",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bi Feng, the Giant Saber Commander",
+      "description": "Rewards\n\nBoss Fight Strategy"
+    },
+    {
+      "id": "913904",
+      "catalogId": "10232",
+      "position": [
+        -0.7927350137694873,
+        0.9924660990414793
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10232&landmarkId=913904",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Kui Yanyan, the Deranged",
+      "description": "Rewards\n\nBoss Fight Strategy"
+    },
+    {
+      "id": "913902",
+      "catalogId": "10232",
+      "position": [
+        -0.9931852017614062,
+        1.2600962917711627
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10232&landmarkId=913902",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Jade-Face",
+      "description": "Rewards\n\nBoss Fight Strategy"
+    },
+    {
+      "id": "914132",
+      "catalogId": "10233",
+      "position": [
+        -0.2097994537834893,
+        0.14427134893874438
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10233&landmarkId=914132",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "starting area",
+      "description": ""
+    },
+    {
+      "id": "914156",
+      "catalogId": "10233",
+      "position": [
+        -0.4542673341744603,
+        0.2237934802901549
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10233&landmarkId=914156",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Everyone Is Welcome to Help Edit the Map Markers",
+      "description": "Because of the huge workload, many details for later map markers are still missing. We are working overtime to get them finished.\nIf you have insights into boss and valuable collectible locations, please help us edit the markers to help more users. Thank you very much for your support!"
+    },
+    {
+      "id": "914557",
+      "catalogId": "10234",
+      "position": [
+        -0.8005922691373257,
+        0.9844382782091259
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10234&landmarkId=914557",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Memory Flower",
+      "description": "After defeating the boss, remember to look behind you and smash the box there. This opens a faster shortcut and gives you a Memory Flower."
+    },
+    {
+      "id": "913900",
+      "catalogId": "10235",
+      "position": [
+        -0.7330775847056543,
+        0.7144353608392408
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10235&landmarkId=913900",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "NPC",
+      "description": ""
+    },
+    {
+      "id": "913894",
+      "catalogId": "10275",
+      "position": [
+        -0.8677210821653887,
+        0.7688966702535964
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10275&landmarkId=913894",
+      "name": "Treasure Cauldron Fragment 2",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913938",
+      "catalogId": "10230",
+      "position": [
+        -0.7330862942401666,
+        0.8639313565299602
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=257&landmarkCatalogId=10230&landmarkId=913938",
+      "name": "Lord of Immortality",
+      "description": "Prerequisites:\n\nQuest rewards:\n\nNotes:"
+    }
+  ]
+}

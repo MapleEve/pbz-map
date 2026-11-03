@@ -1,0 +1,4833 @@
+{
+  "mapId": "252",
+  "sourceCount": 289,
+  "landmarks": [
+    {
+      "id": "912580",
+      "catalogId": "10051",
+      "position": [
+        -0.6842018591558485,
+        0.7585751560420988
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/bb7192b88f2e30724f042ee797cc8561fca4cba62a365ef392dda06ca54ea196.jpg",
+        "/assets/images/2bdbc9f0c998603a2c7f6c96cd109fd348ff7817e278ff6a9f6c8c13defa38e8.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912580",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Lakeside Arch Bridge",
+      "description": "Exit through the dungeon and activate the Lakeside Arch Bridge Bell on the bridge."
+    },
+    {
+      "id": "912507",
+      "catalogId": "10051",
+      "position": [
+        -0.18713649039906954,
+        0.8089448042595109
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ad917daad0e9c5d0ad2eabddb9be471a3d546d833021ada17cc11f02cd479748.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912507",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mirrorwood Depths",
+      "description": ""
+    },
+    {
+      "id": "912506",
+      "catalogId": "10051",
+      "position": [
+        -0.2109742258134304,
+        0.985304475183554
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/30b8586ecbea1b8d3a9b1ff4277320f45f2989bcef5bf84aaf95f9f179274095.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912506",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Threadbound Great Tree",
+      "description": ""
+    },
+    {
+      "id": "912494",
+      "catalogId": "10051",
+      "position": [
+        -0.36220103656518177,
+        0.3724617611847947
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f2f7d64126a07d6f99dc88ec7946a57e9bd58ce1f940b78e53ecdf74faa2f57a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912494",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Parting Mists",
+      "description": ""
+    },
+    {
+      "id": "912486",
+      "catalogId": "10051",
+      "position": [
+        -0.4254855467123946,
+        0.6394337447935783
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ef3eb178e104f014c0eb66f0b50b4192a81e878439f296584f60fcfe368a30ed.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912486",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Burial Grounds",
+      "description": ""
+    },
+    {
+      "id": "912484",
+      "catalogId": "10051",
+      "position": [
+        -0.3435488108778202,
+        0.8260975127186612
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/fc20dcff578cf4c9e186b9e5bb6af365a5c693d09639cf7cdde33666282b39ce.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912484",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mirrorwood Long Pillar",
+      "description": ""
+    },
+    {
+      "id": "912455",
+      "catalogId": "10051",
+      "position": [
+        -0.6057014374100333,
+        0.6621278031647932
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912455",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mirrorwood Entrance",
+      "description": ""
+    },
+    {
+      "id": "912441",
+      "catalogId": "10051",
+      "position": [
+        -0.534836325883191,
+        0.8797455155012841
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b5b7dd626eca7544fe95d7f4be54f6d5b6711f3dae709a035d6fdbf14dadd08c.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912441",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Cliffside Lodge",
+      "description": "You can find the Cliffside Lodge Bell behind the house, facing the western cliff."
+    },
+    {
+      "id": "912437",
+      "catalogId": "10051",
+      "position": [
+        -0.6581957737490427,
+        1.1181497795983404
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b8d3b4057ed8c44af1176987652c4187ece22025b1170eeb0eb070204ad640c6.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912437",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Cliff of Longing",
+      "description": ""
+    },
+    {
+      "id": "912432",
+      "catalogId": "10051",
+      "position": [
+        -0.7770386357711629,
+        0.9855449254812356
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/0aff459fb5e3ae2c1b14788d11e23c539de42eff95d5eccb1158f04c7d18b23d.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912432",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Red Serpent House",
+      "description": ""
+    },
+    {
+      "id": "912405",
+      "catalogId": "10051",
+      "position": [
+        -0.8167147748584398,
+        0.8685706317113357
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/43843508f575b1aa62750b5c1de0c7a11d1b99eba60c5a14bbdac58895577380.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912405",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thieves' Camp (Crane-shaped Bell)",
+      "description": ""
+    },
+    {
+      "id": "912380",
+      "catalogId": "10051",
+      "position": [
+        -0.9889206254761973,
+        0.7921991831143345
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/14998bbc370465c5547f9c0448a8f515d2775afbdd060c7a61045eda36899b69.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912380",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Outlaw Trap",
+      "description": ""
+    },
+    {
+      "id": "912366",
+      "catalogId": "10051",
+      "position": [
+        -1.051729279398927,
+        0.6445787061070831
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ea87b230501547209ff2e032f25819d0c9ef62e2a986f5df60b3929cc6bb90a5.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912366",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Trail of Cages",
+      "description": ""
+    },
+    {
+      "id": "912357",
+      "catalogId": "10051",
+      "position": [
+        -1.1653298072635891,
+        0.5911122102526747
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/30ba0da061ac03d76f8d42f656bed196251bb75625b3838ef5b1141df8b26800.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912357",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Pangzhen Bridge Overlook",
+      "description": ""
+    },
+    {
+      "id": "912348",
+      "catalogId": "10051",
+      "position": [
+        -1.23610408365397,
+        0.4003886822199689
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/bd0243d53b6a1963a5b8e8502f58f498a287680518dfcb6a668111aa07442353.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912348",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Abandoned Main Road",
+      "description": ""
+    },
+    {
+      "id": "912329",
+      "catalogId": "10051",
+      "position": [
+        -0.8760212294359633,
+        0.34154327311304655
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/372ad1ff06615997d68fceb8cb1a3dc2a50396ea46d581813c44c28efb22aeaa.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=912329",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "[Crane-shaped] Crimson Forest",
+      "description": ""
+    },
+    {
+      "id": "914383",
+      "catalogId": "10051",
+      "position": [
+        -0.6984074353715357,
+        0.42554138952819187
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=914383",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Sha-Chi Tower 6th Floor",
+      "description": ""
+    },
+    {
+      "id": "914382",
+      "catalogId": "10051",
+      "position": [
+        -0.6546551178460049,
+        0.38661229262484653
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=914382",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Sha-Chi Tower Gate",
+      "description": ""
+    },
+    {
+      "id": "914381",
+      "catalogId": "10051",
+      "position": [
+        -0.6926349816893662,
+        0.37534578784773487
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10051&landmarkId=914381",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Sha-Chi Tower Base",
+      "description": ""
+    },
+    {
+      "id": "912474",
+      "catalogId": "10052",
+      "position": [
+        -0.7050120846213588,
+        0.844317982828926
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/59de3d9872ad2e31588d9ab5fee6cc4c75bade55d7cb4101007380a071259a32.jpg",
+        "/assets/images/5b37214e67dc259f49a5a03e52d1dc9d802d71e2c2d7439ccdb06575d0946b8e.jpg",
+        "/assets/images/0c4fc66dd3ebfa9966e3a0dc84506ddaeae027e38bf6c393494f0c462ea8218c.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10052&landmarkId=912474",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bastion",
+      "description": "Inside the Thieves' Camp Dungeon, east of Thieves' Camp. This is the Bastion interaction on the lower level.\n\nRequired Phantom Edge:\n\nBastion\n\n(Not obtained on this map. Defeat Zhuo Bi in the Village of Lu region in the next chapter to obtain it.)"
+    },
+    {
+      "id": "912473",
+      "catalogId": "10052",
+      "position": [
+        -0.7144761322802253,
+        0.8452145057726739
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6e5fa3ebb1b365b6777de5f6645e1fae6f6b00be25ac2afd6a1fd1e6b9ab39bf.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10052&landmarkId=912473",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bastion",
+      "description": "Inside the Thieves' Camp Dungeon, east of Thieves' Camp. This is the Bastion interaction on the upper level.\n\nRequired Phantom Edge:\nBastion\n\n(Not obtained on this map. Defeat Zhuo Bi in the Village of Lu region in the next chapter to obtain it.)"
+    },
+    {
+      "id": "912439",
+      "catalogId": "10052",
+      "position": [
+        -0.5034625655427192,
+        0.9831365014849212
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/2b10031a90ef4b86cddb7c7821018edf4246060112c02e11e5e90c965723e6db.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10052&landmarkId=912439",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tiger Cannon",
+      "description": "In the Crimson Forest Cellar, head to the left side to find a wall that requires the Tiger Cannon to open.\n\nRequired Phantom Edge:\nTiger Cannon\n\n(Not obtained on this map. Defeat \"Tiger Cannon\": Lei Dang in the penultimate chapter to obtain it.)"
+    },
+    {
+      "id": "912433",
+      "catalogId": "10052",
+      "position": [
+        -0.78439156872588,
+        0.9911984586674691
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6bc9fcad687dab3512c96c2904a6ddec033eff0917e3bd11a12b2a7a5e5f44b1.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10052&landmarkId=912433",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flaming Mane",
+      "description": "Required Phantom Edge:\nFlaming Mane\n\n(Not obtained on this map. Defeat the Lion Dance Grandmaster in Pangzhen to obtain it.)"
+    },
+    {
+      "id": "914407",
+      "catalogId": "10052",
+      "position": [
+        -0.6792323996020855,
+        0.3869392091797579
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10052&landmarkId=914407",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ranged - Required Phantom Edge",
+      "description": "Required Phantom Edge:\nRanged-type Phantom Edge\n\nReward:\nFlawless Broadplate Metal"
+    },
+    {
+      "id": "914408",
+      "catalogId": "10052",
+      "position": [
+        -0.6632747193481237,
+        0.3964699997476515
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10052&landmarkId=914408",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ranged - Required Phantom Edge",
+      "description": "Required Phantom Edge:\nRanged-type Phantom Edge\n\nReward:\nTainted Crystal Shard"
+    },
+    {
+      "id": "914422",
+      "catalogId": "10052",
+      "position": [
+        -0.6925272375576128,
+        0.44245718175066884
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10052&landmarkId=914422",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ranged - Required Phantom Edge",
+      "description": "Required Phantom Edge:\nRanged-type Phantom Edge\n\nReward:\nMaster Healer's Memory"
+    },
+    {
+      "id": "912398",
+      "catalogId": "10052",
+      "position": [
+        -0.9895628690566696,
+        0.39671740173136527
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/19e031dc40b11b8a36466129daee2e9dff3a26a164e898c3cd078006dedd05c1.jpg",
+        "/assets/images/446bcbb3521b3108abde76f64148633b04f5741c2480cc6f44f388047a57917c.jpg",
+        "/assets/images/ea33e667b3d6b6a31f46d2ef3f195791bf13305a6563e21bdd51678a7311f334.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10052&landmarkId=912398",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bashpole",
+      "description": "Climb down the ladder in the Crimson Forest Tunnel, then head south and open the door to get outside.\n\nRequired Phantom Edge:\nBashpole\n\n(Not obtained on this map. Defeat Wan Jun, the Coppermaul in the Mandate Encampment region to obtain it.)"
+    },
+    {
+      "id": "912501",
+      "catalogId": "10054",
+      "position": [
+        -0.22915429758489836,
+        0.21058387757331332
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5d5597979e0d1500356f5d9a07181a139cf35df355658629cd9c7ff0338bcd6c.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10054&landmarkId=912501",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Human-Faced Banyan Tree",
+      "description": "Location:\nFrom the Parting Mists Bell, head south past the dock. Examine the large tree standing in the water and defeat the enemies to obtain The Banyan's Heart, which unlocks special abilities on the skill tree."
+    },
+    {
+      "id": "912481",
+      "catalogId": "10054",
+      "position": [
+        -0.35058108617633366,
+        0.8498613536542479
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/12741292c31921b99d538529ebfda165fcdc182c92b180bfb2472ce842389c2b.jpg",
+        "/assets/images/865e04b106c352a1a0a0ea67c9df78e712ed85e5c266413900ee744fe031fd14.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10054&landmarkId=912481",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Lóng Pillar",
+      "description": "Location:\nAt the fork where Inanis' Memory Flower 1 is found, take the right path outside and activate the Mirrorwood Long Pillar Bell. This is the Long Pillar for the purple quest Bloodline Awakening (Mirrorwood Long Pillar)."
+    },
+    {
+      "id": "912585",
+      "catalogId": "10055",
+      "position": [
+        -0.7081803923410064,
+        0.8272226644239282
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5e2beb07edc2b5fef9f3ffc93777ad098c7e70a91f162a7bc4273da15cb34638.jpg",
+        "/assets/images/bcfe7bacb581112f08a57f956b33cb6156294604d4b028bcd8ba937d6ecd3a93.jpg",
+        "/assets/images/08ecd64e53ba7d64396e1c8c8c94dc01e6c15649db9a03dbd013efa25d1d2029.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10055&landmarkId=912585",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "To the Lakeside Arch Bridge",
+      "description": "Location:\nFrom the Thieves' Camp Bell, head east through the Thieves' Camp Dungeon. Keep your shield raised to pass the traps on the upper level and find the hidden area outside the dungeon."
+    },
+    {
+      "id": "912470",
+      "catalogId": "10056",
+      "position": [
+        -0.7229678470944805,
+        0.8501499479890526
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/9a2983143d61b1e5d6c25217ec870a57eaee79ebdfe5a265212c73c7cc046053.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10056&landmarkId=912470",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Cave Prison Cell",
+      "description": "Location:\n\nGo down and defeat the monsters to obtain the Cave Prison Key story item, then return to the upper level to open the cell.\n\nHow to unlock:\n\nCave Prison Cell"
+    },
+    {
+      "id": "912448",
+      "catalogId": "10056",
+      "position": [
+        -0.5090514577654517,
+        0.9226232065219477
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/aa479b9ae32df497f27b9883a48e128adf873e9a5601e95cd8ef8627b6172ccb.jpg",
+        "/assets/images/2d52f705d2e024e66627d2991f76624c3d332e8bf0637aaa5e12770f7c9a3a32.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10056&landmarkId=912448",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Secret Chamber",
+      "description": "Location:\n\nInside the lodge cellar. Follow the route in image 2, getting the key before opening the door.\n\nHow to unlock:\n\nCrimson Forest Secret Chamber Crank"
+    },
+    {
+      "id": "912442",
+      "catalogId": "10056",
+      "position": [
+        -0.5246224739657634,
+        0.8952790063257225
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/cea41944c0435c467cf71e20a1b6d537a1d53d6822fa926de7c02845b344885a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10056&landmarkId=912442",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Cellar",
+      "description": "Location:\n\nFirst floor of the lodge.\n\nHow to unlock:\n\nCrimson Forest Cellar Crank"
+    },
+    {
+      "id": "912426",
+      "catalogId": "10056",
+      "position": [
+        -0.7752620065477913,
+        0.9614511553254204
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b426d81495af3059cb6e77a2c4d1fe279ee2846aae82c37a65c82786eaf09b2e.jpg",
+        "/assets/images/fdc52f825632b604b92b5030cd4b5f5879a058de8045d9ce4c99615db54e8363.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10056&landmarkId=912426",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forest Outpost Courtyard Gate",
+      "description": "Location:\n\nFrom the Thieves' Camp Bell, follow the route in image 2 around through the tunnel to the north. Trigger the story scene outside the tunnel to see the courtyard gate.\n\nHow to unlock:\n\nForest Outpost Courtyard Key"
+    },
+    {
+      "id": "912415",
+      "catalogId": "10056",
+      "position": [
+        -0.7468138313886357,
+        0.8451518346259235
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/36b9b2aa45afd2390d97d0ef6bf5f392283406de282adbf7c1f301854cecc5be.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10056&landmarkId=912415",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thieves' Camp Dungeon",
+      "description": "Location:\n\nEast of Thieves' Camp.\n\nHow to unlock:\n\nThieves' Camp Dungeon Key"
+    },
+    {
+      "id": "912382",
+      "catalogId": "10056",
+      "position": [
+        -1.015919607851913,
+        0.785010461514247
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/47f786b1b20caed90181ecdec6b05c5e87e22c9534610ade48e7affa5d4d46a7.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10056&landmarkId=912382",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Tunnel",
+      "description": "Location:\n\nNorth of the Bell.\n\nHow to unlock:\n\nCrimson Forest Tunnel Crank"
+    },
+    {
+      "id": "914389",
+      "catalogId": "10056",
+      "position": [
+        -0.6592268241037971,
+        0.4213423156577534
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10056&landmarkId=914389",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Sha-Chi Tower Top Floor",
+      "description": "How to Unlock:\nCrimson Forest Sha-Chi Tower Top Floor Key"
+    },
+    {
+      "id": "912808",
+      "catalogId": "10057",
+      "position": [
+        -0.27975022369179214,
+        1.0405293320355895
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10057&landmarkId=912808",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Village of Lu",
+      "description": ""
+    },
+    {
+      "id": "912336",
+      "catalogId": "10057",
+      "position": [
+        -0.8192563190908686,
+        0.3553288910271277
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10057&landmarkId=912336",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Weeping Creek Valley",
+      "description": ""
+    },
+    {
+      "id": "914435",
+      "catalogId": "10059",
+      "position": [
+        -0.20702418730814998,
+        1.045272594462034
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10059&landmarkId=914435",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "[Late-game Unlock] Bone-Piercing Chaos",
+      "description": "How to Obtain:\nDropped by No. 34 - Chaos Puppet: \"Jade Cong\"."
+    },
+    {
+      "id": "912522",
+      "catalogId": "10059",
+      "position": [
+        -0.24574837074189304,
+        0.9990860785828488
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/157bc5ab94b4f3d0ab61e7dbba92b73dbe16ca8149b7ea30fccd30b9f4a2a66c.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10059&landmarkId=912522",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "White Serpent and Crimson Viper",
+      "description": "How to obtain:\nDefeat Bai Chilian.\n\nWeapon assessment:\n\nA weapon with very generous stats. Its drawback is the high cost of its Sha-Chi skill, so pair it with an accessory that reduces Sha-Chi consumption."
+    },
+    {
+      "id": "912361",
+      "catalogId": "10059",
+      "position": [
+        -1.2307374081945568,
+        0.6071411618588911
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/4158818e9225bf6eb6660b0315194a5d8b8e7e1eea8c181aa4cef68407ce0809.jpg",
+        "/assets/images/1eb8a9a1ae0e2e7cb161f7f1b0bdda9807ecc004d2e74880138639b402277654.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10059&landmarkId=912361",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "[Powerful] The Fanatic's Broken Blade",
+      "description": "How to obtain:\n\nDefeat Hua Qianxiao, the Sword Fanatic.\n\nWeapon assessment:\n\nUsing the special skill to drink turns it into a partly ranged weapon, which is useful for clearing regular enemies. Unfortunately, its stats are low and it requires drinking; when the drunken effect wears off, it leaves you unable to act. Switching it out for boss fights is recommended.\n\nIt might be a crutch, though calling it one also seems a little unlikely."
+    },
+    {
+      "id": "912390",
+      "catalogId": "10059",
+      "position": [
+        -0.9194094396086996,
+        0.7711721423095099
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/199214c9bb0e9fec5a341f3b09f23f3f840578eb6ceead3fd0c095e06cc45c15.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10059&landmarkId=912390",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "[Crutch] Outlaw Warblade",
+      "description": "How to obtain:\nDefeat Jing Ye, The Outlaw.\n\nWeapon assessment:\n\nPersonally, I consider this one of the weapons that makes the game much easier. Its stats are low, but it steals health.\n\nIts Power Surge is exceptionally powerful: a forceful grab with super armor that deals substantial damage and restores half your health on a hit.\n\nThe regular Sha-Chi skill is not very useful early on because it is difficult to recover the health it costs, but after +15 you can use it more often.\n\nSince you generally do not use the regular Sha-Chi skill, your Sha-Chi gauge tends to stay fuller. It is strong and takes little input, making it an easy way through the game.\n\nPut it in slot 2. Use the Jagged Steel in slot 1 to build up Sha-Chi, then switch weapons and use the Power Surge to steal health."
+    },
+    {
+      "id": "912468",
+      "catalogId": "10060",
+      "position": [
+        -0.8827934902261632,
+        0.9203153312956402
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7f7f885dbd19b8a578635abcce66e832923aff137c14ee278d1dc813a9e0d2f3.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10060&landmarkId=912468",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flying Dagger",
+      "description": "How to obtain:\nComplete Quick Hand's Request in the Crimson Forest region."
+    },
+    {
+      "id": "912458",
+      "catalogId": "10060",
+      "position": [
+        -0.676991046587915,
+        0.5486348189948131
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/e9fce4175bb25a2034981a6bd4f4be1e3ba1b79927cf51bf438926f75097a63e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10060&landmarkId=912458",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Iron Gauntlets",
+      "description": "How to obtain:\nDefeat Stone Hand Iron Fever.\n\nWeapon assessment:\n\nThe standout Phantom Edge: it can break shields, deal damage, and even grant an attack buff. At level 15, you can also use guard-point blocks. Recommended all the way to the end of your first playthrough."
+    },
+    {
+      "id": "912394",
+      "catalogId": "10061",
+      "position": [
+        -0.9697166629145784,
+        0.508198719335283
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/06a2c82648b7ce7cf7b96434f0c9cd0668f5b852cc9b7c361e5339c0dac1120f.jpg",
+        "/assets/images/344b3ec68cdfe48fc87978b42f5318fe2fadd2b3a3d2e700b3e5abababc25312.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912394",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Preservation Talisman Fragment II",
+      "description": "How to obtain:\nUnlock and enter the Crimson Forest Tunnel. Climb down the ladder, loot the pit at the bottom, then cross the bridge to pick up the Preservation Talisman Fragment II accessory. Combine it with Preservation Talisman Fragment I to form the Preservation Jar accessory."
+    },
+    {
+      "id": "912386",
+      "catalogId": "10061",
+      "position": [
+        -1.0635431096177683,
+        0.7767922411065342
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5fc11e95cf69f226cf08020d2ca83ea02739bd259250a44a34c79c9f002bb2e7.jpg",
+        "/assets/images/390d4d360fc15707405631495b01dd6f534dfc1bfb424e6f0690af1053f9ce51.jpg",
+        "/assets/images/216d36f0d42b605765cd498eb3eaf7dccd5361f35a93ad7c336dbab49ea69236.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912386",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Preservation Talisman Fragment I",
+      "description": "How to obtain:\n\nHead west from the Outlaw Trap Bell into the cave. This is the same cave where the butcher was standing above you earlier. Obtain the Crimson Forest Tunnel Crank story item and the Preservation Talisman Fragment I accessory.\n\nCombine it with Preservation Talisman Fragment II to form the Preservation Jar."
+    },
+    {
+      "id": "914437",
+      "catalogId": "10061",
+      "position": [
+        -0.5522812826125687,
+        0.31357817542826183
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=914437",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ice-Protection Talisman",
+      "description": "How to Obtain:\n\nEffect:"
+    },
+    {
+      "id": "912578",
+      "catalogId": "10061",
+      "position": [
+        -0.6898979688976681,
+        0.8369861701513344
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/67b1a9a9199e8b6ee467165a6cfd01003506022557793bea56bb787e992a2ff8.jpg",
+        "/assets/images/157c24451d1ed8ed232a7f0523dcd52fb015801ded2ff23e7b4b5d7e6acf9d88.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912578",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Brass Chest Guard",
+      "description": "How to obtain:\n\nFrom the Thieves' Camp Bell, head east through the Thieves' Camp Dungeon. Keep your shield raised to pass the traps on the lower level, then open the chest to obtain the Brass Chest Guard accessory.\n\nEffect:\n\nNatural Sha-Chi drain -30% while you hold parry to maintain your stance."
+    },
+    {
+      "id": "912523",
+      "catalogId": "10061",
+      "position": [
+        -0.24643754963429387,
+        1.012965970676703
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/37eeebf6d360235cff764322ed9e12dbe03e6c0be8ed194e455393d782fe4a9f.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912523",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Resonance Talisman",
+      "description": "How to obtain:\n\nDefeat Bai Chilian.\n\nEffect:\n\nSha-Chi +15%."
+    },
+    {
+      "id": "912483",
+      "catalogId": "10061",
+      "position": [
+        -0.37207274478194563,
+        0.8387086674335649
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/417dc6b368c3d36887a60cc6efb888087daa33332e7b3684b2925d65fe99cd97.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912483",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Miraculous Scabbard",
+      "description": "How to obtain:\n\nComplete the Long Pillar challenge.\n\nEffect:\n\nSwitching primary weapons grants super armor and 25% damage reduction for 2 seconds."
+    },
+    {
+      "id": "912465",
+      "catalogId": "10061",
+      "position": [
+        -0.8210811757685974,
+        0.7957868362563545
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8027099f2c8edd91f8f1029e5f6e5560456358be19251766d6e9c35d76452214.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912465",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Seal of Solitary Severance",
+      "description": "How to obtain:\n\nComplete the first step of Secrets of the Baishan Sect by finding the Severely Wounded Baishan Disciple in the lodge dungeon. Return to Ju and select \"It was clearly you\" to obtain it.\n\nIf you return after entering the Village of Lu, defeat the Sha-Chi-transformed Ju directly to obtain it.\n\nEffect:\n\nSha-Chi depletion inflicted by Sha-Chi combos +8%."
+    },
+    {
+      "id": "912464",
+      "catalogId": "10061",
+      "position": [
+        -0.8265869490306841,
+        0.8684011141299948
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/cbf641eddcf11ee909c562660de14b30281a6cc67801666ebd6e7cec7ba8b038.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912464",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Calming Gourd",
+      "description": "How to obtain:\n\nComplete A Healer's Mercy.\n\nEffect:\n\nDrinking medicine lets you recover from a guard break and prevents Sha-Chi consumption for 3 seconds."
+    },
+    {
+      "id": "912419",
+      "catalogId": "10061",
+      "position": [
+        -0.8623102611708191,
+        0.9092527195900857
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/45ee8722eb308d74ae2ecd025a64b30411794115c135c5b3920c1a384ac493dc.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912419",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Quick Hand Pendant",
+      "description": "How to obtain:\n\nAfter rescuing Quick Hand Zhang, find him here. He gives you the accessory as a gift.\n\nEffect:\n\nDamage with one-handed primary weapons +10%."
+    },
+    {
+      "id": "912408",
+      "catalogId": "10061",
+      "position": [
+        -0.798080324724566,
+        0.8280575584264653
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5ea97ab826f5690a7538579be2c9af9db8f8dffb3a82fdce3f39fa320fb7645e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912408",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Silent Wrap",
+      "description": "How to obtain:\n\nAfter obtaining the Blood Letter from the Nimble Thief in the southern part of the Outlaw Trap area, find The Gentle Thief in the house to the right of the bridgehead at Thieves' Camp.\n\nChoose these answers: \"Stole the wealthy landowner's jade belt\" → \"Butterfly\" → \"The blood-written letter did not mention it; the whereabouts seem to be unknown.\" You receive the Silent Wrap accessory and complete the Local Tale Honor Among Thieves.\n\nEffect:\n\nNoise from footsteps and assassinations -50%.\n\nNotes:\n\nObtain this before proceeding to Chapter 3."
+    },
+    {
+      "id": "912395",
+      "catalogId": "10061",
+      "position": [
+        -0.9699753774021929,
+        0.51486886916571
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b4bfe0f9bf61acfa8faccbdf75c676337eb20bddd3920d8adad21b5347588147.jpg",
+        "/assets/images/caccd08c0ddff79932b45c6d8ec4603db2a5240312089953bcb8010892f79751.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912395",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Preservation Jar",
+      "description": "How to obtain:\n\nUnlock and enter the Crimson Forest Tunnel. Climb down the ladder, loot the pit at the bottom, then cross the bridge to pick up the Preservation Talisman Fragment II accessory. Combine it with Preservation Talisman Fragment I to form the Preservation Jar accessory.\n\nEffect:\n\nPoison damage taken -50%."
+    },
+    {
+      "id": "912374",
+      "catalogId": "10061",
+      "position": [
+        -1.022798163090954,
+        0.7080565626191202
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/af77e1f603edd4e1e77a75cd7019e7f5bcee0d6b5c2c88fe2e9ceab39d6ec622.jpg",
+        "/assets/images/214b521fdf30c9cccf73b833c41b35b9ddca9d071b950b612aa7e551563c2f7d.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912374",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Cavalrybane",
+      "description": "How to obtain:\n\nFrom the Trail of Cages lantern, enter the cave ahead on the right. After spotting the butcher above, cross the bridge and turn right. Follow the passage through the cave and outside. Jump down to the platform below and open the chest.\n\nEffect:\n\nDamage against cavalry enemies +25%."
+    },
+    {
+      "id": "912351",
+      "catalogId": "10061",
+      "position": [
+        -1.1197913939370494,
+        0.5082426620236049
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c1f688d9567a90e5d9b2e42c23576ac25c6fce25a321edf253270fe63c4b76f8.jpg",
+        "/assets/images/45195aae8efadcd60f324a56f59c46759dec2ef2fc7719065c997541880fc2af.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=912351",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Shieldbreaker Talisman",
+      "description": "How to obtain:\n\nFrom the Abandoned Main Road Bell, follow the highroad to its end. Defeat the enemies and open the chest to obtain the Shieldbreaker Talisman accessory.\n\nEffect:\n\nShield durability damage +50%; damage taken from spiked shields -30%."
+    },
+    {
+      "id": "914436",
+      "catalogId": "10061",
+      "position": [
+        -0.19033596491217963,
+        0.9249890198325659
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c0e523b777b155a76c0f4871200c703e2bd1f4fd96dcc5f157d02a7691c08db8.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10061&landmarkId=914436",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "[Late-game Unlock] Chaos Frenzy Ring",
+      "description": "How to Obtain:\nOn the right side of the second area along the route from the Mirrorwood Depths teleport point to the Threadbound Great Tree teleport point. It can be picked up after entering Mount Soulrend.\n\nEffect:\nAfter Chaos Flames inflict Sha-Chi Burn on an enemy, restore your own Sha-Chi by 50% of the amount of Sha-Chi the enemy loses."
+    },
+    {
+      "id": "912400",
+      "catalogId": "10062",
+      "position": [
+        -0.9943530187835563,
+        0.39046543839064896
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/cc05fcf25c1be9362517e1c50e08c6478086bf40ef14a0f118faa6c381c344cb.jpg",
+        "/assets/images/9ef7acadd835ec194e0bdfaebc2be084a34204614ed28922cae886c7861adf47.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10062&landmarkId=912400",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Kuye Dew",
+      "description": "How to obtain:\n\nClimb down the ladder in the Crimson Forest Tunnel. To the south is a wooden door. Open it, go outside, and pick up the Kuye Dew flask at the cliff edge outside the house. (This is actually near the starting point of this level.)\n\nEffect:\n\nReduces damage taken by 20% for 15 seconds while restoring 40% health over 10 seconds.\n\nUses: 4"
+    },
+    {
+      "id": "912362",
+      "catalogId": "10062",
+      "position": [
+        -1.1947048620224905,
+        0.5843446585859198
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/212b169bcc2911e60a3503ee393e35de35fb4514cf9b4bb8c4077df52600bf39.jpg",
+        "/assets/images/3c27233a48475c0fa9253350499a496bde30fc3505a48fa0a2400d56a0bbbc4b.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10062&landmarkId=912362",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Simmering Brew",
+      "description": "How to obtain:\n\nAfter defeating Hua Qianxiao, the Sword Fanatic, the bridge collapses as you cross toward Pangzhen. After falling, use the grappling hook to cross the gap and pick up the Simmering Brew flask.\n\nEffect:\n\nContinuously generates Sha-Chi for 15 seconds and gradually restores 30% health over that duration.\n\nUses: 3"
+    },
+    {
+      "id": "914423",
+      "catalogId": "10062",
+      "position": [
+        -0.6980116167810024,
+        0.3938551906437908
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10062&landmarkId=914423",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Miracle Remedy",
+      "description": "How to Obtain:\nStart at the Crimson Forest Sha-Chi Tower Base, take the wooden stairs on your right all the way down, and open the chest.\n\nEffect:\nRestores 30% HP. If your HP is below 35%, restores an additional 30% HP.\n\nUses: 3"
+    },
+    {
+      "id": "914432",
+      "catalogId": "10278",
+      "position": [
+        -0.7047796006758631,
+        0.4619631487364728
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10278&landmarkId=914432",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Heart of the Fist Fragment - Shell",
+      "description": "How to Obtain:\nDuring the Heart of the Fist quest, Iron Fiend asks you to offer incense at his master's grave. Teleport back to the Burial Grounds Bell and interact with the gravestone beside it.\n\nSoul Tempering material for Iron Gauntlets."
+    },
+    {
+      "id": "914453",
+      "catalogId": "10278",
+      "position": [
+        -0.8018007900243447,
+        1.0087192049016949
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10278&landmarkId=914453",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Serpent's Rattle - Crimson",
+      "description": "Collect all the corpses to obtain the Serpent's Memory, used for Soul Tempering White Serpent and Crimson Viper."
+    },
+    {
+      "id": "914460",
+      "catalogId": "10278",
+      "position": [
+        -0.5098139829552224,
+        0.9858140730137848
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10278&landmarkId=914460",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Song of Parting",
+      "description": "Behind the obstacle that requires the Tiger Cannon."
+    },
+    {
+      "id": "914433",
+      "catalogId": "10278",
+      "position": [
+        -0.6793328478566423,
+        0.4613019783855066
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10278&landmarkId=914433",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Heel Reinforcement Part",
+      "description": "Soul Tempering material for Fiend Saws, obtained by sparring with Jade Dancer and Iron Fiend."
+    },
+    {
+      "id": "914481",
+      "catalogId": "10278",
+      "position": [
+        -0.23546027737307895,
+        1.0475627388051265
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10278&landmarkId=914481",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "[Late-game Unlock] Chaos Iron Fragment II",
+      "description": "After Soul Tempering Sanguine Reach, return to fight the hidden boss Jade Cong; it will have an additional phase. Defeat Jade Cong to obtain this.\n\nCollect all the fragments to combine them into Chaos Twin Iron, used for Soul Tempering Sanguine Twin."
+    },
+    {
+      "id": "914543",
+      "catalogId": "10278",
+      "position": [
+        -0.6698287906507971,
+        0.4633259887592942
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10278&landmarkId=914543",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Supreme Order Token",
+      "description": "Obtain by talking to Mu Xiaokui at the top of the Sha-Chi Tower."
+    },
+    {
+      "id": "914391",
+      "catalogId": "10278",
+      "position": [
+        -0.6731682199909983,
+        0.3928535504084891
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10278&landmarkId=914391",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Honed Blacksteel",
+      "description": "How to Obtain:\nAt the lower-level Bell, face forward and head right. Look for the stairs on the left, follow the pipe, and go down. There is a small path to the right beside the furnace.\n\nCan be used for Soul Tempering Sundering Dual Axes."
+    },
+    {
+      "id": "912450",
+      "catalogId": "10063",
+      "position": [
+        -0.5181314143721352,
+        0.9223823425026012
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/084b468e28c01c122f1fd32aa3fc33300a8e1a1bff8226f60cea4fed4e9c4e3f.jpg",
+        "/assets/images/f7c053b4ca15a3f63e2022a7f1db273596449cd30195dfb05033daabbf181d64.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10063&landmarkId=912450",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "How to obtain:\nGo down into the lodge cellar and continue straight at the fork to reach the platform shown in image 2. There is a chest on the platform to the right. The secret chamber key is also found here."
+    },
+    {
+      "id": "912431",
+      "catalogId": "10063",
+      "position": [
+        -0.8054200874024957,
+        0.9656246429186552
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/d4858141d301eb8bd6f2d23af323e8e6b33df83aeafde6ebd3fa2d900c89e67b.jpg",
+        "/assets/images/50444849ca50cb96806ad80912d19ee0ce93ed90adee1e3f8186c58aa446a140.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10063&landmarkId=912431",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "How to obtain:\nFrom the Red Serpent House Bell, head all the way south, then climb the steps. Defeat the enemies, search the house, and open the chest to obtain a Blackstone Fragment."
+    },
+    {
+      "id": "912370",
+      "catalogId": "10063",
+      "position": [
+        -1.0534808222847118,
+        0.7575696482815317
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/82ede8b3493f2877d54f422f81ab618d77447269495c5d0be7ed7844a8a05492.jpg",
+        "/assets/images/4eccb00eab910e4d365fc2a17fc250fde75f640598acdd1373efe149a39245d4.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10063&landmarkId=912370",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "How to obtain:\n\nFrom the Trail of Cages Bell, enter the cave ahead on the right. Cross the bridge inside to see a pool of poison gas on the left. Go down into the gas and open the chest to obtain a Blackstone Fragment.\n\nYou continually lose health in the poison gas, so do not stay too long."
+    },
+    {
+      "id": "912356",
+      "catalogId": "10063",
+      "position": [
+        -1.1043742115350028,
+        0.520342785236295
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/883bcc422f7122f65ec7ec5fa0f744fb3947bbee9015d9839910be51d1351c03.jpg",
+        "/assets/images/a3703392891b842b98d546d54cf08548c01651233821a765ed3c80df7957c97e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10063&landmarkId=912356",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "How to obtain:\nFrom the Abandoned Main Road Bell, head north into a building. Deliberately drop down during the wall run to pick up the Blackstone Fragment.\n\nContinue forward and exit to see that the upper and lower paths connect. You can therefore also complete the wall run first, then come back for the Blackstone Fragment below."
+    },
+    {
+      "id": "914427",
+      "catalogId": "10063",
+      "position": [
+        -0.6480640062499958,
+        0.40230737371132363
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10063&landmarkId=914427",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914426",
+      "catalogId": "10063",
+      "position": [
+        -0.6945860247607527,
+        0.39382528021540963
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/32e54fe4eee78acb8233ff20bb07ef56450d00f8b4d205242207f19db7ff4515.jpg",
+        "/assets/images/2d7bbb894dca69a17a565743a1cf31b3e801f4570c88b9dfe897b273192bcd96.jpg",
+        "/assets/images/86f76395bceef1bd279f2cbc2ddf95f71ed72eb8271c21d016b7656f7b2f1d97.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10063&landmarkId=914426",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blackstone Fragment",
+      "description": "How to Obtain:\nTake the downward path from the Sha-Chi Tower Base teleport point. Kill the regular enemies and open the chest. A Miracle Remedy is nearby."
+    },
+    {
+      "id": "912476",
+      "catalogId": "10064",
+      "position": [
+        -0.7113013963349317,
+        0.8505425211219091
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/771fd4c64add51f41ce47179c68999389403e74725bd2d5af0cb305e03458d43.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10064&landmarkId=912476",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to obtain:\n\nFrom Thieves' Camp, head east through the Thieves' Camp Dungeon. Go down and defeat the monsters, then continue east. There is another Sha-Chi Amber Fragment on the dungeon's lower level."
+    },
+    {
+      "id": "912471",
+      "catalogId": "10064",
+      "position": [
+        -0.7277914144617625,
+        0.8546789125844043
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/a812a8fe730a808bf39ecfb3a21a4447a7844d1f229812d3ba5040ea60cb63b8.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10064&landmarkId=912471",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to obtain:\nFrom Thieves' Camp, head east through the Thieves' Camp Dungeon. Go down and defeat the monsters to obtain the Cave Prison Key story item, then return to the upper level to open the cell. The chest contains a Sha-Chi Amber Fragment."
+    },
+    {
+      "id": "912445",
+      "catalogId": "10064",
+      "position": [
+        -0.4839630222690232,
+        0.8977941255348298
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ddbc17a2691adbcce0156cbaa0cedc6b6d31227e10abd6dda822c3816fd1170d.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10064&landmarkId=912445",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "[In the Cellar] Sha-Chi Amber Fragment",
+      "description": "How to obtain:\nGo down into the lodge cellar. Open the chest in the poison gas on the right to obtain a Sha-Chi Amber Fragment."
+    },
+    {
+      "id": "912399",
+      "catalogId": "10064",
+      "position": [
+        -0.9949538336029491,
+        0.39698841669377316
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8c2b21d9aad0323dd383fd3f037c0fd0270c70580d51e33216850013a7945a87.jpg",
+        "/assets/images/2c8cb43f6761cba705598726d54010c05304590fac072a0ccf769a4c0385c06b.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10064&landmarkId=912399",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to obtain:\n\nClimb down the ladder in the Crimson Forest Tunnel. To the south is a wooden door. Open it, go outside, and open the chest to obtain a Sha-Chi Amber Fragment."
+    },
+    {
+      "id": "914424",
+      "catalogId": "10064",
+      "position": [
+        -0.1651405363994627,
+        0.8707314946529294
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10064&landmarkId=914424",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "[Late-game Unlock] Sha-Chi Amber Fragment",
+      "description": "How to Obtain:\nAfter entering Mount Soulrend, Crimson Forest will become frozen over. Return to Mirrorwood at that stage to pick up a Sha-Chi Amber Fragment."
+    },
+    {
+      "id": "914425",
+      "catalogId": "10064",
+      "position": [
+        -0.6854614151968121,
+        0.40981595155415107
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10064&landmarkId=914425",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Amber Fragment",
+      "description": "How to Obtain:\nStart from the gate Bell and follow the path to the right all the way to the end."
+    },
+    {
+      "id": "912581",
+      "catalogId": "10065",
+      "position": [
+        -0.7403864660398085,
+        0.7402270585053401
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ad36e8c4fb0cfbd2a0bfefd2e57c3bffe5bbbb58e8974930f293086c4bd970b3.jpg",
+        "/assets/images/3c9e302b331cfdc12d8a588d8fd5c12b9c045d8a7455a79675e223b072cd4b74.jpg",
+        "/assets/images/2bf9988853d893b641340233f881175980db8a25d4638891ec54584751af9373.jpg",
+        "/assets/images/36de646edd9f45288285ccf1b57a316216d7469abba878b7f415e2fb89039f6d.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912581",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower: On Perfect Transcension - III. A Newfound Power",
+      "description": "How to obtain:\nPass the terrain that requires the Bastion, exit through the Thieves' Camp Dungeon, and pick up the Memory Flower On Perfect Transcension (Part 3) at the cliff edge."
+    },
+    {
+      "id": "912519",
+      "catalogId": "10065",
+      "position": [
+        -0.21166443428043635,
+        0.9311437134791163
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/0c7c110e503a5f4a4d4714afca66d2daf93b114611f26c1df9d1c7ea58307533.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912519",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bai Chilian's Memory Flower - II. The Lady's Prophecy",
+      "description": "How to obtain:\nContinue forward to find another set of mirrors: left, ahead, and right.\n\nPick up the Memory Flowers Bai Chilian (Part 1) and Bai Chilian (Part 2) on the middle path."
+    },
+    {
+      "id": "912516",
+      "catalogId": "10065",
+      "position": [
+        -0.1907252717276151,
+        0.9085824117263996
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/381a4793290d3f48c7966855a8a2debbe6b9855ec4ff85b9ed0bcb868ea93130.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912516",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bai Chilian's Memory Flower - I. The Only Salvation",
+      "description": "How to obtain:\nContinue forward to find another set of mirrors: left, ahead, and right.\n\nPick up the Memory Flowers Bai Chilian (Part 1) and Bai Chilian (Part 2) on the middle path."
+    },
+    {
+      "id": "912513",
+      "catalogId": "10065",
+      "position": [
+        -0.1907378144266545,
+        0.8718189575597961
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/24d51c395aa05a7990fecaf8440310430f1189f2c7c30a80037f291750031031.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912513",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Inanis' Memory Flower - VI. New Life",
+      "description": "How to obtain:\nOn reaching the Mirrorwood, you will find a mirror on the left, one ahead, and one on the right.\n\nPick up the Memory Flower Inanis (Part 6) on the middle path. Search the surrounding area as well."
+    },
+    {
+      "id": "912509",
+      "catalogId": "10065",
+      "position": [
+        -0.1856240925289967,
+        0.7811327553289971
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/88893843b8c9003ec60b310e13e7b14a50b377d87ac86ca89a2e4b2848b6e0fa.jpg",
+        "/assets/images/579291ba2dd875896d8a15bc075a5f9f001fdf963dfc7a97168118809effdc3e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912509",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Inanis' Memory Flower - V. Soul Displacement Scroll",
+      "description": "How to obtain:\nCross the river and activate the Mirrorwood Depths Bell. Nearby, pick up the document Reflections (A Mirrorwood Journal) and the Memory Flower Inanis (Part 5)."
+    },
+    {
+      "id": "912504",
+      "catalogId": "10065",
+      "position": [
+        -0.22662758484386814,
+        0.672241520264464
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/2db9aa9d73fd324e0a46f8f4f62013578fa76273b81ae58fd3096bd4e00a4aea.jpg",
+        "/assets/images/fa1497d2676c03933f8d61c435ee7797b451f274d697a0f1759c390edb892d2e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912504",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Inanis' Memory Flower - IV. An Uninvited Guest",
+      "description": "How to obtain:\nHead north through the cave. Pick up the Memory Flower Inanis (Part 4) outside the cave entrance. There are birds ahead; remember to use your bow."
+    },
+    {
+      "id": "912499",
+      "catalogId": "10065",
+      "position": [
+        -0.4091459806764419,
+        0.4168324722448489
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912499",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Inanis' Memory Flower - III. The Gilded Lotus",
+      "description": "How to obtain:\n\nPick up the Memory Flower Inanis (Part 3) beneath a light in the misty forest.\n\nFollow the lights to avoid getting lost in the misty forest. Still, it is worth searching the entire forest, as there are plenty of items to pick up."
+    },
+    {
+      "id": "912488",
+      "catalogId": "10065",
+      "position": [
+        -0.4652466090793155,
+        0.5991427846556547
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f2c48f45264bd9bd093a94783b614fef2f740a3f537a356f6a9b875e69d599fe.jpg",
+        "/assets/images/0f5170d9053705aece23bd8cb34dfabde48c105c62e2c1ff82f4caa6106e9bf1.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912488",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Inanis' Memory Flower - II. Gravely Ill",
+      "description": "How to obtain:\nUse the grappling hook on the branches to cross the poison gas and activate the Burial Grounds Bell. Pick up the Memory Flower Inanis (Part 2) beside the grave."
+    },
+    {
+      "id": "912477",
+      "catalogId": "10065",
+      "position": [
+        -0.45724439306653153,
+        0.7407607166378369
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/1ed15277456870e4866d514e818592e8b3fad8a9376da2235875334f11c08acb.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912477",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Inanis' Memory Flower - I. The Performance",
+      "description": "How to obtain:\nHead east into the cave. Pick up the Memory Flower Inanis (Part 1) at the fork to start the collection quest Resonant Strings. Be sure to collect it before fighting the area's final boss."
+    },
+    {
+      "id": "912459",
+      "catalogId": "10065",
+      "position": [
+        -0.7194518289023506,
+        0.5393920721475496
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6b51854df90e77391a307d40dedfd523f0153c2e69e338a9eb84e96afbb7b563.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912459",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Stone Hand Iron Fever's Memory Flower - II. Different Paths",
+      "description": "How to obtain:\nPick it up beside the cliff."
+    },
+    {
+      "id": "912456",
+      "catalogId": "10065",
+      "position": [
+        -0.5892222378987242,
+        0.66232052946647
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8599b46ac66e0f03d227fe1d22ccd625a0444396846c089f1af6eb70ae90ed85.jpg",
+        "/assets/images/bb79ce7312ca974ee41673e0dc04caa288fd0f9e75a17eb08eb6cc6d98156b09.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912456",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Stone Hand Iron Fever's Memory Flower - I. The Legacy",
+      "description": "Near the bell, pick up the flower to get Stone Hand Iron Fever's Memory Flower - I. The Legacy"
+    },
+    {
+      "id": "912447",
+      "catalogId": "10065",
+      "position": [
+        -0.5001589364413803,
+        0.9767598601989818
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/826de39b79b468266498e5029b74921192dafbfc292146cf58319f0ba9daab6d.jpg",
+        "/assets/images/7f4ee3a72ab08766f0c43b88f6bce4f7454290dcfb2b559e22218b82a4686a61.jpg",
+        "/assets/images/857f110f59827bbf732eef1be241a60fd056533aeae362168e2b81e58340cc02.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912447",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower: On Perfect Transcension - IV. The Means to Resist",
+      "description": "How to obtain:\nIn the Crimson Forest Cellar, head to the left side and pick it up beside the wall that requires the Tiger Cannon to open."
+    },
+    {
+      "id": "912423",
+      "catalogId": "10065",
+      "position": [
+        -0.8548999911641602,
+        0.8580969337713356
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/997ba19b7b6de3bff02460ecef0baaeab34f9d1515d4a30d9a6a9e4a59b2a571.jpg",
+        "/assets/images/4757dc248ac175268db3f76c6197853d841afd483d20770cf9f1849959bd9d4d.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912423",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower: On Perfect Transcension - II. Corruption or Cowardice?",
+      "description": "How to obtain:\nCircle around through the tunnel to the north. Pick up the Memory Flower On Perfect Transcension (Part 2) at the cave entrance."
+    },
+    {
+      "id": "912401",
+      "catalogId": "10065",
+      "position": [
+        -0.8946778057762401,
+        0.712338769516677
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/34f8493025e775db10c290bcf6c2811bbc8bfcdde0c3d26b94cf1bfe5154b4fa.jpg",
+        "/assets/images/6db10adcf0c899de625c871eb3dde14a9f7561a6bce6889df5490554da5dcd9f.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912401",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower: On Perfect Transcension - I. The Handwritten Order",
+      "description": "How to obtain:\nBefore crossing the bridge to the east, jump down on the right to pick up the Memory Flower On Perfect Transcension (Part 1)."
+    },
+    {
+      "id": "912383",
+      "catalogId": "10065",
+      "position": [
+        -1.0610821291868149,
+        0.7953082504973423
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/701c7d9e251e292c0c0c96952cf5818ea3bdc9adc7e32406ab5117517808894f.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912383",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower: Fellow Disciples - III. No Leniency",
+      "description": "How to obtain:\nHead west from the Bell into the cave. Pick up the Memory Flower Fellow Disciples (Part 3) at the entrance."
+    },
+    {
+      "id": "912369",
+      "catalogId": "10065",
+      "position": [
+        -1.0713869592497645,
+        0.7732077557710966
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/36eceb4c2b281e6d7acb9225bec1d57eef9f8bb1238747525fe1de4c5fa16768.jpg",
+        "/assets/images/f9c4c0bfec1eb2be22c3d4b4105ca305f5f32daabfdc75b9cb2c6bf4bc01d832.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912369",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower: Fellow Disciples - II. Orders Retrieved",
+      "description": "How to obtain:\nEnter the cave and cross the bridge, then turn left and head down to pick up the Memory Flower Fellow Disciples (Part 2)."
+    },
+    {
+      "id": "912364",
+      "catalogId": "10065",
+      "position": [
+        -1.0872868784582579,
+        0.629153389009744
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8dca40f8790aa81068704ef5350d09162b5a861bbac26b3308354b27e11b77d0.jpg",
+        "/assets/images/d33e7dfce36f668f4954ecab9a59c881a40ee8c8fc97d78a4793d0d275812c7e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912364",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower: Fellow Disciples - I. Bonds of Fellowship",
+      "description": "How to obtain:\nFollow the path into the cave. Watch out for the wolves on the right and pick up the Memory Flower Fellow Disciples (Part 1)."
+    },
+    {
+      "id": "912339",
+      "catalogId": "10065",
+      "position": [
+        -0.8769568181675709,
+        0.3497973495787221
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8d4dcd9651f29026ad4048014a499c49bdae4d85fb8f0a30dfc5fc4fc4ddcde9.jpg",
+        "/assets/images/38d25c12a5f69273179708d90ddfd103782cad2a119bb5598034d013cf223e6b.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10065&landmarkId=912339",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Memory Flower Left by Inanis",
+      "description": "You can find a Memory Flower Left By Inanis near the Crimson Forest bell."
+    },
+    {
+      "id": "914405",
+      "catalogId": "10066",
+      "position": [
+        -0.6737624735358452,
+        0.4064534998767755
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10066&landmarkId=914405",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Sha-Chi Tower Top Floor Key",
+      "description": "How to Obtain:\n\nUses:"
+    },
+    {
+      "id": "912469",
+      "catalogId": "10066",
+      "position": [
+        -0.7242904342845407,
+        0.8419296776327201
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/dd003f0df9ecc4dfdfbe997daaef0d95c215b1183d66d2556a13fb70bb682148.jpg",
+        "/assets/images/58a24614c679c76989bda5f66687c7a14413fc1020ad6e2b07c3e8281217a7f6.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10066&landmarkId=912469",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Cave Prison Key",
+      "description": "How to obtain:\n\nAfter entering the cave, go down and defeat the monsters to obtain the Cave Prison Key story item.\n\nUse:\n\nCave Prison Cell"
+    },
+    {
+      "id": "912449",
+      "catalogId": "10066",
+      "position": [
+        -0.5180455824721264,
+        0.9264158596346164
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/44528afdd06f26d66b6dfc58f85c274770d54c3a2d9174f1f047d954d2b5ebbc.jpg",
+        "/assets/images/06ab12a65e259f96672190cfa0dcdd1c2fde940b9383fe607cda93e9b573390a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10066&landmarkId=912449",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Secret Chamber Crank",
+      "description": "How to obtain:\n\nInside the lodge cellar, follow the route in the image below. Get the key before opening the door.\n\nUse:\n\nOpens the Crimson Forest Secret Chamber."
+    },
+    {
+      "id": "912452",
+      "catalogId": "10066",
+      "position": [
+        -0.5140707958691451,
+        0.9175487237824598
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c2ee5f6249e0f256f2a01599be258386e122c217b76aa512804f6ea8417089e8.jpg",
+        "/assets/images/4fc47f8e18b1a277c0e37c3e68685a1717287878ca0f0f81ce6303563830aef3.jpg",
+        "/assets/images/d9cc3aac88b3067b42baa9f09f47e0d8f6ad30e2edcab0d0bc2e705d3931b906.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10066&landmarkId=912452",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thieves' Camp Dungeon Key",
+      "description": "How to obtain:\n\nInside the lodge cellar, go up the stairs and continue ahead to obtain the Thieves' Camp Dungeon Key story item. Keep going to open the door and get outside.\n\nUse:\n\nThieves' Camp Dungeon"
+    },
+    {
+      "id": "912444",
+      "catalogId": "10066",
+      "position": [
+        -0.5153154819960548,
+        0.895619308433325
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/275a5d7003b0217fce78e8b047cfa2852a763f951684b846011a6e8f33f4edcc.jpg",
+        "/assets/images/2b6572d09a5d56bcb4f1db3df7e990ce0f3b024beb09f79c48f8446840f2f385.jpg",
+        "/assets/images/040e46c23881b1faac18edf42b2de0325252df880982e00fad55e740e3281a9e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10066&landmarkId=912444",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Cellar Crank",
+      "description": "How to obtain:\n\nGo around the left side to the back of the house. Climb the ladder to the second floor, watching out for poison gas. Obtain the Crimson Forest Cellar Crank story item on the upstairs balcony.\n\nUse:\n\nOpens the Crimson Forest Cellar."
+    },
+    {
+      "id": "912430",
+      "catalogId": "10066",
+      "position": [
+        -0.8287517844280785,
+        0.966773465489041
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/53b97e23808c0ebf41c09c8643f6872f3ac14f5ac32be103bd6099f3861d90fa.jpg",
+        "/assets/images/0bd106cfb3d26cb66e1f309527be113f8d5acb866e7bbc0cfa571179c7dee779.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10066&landmarkId=912430",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forest Outpost Courtyard Key",
+      "description": "How to obtain:\n\nFrom the Red Serpent House Bell, head south and climb the steps. Defeat the enemies and search the houses to obtain the Forest Outpost Courtyard Key story item.\n\nUse:\n\nOpens the Forest Outpost Courtyard Gate."
+    },
+    {
+      "id": "912385",
+      "catalogId": "10066",
+      "position": [
+        -1.0663755223482099,
+        0.7802251517206571
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/d605b72701bc16f022402098fb6d7b4a190b732b0c3b694f6f4fb41ac6848d15.jpg",
+        "/assets/images/29868a6a7f86e3cb185e4909cf058f2e0b73d774856b434c83b44152721babee.jpg",
+        "/assets/images/5cf35f2203d2a2fa1d246b4e2e8f96773b24f1f8501feb95f952dad00757d3f8.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10066&landmarkId=912385",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Tunnel Crank",
+      "description": "How to obtain:\n\nHead west from the Bell into the cave. This is the upper part of the cave where you just rescued Quick Hand Zhang. Obtain the Crimson Forest Tunnel Crank story item and the Preservation Talisman Fragment I accessory.\n\nUse:\n\nOpens the Crimson Forest Tunnel."
+    },
+    {
+      "id": "912577",
+      "catalogId": "10067",
+      "position": [
+        -0.8829311711348566,
+        0.8790860595450454
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b2c76171bb2c79aeb81814091ffff9aa1ce23c3f49c32627fcdf660f5a2999d2.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10067&landmarkId=912577",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thief's Manual",
+      "description": "Spoiler warning\n\nHow to obtain:\n\nAfter you reach the Village of Lu region, the NPCs at Thieves' Camp undergo Transcension.\n\nDefeat the Sha-Chi-transformed enemies at Thieves' Camp to obtain it.\n\nUse:\n\nGive it to the thief in the later Village of Lu region to receive an accessory."
+    },
+    {
+      "id": "912424",
+      "catalogId": "10067",
+      "position": [
+        -0.8220010396712496,
+        0.8836781946756247
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10067&landmarkId=912424",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Yu'er's Life-Saving Pill",
+      "description": "How to obtain:\n\nSpeak to Yu'er and select \"The Wounded in the Forest.\"\n\nUse:\n\nQuest item for A Healer's Mercy."
+    },
+    {
+      "id": "912373",
+      "catalogId": "10067",
+      "position": [
+        -1.0274462505432496,
+        0.7147259937930954
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c54432611fda6955f0172bc532050312716616f6a6840d9a603e7aa54bf44002.jpg",
+        "/assets/images/eeb2801363b65f87f2ed4beb62789b8f5978c49c66ef878d151c71bdf91e47f9.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10067&landmarkId=912373",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "crank to lower Quick Hand Zhang",
+      "description": "From the Trail of Cages lantern, enter the cave ahead on the right. After spotting the butcher above, cross the bridge and turn right. Follow the passage through the cave and outside, then interact beside the gears to release the cage mechanism."
+    },
+    {
+      "id": "914406",
+      "catalogId": "10067",
+      "position": [
+        -0.6688468863019068,
+        0.4058215086895274
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10067&landmarkId=914406",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Primal Stone",
+      "description": "How to Obtain:\n\nUses:"
+    },
+    {
+      "id": "912521",
+      "catalogId": "10067",
+      "position": [
+        -0.24594527899625973,
+        0.9859936443417752
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/a6eaf9c555f5bc2ea690d1202220bbd0ed75bf165cefde242871afd2f9cf1575.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10067&landmarkId=912521",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broken Illusory Pipa",
+      "description": "How to obtain:\n\nUse:"
+    },
+    {
+      "id": "914454",
+      "catalogId": "10067",
+      "position": [
+        -0.8056874969037153,
+        1.0104574265881041
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10067&landmarkId=914454",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Red Serpent's Tongue",
+      "description": "How to Obtain:\n\nUses:"
+    },
+    {
+      "id": "914452",
+      "catalogId": "10067",
+      "position": [
+        -0.7908437474404479,
+        1.0109488956656065
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10067&landmarkId=914452",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Dragon-Shaped Token - Yin",
+      "description": "How to Obtain:\n\nUses:"
+    },
+    {
+      "id": "912467",
+      "catalogId": "10068",
+      "position": [
+        -0.737792996372491,
+        0.8431974427605411
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/75964872e220c7cba43d1f5edb6736e2cb94c7f667cb81f97e16399d9766d4db.jpg",
+        "/assets/images/3c4d3a2151c9a8bde89f193f06bf898c2548e319b6cc21fa93df04805fe7be7f.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10068&landmarkId=912467",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ancient Crossbow",
+      "description": "How to obtain:\n\nFrom Thieves' Camp, head east through the Thieves' Camp Dungeon. Open the green chest to the right of the doorway to obtain the Ancient Crossbow, one of Quick Hand Zhang's treasures."
+    },
+    {
+      "id": "912425",
+      "catalogId": "10068",
+      "position": [
+        -0.830350383319086,
+        0.8915284003410875
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/341801598199779c00c9edc780171a910b350f540f5fe4e7bcfc2bb66cea9f42.jpg",
+        "/assets/images/2442389205b5a56deadf9b639ff149cb1a7994089fd4b4d8ff4962c9ddb80b01.jpg",
+        "/assets/images/964f6c4c227e571d282fd30a0e7e67915104554b4693b46a12e3d4ad5aa3b15c.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10068&landmarkId=912425",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bloodstained Seal",
+      "description": "How to obtain:\nFrom the Thieves' Camp Bell, circle around through the tunnel to the north, following the position shown in image 3. Open the green chest in the tunnel to obtain the Bloodstained Seal, one of Quick Hand Zhang's treasures."
+    },
+    {
+      "id": "912396",
+      "catalogId": "10068",
+      "position": [
+        -0.9766078059464007,
+        0.5837017956112618
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/4778099cb88101e57257dba95534a2289b2daa6791bdc079630184f4be6486c0.jpg",
+        "/assets/images/49a323ea75c6c9efae548eb184ca5a33614e8851804f37413cb130d866714eea.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10068&landmarkId=912396",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sect Leader's Snuff Bottle",
+      "description": "How to obtain:\n\nClimb down the ladder in the Crimson Forest Tunnel and loot the pit at the bottom. Cross the bridge and pick up the accessory, then continue inward. Open the green chest to obtain the Sect Leader's Snuff Bottle, one of Quick Hand Zhang's treasures."
+    },
+    {
+      "id": "914457",
+      "catalogId": "10069",
+      "position": [
+        -0.7790132235973317,
+        1.0106595746304947
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=914457",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thread Binding Sect 2",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914456",
+      "catalogId": "10069",
+      "position": [
+        -0.7847448089154909,
+        1.0084836271409472
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=914456",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thread Binding Sect 3",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914455",
+      "catalogId": "10069",
+      "position": [
+        -0.7831140258340383,
+        1.0101999745536858
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=914455",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thread Binding Sect 4",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912839",
+      "catalogId": "10069",
+      "position": [
+        -1.2261236568022298,
+        0.36327782852600876
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912839",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Reflections 8",
+      "description": "How to obtain:\nPick it up from the ground beside the Abandoned Main Road Bell."
+    },
+    {
+      "id": "912508",
+      "catalogId": "10069",
+      "position": [
+        -0.17976007917303605,
+        0.7642242575069247
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/98a795a324c418d87c35f92cd196e7892e7d8cc93746b59888defad5dd46815e.jpg",
+        "/assets/images/7bfebccc05f401234cb2cfbed9d2135c11ec6359a7d7e419cc4c807fff0c51dd.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912508",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Reflections - A Mirrorwood Journal",
+      "description": "How to obtain:\nCross the river and activate the Mirrorwood Depths Bell. Nearby, pick up the document Reflections (A Mirrorwood Journal) and the Memory Flower Inanis (Part 5)."
+    },
+    {
+      "id": "912446",
+      "catalogId": "10069",
+      "position": [
+        -0.5118637561998014,
+        0.9117443554277997
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/d3868847c576ebf3007e0bce3967f9ac18923db0db8e06ddc8b4a2a9ebd7217a.jpg",
+        "/assets/images/590715b6b571323758ec5699cfd47c4d10c8846a2555a0e9348546bf9de95776.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912446",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Reflections - The Baishan Sect",
+      "description": "How to obtain:\nGo down into the cellar and pick up the document Reflections (The Baishan Sect)."
+    },
+    {
+      "id": "912427",
+      "catalogId": "10069",
+      "position": [
+        -0.8013544730598028,
+        0.8914588379394814
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/95d64e9543ab22b5e0f864a365ae9faaa5c0f333be0f6398bd08aaad54143bbe.jpg",
+        "/assets/images/25ec15c1c650066975ab05c6446cc55eabc03bc38af708499867fe6cba66c7c0.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912427",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Fragments of the Mandate 8",
+      "description": "How to obtain:\nGo through the tunnel to the north side of Thieves' Camp. Head south to pick up the document Fragments of the Mandate (List of the Fallen)."
+    },
+    {
+      "id": "912420",
+      "catalogId": "10069",
+      "position": [
+        -0.8817992671253876,
+        0.8919438152983616
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/d9cbe75ccb5e6d7b9f116ad480b2d5e306a982773fcf4648a5c15198db3bc4bf.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912420",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Quick Hand Zhang's Relic List 1",
+      "description": "How to obtain:\nSpeak to Quick Hand Zhang."
+    },
+    {
+      "id": "912416",
+      "catalogId": "10069",
+      "position": [
+        -0.7508659542952216,
+        0.840892490503137
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/97c2b173c7cc5a337d1c009d71094477c369aefbe8358a0458f64a550bfb5f16.jpg",
+        "/assets/images/af783575c2f97ce0d0bef90b3bb87f44041d775aedfbcbaa817d394370e3b7d4.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912416",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Fragments of the Mandate 7",
+      "description": "How to obtain:\nIn front of the cell."
+    },
+    {
+      "id": "912414",
+      "catalogId": "10069",
+      "position": [
+        -0.8310741944639233,
+        0.8484086777697541
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7243a303366115e05738c1e79f765c6419d4f449291dc4a841fa96246c312aa6.jpg",
+        "/assets/images/415905d419d63d331c0a07f15ed0a898ab8bb5aac1afbc9295a8165994c38489.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912414",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Reflections 9",
+      "description": "How to obtain:\nPick it up after crossing the bridge."
+    },
+    {
+      "id": "912412",
+      "catalogId": "10069",
+      "position": [
+        -0.8450880877205691,
+        0.8836717007762189
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6e24790da880ff2d54dfa5f24b4840c7c02d90a035e6bb27fad19cdc698387a0.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912412",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Wulin Tales 6",
+      "description": "How to obtain:\nSpeak to Yu'er and select \"The Wounded in the Forest.\""
+    },
+    {
+      "id": "912379",
+      "catalogId": "10069",
+      "position": [
+        -1.0930293218901284,
+        0.7557679232030523
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/86cdfc30fa500dbdc7a42ccd2e0add72d1ee1d22e597bf31e436710bc86dde93.jpg",
+        "/assets/images/df0bc3b7c4bc3c8f8588b0d4d7ed8657bb53ca97687f978f2fedb644c2df154d.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912379",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Huangxing's Betrayal - Huangxing's Edict",
+      "description": "How to obtain:\nAfter crossing the bridge, pick up the document Huangxing's Betrayal (Huangxing's Edict) at the cave entrance."
+    },
+    {
+      "id": "912358",
+      "catalogId": "10069",
+      "position": [
+        -1.1266415574898474,
+        0.5584601473262722
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ff72da9fca588f5e1b0256865c44b86df0c0603dfb768ca9c0855729c8a7c37a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912358",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Investigating the Villagers' Belongings - Orders to Protect the Young Lady",
+      "description": "How to obtain:\nContinue along the highroad until you encounter cavalry. Pick up the document Investigating the Villagers' Belongings (Orders to Protect the Young Lady) by the roadside."
+    },
+    {
+      "id": "912353",
+      "catalogId": "10069",
+      "position": [
+        -1.1160944176596388,
+        0.5177840039168018
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/186d539c22698fa85129fbf11e049277a8c048e8d702f41feb3ec7095ac12916.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912353",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Fragments of the Mandate 9",
+      "description": "How to obtain:\nClimb to the top of the slope to reach the area above the chest you opened earlier. Drop down and pick up the document Fragments of the Mandate (Mandate Military Pledge)."
+    },
+    {
+      "id": "912349",
+      "catalogId": "10069",
+      "position": [
+        -1.223422415049015,
+        0.39224467404775964
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/05ef587588984c330ba8a27a9e4acde4b29d5a18ae91358b545edad13e0325d3.jpg",
+        "/assets/images/823f8b4df73be332c3b40e37b48a5a7c20d17e8e7775915be866fcbfeb30c8c4.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912349",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Zuo Shang's Game 1",
+      "description": "How to obtain:\nPick it up beside the Bell."
+    },
+    {
+      "id": "912342",
+      "catalogId": "10069",
+      "position": [
+        -0.8794653094417981,
+        0.4174813803442845
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/2875c4ac5440d6748881a8f204f8539baa106961a43ac3d089542a6fc301d446.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912342",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Investigating the Villagers' Belongings 6",
+      "description": "How to obtain:\nGo forward from the Crimson Forest Bell to the fork. First head uphill to the right and pick up the 3 items there."
+    },
+    {
+      "id": "912341",
+      "catalogId": "10069",
+      "position": [
+        -0.8810960925222844,
+        0.4233177100507106
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/eec251111778f177b4817dd65cc27386f52b1ad8441326a593f27a604da56d35.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912341",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Order 4",
+      "description": "How to obtain:\nGo forward from the Crimson Forest Bell to the fork. First head uphill to the right and pick up the 3 items there."
+    },
+    {
+      "id": "912387",
+      "catalogId": "10069",
+      "position": [
+        -1.0658311591816982,
+        0.7589481391183313
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/e0ed1883eb0159e3e6b6f279c4e62631f7bba15e12ce10ddea27be4a36b8b6f5.jpg",
+        "/assets/images/f7b98bf01ac9bbd198084456cb6ed8b5b082d753eb733aeeafab48b78eb53af4.jpg",
+        "/assets/images/753665ceecac43fe843c13f7318ff4adffe95a575889475c42df0dfe2eb5d6dc.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10069&landmarkId=912387",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Blood Letter from the Nimble Thief",
+      "description": "How to obtain:\nOn reaching the western side, first head south. Defeat the enemies to obtain the document Wulin Tales (Thief's Blood Letter) and start the Local Tale Honor Among Thieves (Starting Point)."
+    },
+    {
+      "id": "912584",
+      "catalogId": "10070",
+      "position": [
+        -0.6774918826454837,
+        0.7463192550418682
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/821571339dbc6509d63c33fd9baba85c33b7c6e9220f1b36b3b02307658a7a0e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10070&landmarkId=912584",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Reforge Talisman",
+      "description": "How to obtain:\nDropped by the Butcher beneath the bridge by the Bell."
+    },
+    {
+      "id": "912490",
+      "catalogId": "10070",
+      "position": [
+        -0.5290484084537468,
+        0.3335227303716266
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/e32aa6a05675f57abb2016223639aae4d739eb5af692229543e1cf1f1fb1cb26.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10070&landmarkId=912490",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Reforge Talisman x2",
+      "description": "How to obtain:\nIn front of the Sha-Chi Tower."
+    },
+    {
+      "id": "912480",
+      "catalogId": "10070",
+      "position": [
+        -0.3603043418441132,
+        0.9317809725906159
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/55d9abb12713ebb2e550ca6419529c3c1188aae028d8a6e39141c15d56efa0a1.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10070&landmarkId=912480",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Weapon Reforge Talisman ×4",
+      "description": "How to obtain:\nAt the fork, first take the left path outside. Pick it up beside the cliff."
+    },
+    {
+      "id": "912417",
+      "catalogId": "10070",
+      "position": [
+        -0.8697970162876913,
+        0.8808136091108167
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/89fc520cca0245f7f53efbad735bfb6840837d5a5cc120ef81f5bd31f20f28f9.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10070&landmarkId=912417",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Traversal Talisman ×5",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912345",
+      "catalogId": "10070",
+      "position": [
+        -0.9830067205179489,
+        0.362982796335686
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/67daaac9dd0f4b0fe309d1e746bf5181ea358b6808a520b26e6b7dbc8022f8e8.jpg",
+        "/assets/images/8a539d161dd44e69cc0f4e41df2b47566ca31909db020bf108fa361ad27bf5cc.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10070&landmarkId=912345",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Traversal Talisman x1",
+      "description": "How to obtain:\nIn the clearing north of the stairs."
+    },
+    {
+      "id": "914395",
+      "catalogId": "10070",
+      "position": [
+        -0.6547302793395602,
+        0.38289556703084315
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10070&landmarkId=914395",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Traversal Talisman",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914397",
+      "catalogId": "10070",
+      "position": [
+        -0.6608190456626062,
+        0.39795684023403055
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10070&landmarkId=914397",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Weapon Reforge Talisman",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914401",
+      "catalogId": "10070",
+      "position": [
+        -0.6725749949586373,
+        0.4143749626882425
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10070&landmarkId=914401",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Phantom Reforge Talisman",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914403",
+      "catalogId": "10070",
+      "position": [
+        -0.6374815527519502,
+        0.40313286668704507
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10070&landmarkId=914403",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Traversal Talisman",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912911",
+      "catalogId": "10071",
+      "position": [
+        -0.7080596008969167,
+        0.9437925355894095
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912911",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Remnant Dust ×1007",
+      "description": "Location: In the grass beside the road."
+    },
+    {
+      "id": "912910",
+      "catalogId": "10071",
+      "position": [
+        -1.0118734308150579,
+        0.37667085636002184
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912910",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "x1817 Remnant Dust",
+      "description": "Location: Right beside the road."
+    },
+    {
+      "id": "912593",
+      "catalogId": "10071",
+      "position": [
+        -0.5957072742672267,
+        0.9219750154858986
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c97e0cc0f23dac3f8bc78b0080e3480ca09277353d0b93cdb60c21fb6772642c.jpg",
+        "/assets/images/26cfec0f7a1dc0a4cfccdf9ad4a20e2b41e6f9a454898bbd9cd58b70052ae74f.jpg",
+        "/assets/images/6133e838fb1ad7bc21455a606ca539746bc7f9749e965c7ed4c470cb4283d078.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912593",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "4084 Remnant Dust",
+      "description": "Location:\nHead north from the Bell and climb the steps. There are items to pick up at the end of the steps."
+    },
+    {
+      "id": "912592",
+      "catalogId": "10071",
+      "position": [
+        -0.6055362450746031,
+        0.8757300196953537
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/0d3f0988e58f14b3c78918f1295c0dd225486f1e3b2fbc6f4f44e5576a5da435.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912592",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "924 Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912591",
+      "catalogId": "10071",
+      "position": [
+        -0.6100414065678024,
+        0.8429122551213766
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/528c51936500fc3c8d79f5f6e91d3db51e7d9b578951487827b97cebea06bf3a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912591",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×910",
+      "description": "Location:"
+    },
+    {
+      "id": "912587",
+      "catalogId": "10071",
+      "position": [
+        -0.6725949437626468,
+        0.7464985505712463
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/961372c8dbbb4fb774386383960102a6bf3f1244a5ba97b34d26c3733e0238b9.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912587",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "454 Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912586",
+      "catalogId": "10071",
+      "position": [
+        -0.6560663913213318,
+        0.900858844674147
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8ca0a23075a627b21a81e7b0371b9ff0c44781bd5af0e2bf9b96a5ae27bcc2ec.jpg",
+        "/assets/images/17355f10e28fba0bbdab3cb73d6133643aba19bd1fcb40f87318dfd0a0e57677.jpg",
+        "/assets/images/e45f754405581ef59a811c105422da2d4bbd88528ed2a1336807ffa2d1b2aa49.jpg",
+        "/assets/images/56642c83e7ca26d9dd394da76c7ebf9ce55c0a2a26a2d568b882db4d4c26ef9c.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912586",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "8,280 Remnant Dust",
+      "description": "Location:\nAfter leaving the cave, go to the position shown in image 1 and jump down. Open the chest at the far end of the poison-gas area to obtain it."
+    },
+    {
+      "id": "912583",
+      "catalogId": "10071",
+      "position": [
+        -0.6680991776258054,
+        0.8576949206784406
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c04a41867e2312f6ee3ba0017c0c502b3fb01ccf07f653e0957935053274d2b5.jpg",
+        "/assets/images/475ed206fead1fe8e1a32a8c59eeb781a2418c57d06874eb900430e2e40935d7.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912583",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×907",
+      "description": "Location:"
+    },
+    {
+      "id": "912582",
+      "catalogId": "10071",
+      "position": [
+        -0.6725113868700987,
+        0.8165376085515277
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/e7c973af22d5b0169486ae97127b7ca9df7cf04392774acc6ff6cf792e5db5f4.jpg",
+        "/assets/images/61945f98a320a9c4d0c56db79b51607c7e25551ddbb4d8dc243348d4d58fe580.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912582",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×906",
+      "description": "Location:"
+    },
+    {
+      "id": "912579",
+      "catalogId": "10071",
+      "position": [
+        -0.7122425231587215,
+        0.8113220437913071
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/36def17a288af6050311a72c69f8528594fcb01bf99820700b16fac745f6c7e8.jpg",
+        "/assets/images/5f50c09b0d74bbd979fb214bfe88004b59b958da37802cdbfe340f8001ec406d.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912579",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "452 Remnant Dust",
+      "description": "Location:\nKeep your shield raised to pass the traps on the dungeon's upper level and find the hidden area outside the dungeon."
+    },
+    {
+      "id": "912500",
+      "catalogId": "10071",
+      "position": [
+        -0.3579100153048387,
+        0.3821196332830823
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b78de75fedd416c49ce5ed6c4d6385430add1069f278bc95b516f0d21e667d7a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912500",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "3,651 Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912497",
+      "catalogId": "10071",
+      "position": [
+        -0.41550368098131685,
+        0.4129421476501989
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/1dffcd7c9f90851b0f62aea3a322b8c6a2daf84a5e9a26931c219260c7677229.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912497",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912496",
+      "catalogId": "10071",
+      "position": [
+        -0.423485935009694,
+        0.41448705976701206
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/052cf7b2a7834c439aa460773173aa4447abe8abf3f84805b892c398dabbc6ce.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912496",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912495",
+      "catalogId": "10071",
+      "position": [
+        -0.41383267295515225,
+        0.42238776557229585
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5fa4bde000718d13e2d41714d1eba082aeec8d5852f433ea6e8e47514b3a72a4.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912495",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912493",
+      "catalogId": "10071",
+      "position": [
+        -0.4218149269835294,
+        0.4259925556926305
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/abdf6c65e603780b87db47fc3bff706c7b66afd2fd13179a5b22f322ecf3debd.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912493",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912487",
+      "catalogId": "10071",
+      "position": [
+        -0.41854306709061007,
+        0.6276064507246133
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/736116740174ff2e1efbcd90e9aed562ad7e85b2730c13c9bd4cc3f0a7b05d5b.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912487",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "1,858 Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912485",
+      "catalogId": "10071",
+      "position": [
+        -0.38309972371484946,
+        0.7279595061039856
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c674e2b1cddae8824d11297ec23c6f89f47eedbaaae310233517bbbe93cf649a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912485",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×1863",
+      "description": "Location:"
+    },
+    {
+      "id": "912472",
+      "catalogId": "10071",
+      "position": [
+        -0.7228936484629855,
+        0.8380506847715878
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c75e6261a8d8bbc26070e7130c9174206bed786e9ca0ebd6ea3e3ccf28795d1e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912472",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "911 Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912466",
+      "catalogId": "10071",
+      "position": [
+        -0.7293004616582266,
+        0.8451620270449638
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/9e5046d93d78979dc53ba223ca0a9976f9d6da9d6bfeb7186264a42af18f4022.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912466",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "1,850 Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912453",
+      "catalogId": "10071",
+      "position": [
+        -0.5228074966895235,
+        0.8650511586761525
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8a74d5033c2cc67cad98c05c98e6fbc9e42822ff54f15236999dc75d986c31c0.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912453",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×909",
+      "description": "Location:"
+    },
+    {
+      "id": "912443",
+      "catalogId": "10071",
+      "position": [
+        -0.5366614747602512,
+        0.894442623590507
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/d0c188300d33cf98fc19c249f8f6bfdef22a11bb6aebc69aa0581db9e728b975.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912443",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "911 Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912440",
+      "catalogId": "10071",
+      "position": [
+        -0.4583774961929805,
+        0.9820509012843246
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912440",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×928",
+      "description": "Location:"
+    },
+    {
+      "id": "912438",
+      "catalogId": "10071",
+      "position": [
+        -0.5030225207084698,
+        1.0333287925980983
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/01eacd62dbfc1f30388695568555192ac307cf19e86ee97bbe062d7f5e1f7d8b.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912438",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×902",
+      "description": "Location:"
+    },
+    {
+      "id": "912434",
+      "catalogId": "10071",
+      "position": [
+        -0.6686465015424119,
+        0.9961722670772986
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/62fbdb3517afd097f47ed3ab7c096bbb65a163f9d1ec8a21bbd145c500a4b572.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912434",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×917",
+      "description": "Location:"
+    },
+    {
+      "id": "912429",
+      "catalogId": "10071",
+      "position": [
+        -0.7995184416412826,
+        0.9361474523965683
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/27e034de466e6990b974f90a8d4748f09fc688eed395f11cdc7bdcb723c027bf.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912429",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×903",
+      "description": "Location:"
+    },
+    {
+      "id": "912418",
+      "catalogId": "10071",
+      "position": [
+        -0.8798564312952806,
+        0.8965088301660842
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/9de4d0edeb61a5e6576731bd0eff91d071be9982c7f0e4bc5d28f69a158b4f98.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912418",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×902",
+      "description": "Location:"
+    },
+    {
+      "id": "912409",
+      "catalogId": "10071",
+      "position": [
+        -0.8037930387961296,
+        0.8528758836903592
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/e295eaf3f66531a1e155e2d6b80b1a87511a6c563a70ce65b802fc4870b2ce40.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912409",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "455 Remnant dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912397",
+      "catalogId": "10071",
+      "position": [
+        -0.9672751412867058,
+        0.6159188183237916
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/da468292d4ea0468673b03cbdda313a099fb1ae4e90b023001dcbb953f8d15b0.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912397",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×1863",
+      "description": "Location:"
+    },
+    {
+      "id": "912393",
+      "catalogId": "10071",
+      "position": [
+        -0.9625749205098941,
+        0.4974066307190981
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c6e0ad9518536c62db4927e2f6a2c89aa3c9d7bd0571c5cc3364b8b4a88ab983.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912393",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×1857",
+      "description": "Location:"
+    },
+    {
+      "id": "912392",
+      "catalogId": "10071",
+      "position": [
+        -0.9492255980981099,
+        0.49968845953600294
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b542c778e0a0d173f94febe0e16fdc5f0e8b3a650c6e1e972aef5331715ca936.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912392",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×1838",
+      "description": "Location:\nUnlock the tunnel, enter, and climb down the ladder to pick it up."
+    },
+    {
+      "id": "912384",
+      "catalogId": "10071",
+      "position": [
+        -1.0698045538594272,
+        0.7826011572824001
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7b6fbf904787e440e9ece33466e60f5beb3b3af30a290ffafd5318ccd2d21dc0.jpg",
+        "/assets/images/261c96e9a9c66e12968a9352a8c054107e19a9a186a03700876e24f26439b801.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912384",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×1856",
+      "description": "Location:\nHead west from the Bell into the cave. This is the upper part of the cave where you just rescued Quick Hand Zhang. Obtain the Crimson Forest Tunnel Crank story item and the Preservation Talisman Fragment I accessory."
+    },
+    {
+      "id": "912378",
+      "catalogId": "10071",
+      "position": [
+        -1.127479494962671,
+        0.7593196738384052
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/4961079d5b1aebec94305a2add6841fd9d20337b8c087bbfacfdc8908fd209d8.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912378",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust ×1804",
+      "description": "Location:"
+    },
+    {
+      "id": "912372",
+      "catalogId": "10071",
+      "position": [
+        -1.00909744787171,
+        0.731843846919233
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/dff8ab9f711a2d4582bf72e8bd8db5fe502c1820721f5697fc6c2bc760cdcea4.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912372",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "1876 Remnant Dust",
+      "description": "Location:\nAfter crossing the bridge, turn right. Pick it up from the ground as you pass through the cave."
+    },
+    {
+      "id": "912352",
+      "catalogId": "10071",
+      "position": [
+        -1.1557277000677857,
+        0.5172916097107816
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/0ef2988c8c4214ff14acbfdbf9ae5643fb31001c5a3599e865336b3212e9a16b.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912352",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "3744 Remnant Dust",
+      "description": "Location:\nInside the cave."
+    },
+    {
+      "id": "912943",
+      "catalogId": "10071",
+      "position": [
+        -0.8045908242794724,
+        0.8308085932291789
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912943",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Remnant Dust ×459",
+      "description": "Location: In the corner of The Gentle Thief's room."
+    },
+    {
+      "id": "914411",
+      "catalogId": "10071",
+      "position": [
+        -0.6389994614443992,
+        0.3940698215109393
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=914411",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "914410",
+      "catalogId": "10071",
+      "position": [
+        -0.6828769915639725,
+        0.4318697340803226
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=914410",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "914484",
+      "catalogId": "10071",
+      "position": [
+        -0.5150482587538079,
+        0.863219255625566
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/23c2131ca5dc5868835581dc0f225927366c9fee4838b172cc1d06a0c7d0c269.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=914484",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Remnant Dust 1851",
+      "description": "Exact Location:\nBeside the corpse on the dungeon's mezzanine. Break the crates to get in."
+    },
+    {
+      "id": "914129",
+      "catalogId": "10071",
+      "position": [
+        -0.7936016711748834,
+        0.9061408313773285
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/953e587d839f92a70b0c6756263e0f212fda0f2d89475b528502d0c94a6ea2c2.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=914129",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Probably Over 900",
+      "description": "Location: At the blue ✗."
+    },
+    {
+      "id": "914509",
+      "catalogId": "10071",
+      "position": [
+        -0.5122462846329654,
+        0.9019114478647623
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c88a7e1e7b4ab66d578d2c113d957cbcb7543f9ed18ad653c5ac820cae37c599.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=914509",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "1851",
+      "description": "Exact Location:\nInside the dungeon."
+    },
+    {
+      "id": "912492",
+      "catalogId": "10071",
+      "position": [
+        -0.43284054801290495,
+        0.4273064509138038
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/a36eec84f23c80ff484088943195fa16665828547edd1b15946fcc5bab89fb53.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912492",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "465 Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "912479",
+      "catalogId": "10072",
+      "position": [
+        -0.3757184361309953,
+        0.903334361763811
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7949aef16fdea29f8aa242ecf2c05e7a69f52aad4f29ecb851de8130a12b819c.jpg",
+        "/assets/images/3ab8f7429b03d5bd89e119b42c2c21c443a7773f7a6b50ad1eefce489080b39f.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912479",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent, Twinned Metal, and Forged Metal",
+      "description": "Solvent ×6, Twinned Metal ×5, Forged Metal ×6\nHow to obtain:\nAt the fork, first take the left path outside and loot the chest."
+    },
+    {
+      "id": "914398",
+      "catalogId": "10072",
+      "position": [
+        -0.6673672952212826,
+        0.3943936419710923
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=914398",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914396",
+      "catalogId": "10072",
+      "position": [
+        -0.6643207119978172,
+        0.3833401941528365
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=914396",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Flawless Twinned Metal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914459",
+      "catalogId": "10072",
+      "position": [
+        -0.7787535645648518,
+        1.0081708709317496
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=914459",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Forged Metal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914461",
+      "catalogId": "10072",
+      "position": [
+        -0.5047416206246851,
+        0.9892866448845155
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=914461",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Forged Metal",
+      "description": "How to Obtain:\nBehind the obstacle that requires the Tiger Cannon."
+    },
+    {
+      "id": "914447",
+      "catalogId": "10072",
+      "position": [
+        -0.9915358463279631,
+        0.3941552733055289
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=914447",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Polished Broadplate Metal",
+      "description": "How to Obtain:\nIn the chest below the obstacle that requires Bashpole."
+    },
+    {
+      "id": "914404",
+      "catalogId": "10072",
+      "position": [
+        -0.6764307219256693,
+        0.43775376092625606
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=914404",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Universal Solvent",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "913726",
+      "catalogId": "10072",
+      "position": [
+        -1.0772254157852785,
+        0.6296800669742595
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/19e5086977a4e373dc1055a8d9210bf408007acc8d9bd7910bd22c54ddc96d34.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=913726",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal ×8",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912869",
+      "catalogId": "10072",
+      "position": [
+        -1.226528175043427,
+        0.384606363054246
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912869",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal ×8",
+      "description": "How to obtain:\nPick it up from the ground beside the Abandoned Main Road Bell."
+    },
+    {
+      "id": "912590",
+      "catalogId": "10072",
+      "position": [
+        -0.6452400392584252,
+        0.805085922535298
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/acee16fb35fe627925df35bf44a620704f87b7a66a181dc0c65738a65fbc2a81.jpg",
+        "/assets/images/220248876b17b0f4b73075a4383b642633c006662327a2d6b4141324cf00eba4.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912590",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "6 Broadplate Metal",
+      "description": "How to obtain:\nTurn left from the Lakeside Arch Bridge Bell to reach the fork. Grapple to the opposite platform and pick it up."
+    },
+    {
+      "id": "912505",
+      "catalogId": "10072",
+      "position": [
+        -0.18889703636210697,
+        0.6648201580972568
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b7709f53b74234f6b2748f40157e00c78488498abd518756e5c2976fc740ad66.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912505",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal x6",
+      "description": "How to obtain:\nPick it up in the clearing."
+    },
+    {
+      "id": "912489",
+      "catalogId": "10072",
+      "position": [
+        -0.4732806282140416,
+        0.5975912797294001
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/229d0e3ec83f96dd2b5e95a05cd82bfb9018daa62b490ac8178b3dacc82c1ad1.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912489",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal x6",
+      "description": "How to obtain:\nUse the grappling hook on the branches to cross the poison gas and activate the Burial Grounds Bell. Pick up the Forged Metal beside the grave."
+    },
+    {
+      "id": "912475",
+      "catalogId": "10072",
+      "position": [
+        -0.7088745512698438,
+        0.8392544064360266
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c592a6b0ab1dadc95bcb6b0d9622a6113102baedd2a9239dcf8b91512c9c67a9.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912475",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent ×7",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912422",
+      "catalogId": "10072",
+      "position": [
+        -0.9116903307287316,
+        0.8310165876823277
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5e4a49971fe84a5eb96604eb390b61e4c3a258fd014a5367e84a7498b6c279c2.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912422",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent ×8",
+      "description": "How to obtain:\nOn the wooden walkway."
+    },
+    {
+      "id": "912402",
+      "catalogId": "10072",
+      "position": [
+        -0.9071711497700505,
+        0.7710645508475551
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/116f50e98c0a6ebcc899ff882c71f1a280a4ed0fb5c010df28c773a0280c8e3b.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912402",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal ×8",
+      "description": "How to obtain: Beside the suspension bridge."
+    },
+    {
+      "id": "912381",
+      "catalogId": "10072",
+      "position": [
+        -1.0133723262830472,
+        0.7800356590108208
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/f415938b675170ad6acabb46dcd1a5e1a16602d448bdd63156075a1cbdf1380a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912381",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent ×8",
+      "description": "How to obtain:\nAbove the pit."
+    },
+    {
+      "id": "912377",
+      "catalogId": "10072",
+      "position": [
+        -1.109540881071382,
+        0.7538269886757405
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/08b5390b9b1e6c449a417d18e463f75bd46346bee8ad9e73b071ba14b666d456.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912377",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal ×8",
+      "description": "How to obtain:\nCross the suspension bridge and pick it up inside the wooden hut on the left."
+    },
+    {
+      "id": "912371",
+      "catalogId": "10072",
+      "position": [
+        -1.0447084950993997,
+        0.7714604660914404
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/df1f6e7c4872afad6ec9f57409d2fdf6775a7f836b5504379f47d63822770b8a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912371",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent ×8",
+      "description": "How to obtain:\nEnter the cave in front of where Quick Hand Zhang is held captive. After clearing the dogs and regular enemies from the cave, turn right and pick it up from the ground."
+    },
+    {
+      "id": "912365",
+      "catalogId": "10072",
+      "position": [
+        -1.0761191298140602,
+        0.6154256059242158
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/eddf61942ccfac56cb36a4413295bbcc80087d28c9591cf28c1c69b411cf5841.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912365",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal ×8",
+      "description": "How to obtain:\nFrom the broken bridge, follow the path into the cave and pick it up."
+    },
+    {
+      "id": "912359",
+      "catalogId": "10072",
+      "position": [
+        -1.1344413503863393,
+        0.5649151502808962
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/c371eeb1626c0527bd62fb2164ea2d41e77478a8139b60aece613f7f8559bcd5.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912359",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Twinned Metal\n6",
+      "description": "How to obtain:\nContinue along the highroad until you encounter cavalry. Pick it up on the road."
+    },
+    {
+      "id": "912354",
+      "catalogId": "10072",
+      "position": [
+        -1.1109300932000679,
+        0.5156815517345734
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6af57fc34d373e62cf0f51aa805c827ba98acb4240c1249714aa4434470160ff.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912354",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Twinned Metal ×11",
+      "description": "How to obtain:\nClimb to the top of the slope to reach the area above the chest you opened earlier. Drop down and pick it up."
+    },
+    {
+      "id": "912350",
+      "catalogId": "10072",
+      "position": [
+        -1.1760800834088627,
+        0.4588418870172859
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/65259d03a5954c29a4f714fd84607061454393a22c6c942024a2c6d3b66937a7.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912350",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Solvent ×7",
+      "description": "How to obtain:\nFollow the highroad and pick it up on the wooden planks."
+    },
+    {
+      "id": "912347",
+      "catalogId": "10072",
+      "position": [
+        -1.1611797992109416,
+        0.3834250901931284
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/74569c28a08148e1020d38c2ee67c8799bfa744e16549226e1f240f8e41dd6c8.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912347",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Forged Metal x6",
+      "description": "How to obtain:\nPick it up beside the fence."
+    },
+    {
+      "id": "912340",
+      "catalogId": "10072",
+      "position": [
+        -0.8930269314862187,
+        0.4169177308473735
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/e72c173afe2f29625bcce62ef814be79db143ba4e7f5ba9f2b77a551b8364d1b.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=912340",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Twinned Metal ×9",
+      "description": "How to obtain:\nGo forward from the Bell to the fork. First head uphill to the right and pick up the 3 items there."
+    },
+    {
+      "id": "914458",
+      "catalogId": "10072",
+      "position": [
+        -0.7867358185935416,
+        1.0098872185104568
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10072&landmarkId=914458",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "x12\nPolished Twinned Metal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912435",
+      "catalogId": "10073",
+      "position": [
+        -0.6893659629163835,
+        0.9783465400086442
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/0212a3bdc8ffa47244291f0c74ce2e9aa8ed6a22334352228fafab7ee096a614.jpg",
+        "/assets/images/6e6fc77c7405f2e863a83e86132fae39284a49b329b847df0a03043fc89eeb4d.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912435",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Darkfire Charcoal, Mechanical Gear, and Incense Ash",
+      "description": "Incense Ash ×12, Darkfire Charcoal ×11, Mechanical Gear ×24\nHow to obtain:\nClimb down the ladder and open the chest."
+    },
+    {
+      "id": "914402",
+      "catalogId": "10073",
+      "position": [
+        -0.6455631918985887,
+        0.41416247131758155
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=914402",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ying Mechanical Gear",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914399",
+      "catalogId": "10073",
+      "position": [
+        -0.6936725284160445,
+        0.3975153066291597
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=914399",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Searing Darkfire Charcoal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914394",
+      "catalogId": "10073",
+      "position": [
+        -0.6746635718446896,
+        0.37734140919980064
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=914394",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Incense Ash for the Lady",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912904",
+      "catalogId": "10073",
+      "position": [
+        -0.5171898791697629,
+        0.8858240442612413
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912904",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Darkfire Charcoal ×7",
+      "description": "How to obtain:\n\nGo up the stairs and pick it up on the balcony to the right."
+    },
+    {
+      "id": "912903",
+      "catalogId": "10073",
+      "position": [
+        -0.7689807634655494,
+        0.975207646900472
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912903",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "6 Ancient Timber",
+      "description": "How to obtain: Near the Bell."
+    },
+    {
+      "id": "912595",
+      "catalogId": "10073",
+      "position": [
+        -0.5848146343256531,
+        0.9302899283111117
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/3b1ec74747e2be47ea21d5e9ff92f5c2ffd23274287d722b475012b5ec11113b.jpg",
+        "/assets/images/4ec6ae2933290adbe25d1094cff8aa6c08a285c4a0b20d0fc7c4e589722c3c68.jpg",
+        "/assets/images/871bc6f8326dc91c04987bd989591982fe9264ae5f8b3359cc066e531a50048b.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912595",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "6 Darkfire Charcoal",
+      "description": "How to obtain:\nHead north from the Lakeside Arch Bridge Bell and climb the steps. There are items to pick up at the end of the steps."
+    },
+    {
+      "id": "912594",
+      "catalogId": "10073",
+      "position": [
+        -0.589675688884995,
+        0.9259553442273898
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8355254e7da9cb6dcbe44b707d12780ff82416eb77b0c9ee7c8fb988316fff57.jpg",
+        "/assets/images/6f4ea3d92d77c5afefbb2a165c33d81e70e113d8acd072fd157b2d2818ceefad.jpg",
+        "/assets/images/fd358c4907ce05dbff7fd8dc9daf6623c074606af98af176afe6e5be23e346d7.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912594",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Incense Ash ×12",
+      "description": "How to obtain:\nHead north from the Lakeside Arch Bridge Bell and climb the steps. There are items to pick up at the end of the steps."
+    },
+    {
+      "id": "912589",
+      "catalogId": "10073",
+      "position": [
+        -0.6579760933495606,
+        0.7496264726551516
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ab9f8971adc9d8b2f91969e11f68c8014b6143eabfcda158175983b4e3802753.jpg",
+        "/assets/images/bf66bcc7c6a8074b6c184aa68e4fab7371f127a1bad2d4de9ed883508ae75b95.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912589",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "x6 Mechanical Gear",
+      "description": "How to obtain:\nTurn left from the Bell to reach the fork. Pick it up from the ground."
+    },
+    {
+      "id": "912454",
+      "catalogId": "10073",
+      "position": [
+        -0.4454499267485801,
+        0.8875606494719221
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/68f6b386ecc7a09238ea4afa9f85fee6c4eb3b61ed15505323c36d7d91d633c5.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912454",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Broadplate Metal ×8",
+      "description": "How to obtain:\nPick it up at the end of the road."
+    },
+    {
+      "id": "912436",
+      "catalogId": "10073",
+      "position": [
+        -0.668402944888129,
+        1.1121187255997143
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/67f2a0d391f2d1dc55cb5ace1a006c133da65596620af950f2c785db1fb17f5c.jpg",
+        "/assets/images/9e8be7c3e978c52291d88fbe2e4a2d509c980d5469ba207a7892a568de16a1ba.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912436",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Darkfire Charcoal ×8",
+      "description": "How to obtain:\nBeside the Bell."
+    },
+    {
+      "id": "912406",
+      "catalogId": "10073",
+      "position": [
+        -0.809766575540209,
+        0.8683504959414279
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/0e35ed4afc1e48c7fca6c725c1b2cbe02217a5529817e14210a9fa42d88b5393.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912406",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "6\nExotic Copper Ingot",
+      "description": "How to obtain:\nPick it up beside the Bell."
+    },
+    {
+      "id": "912367",
+      "catalogId": "10073",
+      "position": [
+        -1.0559641525066468,
+        0.6631727013176771
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7ae155e8d8bb0ff5ce6fe390af98ce6a03d0109da80381d8e059ced4c390a5a5.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912367",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "6\nExotic Copper Ingot",
+      "description": "How to obtain:\nPick it up from the body beside the cliff."
+    },
+    {
+      "id": "912355",
+      "catalogId": "10073",
+      "position": [
+        -1.1030342426620052,
+        0.526437772485508
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/1028b6397744d1bf6d2da070ccc50e4ab0fcac3bd096db2a425cd316f10bea49.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912355",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ancient Timber x8",
+      "description": "How to obtain:\nDeliberately drop down during the wall run. Break the screen to find the Ancient Timber."
+    },
+    {
+      "id": "912344",
+      "catalogId": "10073",
+      "position": [
+        -0.9380902751411497,
+        0.28365067459711213
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7d8b6ee9192b11341be5b3d096863c8779296bef6afa2075ebf9fbd17a085208.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912344",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "6\nExotic Copper Ingot",
+      "description": "How to obtain:\nGo forward from the Bell, then head downhill into the river. Pick it up on the south side of the riverbed."
+    },
+    {
+      "id": "912498",
+      "catalogId": "10073",
+      "position": [
+        -0.40543220906553756,
+        0.4095287485366015
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5e6caed3867f072bbb31ad8947689bc8d50bd36da3f70401676d139debb247cb.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912498",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ancient Timber",
+      "description": "Exact Location:\nAt the location shown in the image."
+    },
+    {
+      "id": "912343",
+      "catalogId": "10073",
+      "position": [
+        -0.9476271831054248,
+        0.3311677494792491
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=912343",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "6 Darkfire Charcoal",
+      "description": "How to obtain:\nGo forward from the Bell, then head downhill into the river. Pick it up on the north side of the riverbed."
+    },
+    {
+      "id": "914400",
+      "catalogId": "10074",
+      "position": [
+        -0.6979214685687793,
+        0.39735108531658625
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10074&landmarkId=914400",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914390",
+      "catalogId": "10074",
+      "position": [
+        -0.6510380253153585,
+        0.3928212130990971
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10074&landmarkId=914390",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Refined Indigo Crystal",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912588",
+      "catalogId": "10074",
+      "position": [
+        -0.6632035519083672,
+        0.716861567057478
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/7fb8a9615174647f6ffc9202aff1be8b8f61eba16807b1bf9fe089ed4f4117f2.jpg",
+        "/assets/images/9d1f1a70f1675e444d9dfa9d326221b17eef4c1b93d3f25d6d5566e181cd7496.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10074&landmarkId=912588",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard ×1",
+      "description": "How to obtain:\nOpen the chest to the right of the Bell."
+    },
+    {
+      "id": "912518",
+      "catalogId": "10074",
+      "position": [
+        -0.20078763225967577,
+        0.9265892769874284
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/1aa996f510e25764306aab7c6beab77927643efbe34663dd1dd07926e2428cc1.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10074&landmarkId=912518",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard ×1",
+      "description": "How to obtain:\nAfter solving the first puzzle, pick it up in the area beyond."
+    },
+    {
+      "id": "912517",
+      "catalogId": "10074",
+      "position": [
+        -0.211129337348666,
+        0.896513100585068
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/e375d18ab2fabfb26c6d0c33bffa8df00d28181b1f33b2ddf92d9dd174ae3382.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10074&landmarkId=912517",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard",
+      "description": "How to obtain:\nAfter solving the first puzzle, pick it up in the area beyond."
+    },
+    {
+      "id": "912512",
+      "catalogId": "10074",
+      "position": [
+        -0.17166942180492129,
+        0.8711499685454385
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/79fabeb1015eee5314997aeafe4777c5cfb12f9cd2fce3b046e2fec50a22091d.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10074&landmarkId=912512",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard x2",
+      "description": "How to obtain:\nPick it up inside the Mirrorwood."
+    },
+    {
+      "id": "912510",
+      "catalogId": "10074",
+      "position": [
+        -0.1843373505359409,
+        0.822564907405166
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/156390beb73b38e13dc74a32ec8ee0130082b67dfea4896be47b99ffd152f383.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10074&landmarkId=912510",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard ×1",
+      "description": "How to obtain:\nPick it up at the entrance inside the Mirrorwood."
+    },
+    {
+      "id": "912511",
+      "catalogId": "10074",
+      "position": [
+        -0.20188467466641669,
+        0.8541569089496903
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/bd746cf9ac8f32792abd1893b17bb8cab46a6996b0f5cdb45a58f1d400f0258d.jpg",
+        "/assets/images/6e72d5d4f51fda146e35f931155ad4501fcd5796c61cd1f6efa2d13db7a0c616.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10074&landmarkId=912511",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Refined Indigo Crystal",
+      "description": "How to obtain:\nPick it up inside the Mirrorwood."
+    },
+    {
+      "id": "912363",
+      "catalogId": "10074",
+      "position": [
+        -1.114256511852318,
+        0.6248748060363027
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/d448edafd590d13283f3b7a5db094a390d01e17bac1016096a234ae84f8fa788.jpg",
+        "/assets/images/7c907f0fc891231c94c7bf8503e112baf4213a49de3255485b826c2bc1d7ece4.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10074&landmarkId=912363",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Tainted Crystal Shard ×1",
+      "description": "How to obtain:\nContinue along the path and pick it up by the roadside."
+    },
+    {
+      "id": "914409",
+      "catalogId": "10075",
+      "position": [
+        -0.69200396270395,
+        0.4414436681816625
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10075&landmarkId=914409",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914393",
+      "catalogId": "10075",
+      "position": [
+        -0.7047823624921818,
+        0.42332500093768033
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10075&landmarkId=914393",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "914392",
+      "catalogId": "10075",
+      "position": [
+        -0.6942627954942964,
+        0.4035333849285223
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10075&landmarkId=914392",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Master Healer's Memory",
+      "description": "How to Obtain:"
+    },
+    {
+      "id": "912428",
+      "catalogId": "10075",
+      "position": [
+        -0.8111031207656936,
+        0.9476458608301925
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/dfd94730514be070277f7aab6f4ad09f3a06518d361f95f1ae1201cc2cfcc819.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10075&landmarkId=912428",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Apprentice Healer's Memory",
+      "description": "How to obtain:\nDefeat the enemies in the small courtyard."
+    },
+    {
+      "id": "912463",
+      "catalogId": "10076",
+      "position": [
+        -0.7346172608988581,
+        0.8535818175461571
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b93badbccc323b47ff1bbf37e757615089b35bfc64b07788ece5b8aa6f27cf06.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912463",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thief 3",
+      "description": "Behind the Thieves' Camp Dungeon.\nRelated quest:\nA Healer's Mercy"
+    },
+    {
+      "id": "912462",
+      "catalogId": "10076",
+      "position": [
+        -0.5218240816052173,
+        0.8077811651498621
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/62b3b5c83d1ddcdefe98d3450a74243b39e66d3ee8ff041426155b0302d27bc4.jpg",
+        "/assets/images/436aac624397095738e0f927925e4d42cc2ee3e17df6828c72b6eeba67e2686f.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912462",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thief 4",
+      "description": "A Healer's Mercy\nis a\nQuest\nin\nPhantom Blade Zero\n. Soul is required to assist Yu'er in healing fallen thieves around the Crimson Forest, this quest can be triggered by speaking to her in the Thieves' Camp."
+    },
+    {
+      "id": "912461",
+      "catalogId": "10076",
+      "position": [
+        -0.9768141369980015,
+        0.5466581831653627
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ddeac735c4d6288e15f2f6f926f43678f719c39cfb93a4910c12b386ee80c9c5.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912461",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thief 2",
+      "description": "Inside the Crimson Forest Tunnel.\nRelated quest:\nA Healer's Mercy"
+    },
+    {
+      "id": "912460",
+      "catalogId": "10076",
+      "position": [
+        -1.0777205962035339,
+        0.7953599725858851
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6232281d452fdc24bc86481bd35df3c4aec0657e8aaa518250995147df4b6765.jpg",
+        "/assets/images/64772ff19d485f37496884b57d12a5cf69832c0f37ca38dbcaffc584199ee39f.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912460",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Thief 1",
+      "description": "A Healer's Mercy\nis a\nQuest\nin\nPhantom Blade Zero\n. Soul is required to assist Yu'er in healing fallen thieves around the Crimson Forest, this quest can be triggered by speaking to her in the Thieves' Camp."
+    },
+    {
+      "id": "912451",
+      "catalogId": "10076",
+      "position": [
+        -0.4984761867129066,
+        0.919636115311917
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/0f7119bf616749e8a1becec1f96e7ecb837ae134e7c570cf00242fb248dc3c2d.jpg",
+        "/assets/images/1c0a80474f4f9940f8f52119fe87880d1f4270ffddcbefabebbed87b08316f73.jpg",
+        "/assets/images/0903be3a206e11bc7cefb41fa48d69df1c579f615e07f1c4a35673ede9d414d4.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912451",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Severely Wounded Baishan Disciple",
+      "description": "How to Unlock the Secrets of the Baishan Sect Quest\nLocation: Crimson Forest\nSpeak to Ju and Lanlan on the bridge towards the camp.\nFrom the bridge, progress through the village ahead until you reach the Cliffside Lodge bell. Pick up the key upstairs of the lodge and use it on the socket downstairs to unlock the entrance to the dungeons.\nThe Severely Wounded Baishan Disciple can be found behind a locked chamber, the key for this door can be obtained on a body on the right side of the stairs in the dungeon by a chest."
+    },
+    {
+      "id": "912411",
+      "catalogId": "10076",
+      "position": [
+        -0.8310969135813195,
+        0.8584322236816462
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/0c978e06a14ed17100ed107dae25db088c9fe41c4a924a51ef59463220d5f3de.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912411",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Yu'er",
+      "description": "Appears after you touch the crane-shaped Bell.\nRelated quest:\nA Healer's Mercy"
+    },
+    {
+      "id": "912410",
+      "catalogId": "10076",
+      "position": [
+        -0.8080845732201567,
+        0.845323612501133
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/3b05ad0ed9bbc524f1f12d158132c1dbd9a09d3ecd44767e51e648fb170b23c3.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912410",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Old Beggar",
+      "description": "This is a reminder that you need the Bastion from Chapter 3 to pass safely through the Thieves' Camp Dungeon to the east."
+    },
+    {
+      "id": "912407",
+      "catalogId": "10076",
+      "position": [
+        -0.8074642878758027,
+        0.829362328130216
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8f9d4a5b92e00ad3df6afa21d5f8b77c2182bd57dcf11c0cad5e80b3a3ac6ee9.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912407",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Gentle Thief",
+      "description": "After crossing the bridge, go inside the house on the right and talk to the Irreverent Thief to progress the quest Honor Among Thieves. He'll ask you 3 questions, and if you answer all 3 correctly, he'll give you the Silent Wrap accessory. The answers are as follows: \"Stole a landowner's jade belt\", \"Butterfly\", and \"The letter never said. His fate is unknown\"."
+    },
+    {
+      "id": "912403",
+      "catalogId": "10076",
+      "position": [
+        -0.8400677395868001,
+        0.8070897755519155
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/2d085b4144c48502f5b09044ef7b9aceccf1613508de35d2e15f586daa531849.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912403",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Ju and Lanlan",
+      "description": "Meet Ju and Lanlan on the bridge. They ask you to find Junior Sister Meng, starting the Local Tale Secrets of the Baishan Sect.\n\nReturn here after finding the junior sister in the lodge dungeon for an additional story scene.\nRelated quest:\nSecrets of the Baishan Sect"
+    },
+    {
+      "id": "912376",
+      "catalogId": "10076",
+      "position": [
+        -0.869910065124941,
+        0.8976315720804564
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/b13f34c7ab036950724919d116db35c6df0aea0e9db0bc1cf58455b86ea76b64.jpg",
+        "/assets/images/9be4c565388218891e4c121a9a9ca69dbe694dd422367e0b028594145066dd22.jpg",
+        "/assets/images/9d63dd5bb9c683d2aa179a2538d166392e175004972df1480ac354a082c7f759.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912376",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Quick Hand Zhang",
+      "description": "Related quest:\nThe Wily Hare's Three Dens\n\nThe shop also updates its accessories and materials."
+    },
+    {
+      "id": "912368",
+      "catalogId": "10076",
+      "position": [
+        -1.0366192904115792,
+        0.6739352753106544
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/188b066ba68e6564c15658e338ecae841bca1a3b0a79a4d832624c03eede4f0c.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=912368",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Quick Hand Zhang",
+      "description": "Exit through the cave and activate the Trail of Cages Bell. Continue forward to find Quick Hand Zhang in a cage. Agree to rescue him, then enter the cave ahead on the right.\n\nYou can meet him later at Thieves' Camp, where he becomes a merchant."
+    },
+    {
+      "id": "914388",
+      "catalogId": "10076",
+      "position": [
+        -0.7057291282571612,
+        0.4193267939540277
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=914388",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Friendly Shadow Warden",
+      "description": "Related Quests:"
+    },
+    {
+      "id": "914429",
+      "catalogId": "10076",
+      "position": [
+        -0.6876788105368519,
+        0.4673677446014466
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=914429",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Jade Dancer",
+      "description": "Related Quests:"
+    },
+    {
+      "id": "914428",
+      "catalogId": "10076",
+      "position": [
+        -0.6930003132224272,
+        0.4639346304456211
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=914428",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Iron Fiend",
+      "description": "Related Quest:\nHeart of the Fist (find the grave of the Iron Fist school's leader in snow- and ice-covered Mirrorwood)."
+    },
+    {
+      "id": "914387",
+      "catalogId": "10076",
+      "position": [
+        -0.6863050671212534,
+        0.4626985290370129
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10076&landmarkId=914387",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mu Xiaokui",
+      "description": "Gives you the Supreme Order Token after the conversation."
+    },
+    {
+      "id": "912346",
+      "catalogId": "10078",
+      "position": [
+        -1.0210567327400781,
+        0.33163587564450836
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10078&landmarkId=912346",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Snake's Reflection",
+      "description": "This quest starts automatically when you approach the stone steps. It also serves as a guide: simply follow the quest guidance as you progress through the area."
+    },
+    {
+      "id": "912337",
+      "catalogId": "10079",
+      "position": [
+        -0.8960337618460699,
+        0.34507774141714265
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10079&landmarkId=912337",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Illusion of Inanis",
+      "description": "Follow the quest guidance as you progress through the area. Meet Lady Inanis at the Parting Mists Bell at the end to complete the quest."
+    },
+    {
+      "id": "912413",
+      "catalogId": "10080",
+      "position": [
+        -0.8467202779494869,
+        0.8686653040348631
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/342e6a455945fa9552dbb5785ced4c8ea088813fcf08d2a03fc428be2f6fa55e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10080&landmarkId=912413",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "A Healer's Mercy",
+      "description": "Prerequisite:\n\nSpeak to Yu'er and select \"The Wounded in the Forest.\"\n\nQuest reward:\n\nSmall Calming Gourd\n\nNotes:\n\nComplete this before fighting the area's final boss, or the questline will be cut off.\n\nObjectives:\n\nThief 1\n\nThief 2\n\nThief 3\n\nThief 4"
+    },
+    {
+      "id": "912404",
+      "catalogId": "10080",
+      "position": [
+        -0.821252837146119,
+        0.8113206630156355
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/ae3bd1c3d752436ae7db512ab190b6775cdd265adfff71d82be4cf5750212d51.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10080&landmarkId=912404",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Secrets of the Baishan Sect",
+      "description": "How to Unlock the Secrets of the Baishan Sect Quest\nLocation: Crimson Forest\nSpeak to Ju and Lanlan on the bridge towards the camp.\nFrom the bridge, progress through the village ahead until you reach the Cliffside Lodge bell. Pick up the key upstairs of the lodge and use it on the socket downstairs to unlock the entrance to the dungeons.\nThe Severely Wounded Baishan Disciple can be found behind a locked chamber, the key for this door can be obtained on a body on the right side of the stairs in the dungeon by a chest.\nHead back down to the locked chamber and use the key to unlock it and speak with the disciple, she will ask you to save the sect."
+    },
+    {
+      "id": "912388",
+      "catalogId": "10080",
+      "position": [
+        -1.0744030400088036,
+        0.7451496113724261
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/6c17f4a58b70d6e47ff01068f77c4b04d63d7d502c3372a3d716b64aa1e86839.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10080&landmarkId=912388",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Honor Among Thieves",
+      "description": "Prerequisite:\n\nOn reaching the western side, first head south. Defeat the enemies to obtain the document Wulin Tales (Thief's Blood Letter) and start the Local Tale Honor Among Thieves (Starting Point).\n\nQuest reward:\n\nSilent Wrap\n\nObjective:\n\nGive the Blood Letter from the Nimble Thief to The Gentle Thief at the Thieves' Camp Bell.\n\nNotes:\n\nChoose these answers: \"Stole the wealthy landowner's jade belt\" → \"Butterfly\" → \"The blood-written letter did not mention it; the whereabouts seem to be unknown.\" You receive the Silent Wrap accessory."
+    },
+    {
+      "id": "914384",
+      "catalogId": "10080",
+      "position": [
+        -0.713610141614339,
+        0.4241164949448972
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10080&landmarkId=914384",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "A Severed Mindseal",
+      "description": "Prerequisites:\n\nQuest Rewards:\n\nNotes:"
+    },
+    {
+      "id": "914431",
+      "catalogId": "10080",
+      "position": [
+        -0.6885853511767266,
+        0.4738285090274559
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10080&landmarkId=914431",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Heart of the Fist",
+      "description": "Iron Fiend asks you to offer incense at his master's grave. Teleport back to the Burial Grounds Bell and interact with the gravestone beside it.\n\nQuest Reward:\nHeart of the Fist Fragment - Shell (Soul Tempering material for Iron Gauntlets)."
+    },
+    {
+      "id": "914438",
+      "catalogId": "10080",
+      "position": [
+        -0.6813534793664076,
+        0.4738663814843562
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10080&landmarkId=914438",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Use it Against Them",
+      "description": "The quest requires you to spar with both Jade Dancer and Iron Fiend while equipping only Fiend Saws and Iron Gauntlets."
+    },
+    {
+      "id": "914510",
+      "catalogId": "10080",
+      "position": [
+        -0.4577389491808219,
+        0.5942051610462329
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/53359e7a39e9c3e6c9b82f819f71ecb27287cdc13f11754ce1747656cb38d0dd.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10080&landmarkId=914510",
+      "regionType": null,
+      "regionPoints": null,
+      "name": "Heart of the Fist",
+      "description": "Prerequisites:\nVery late in the game, after meeting Mu Xiaokui for the second time at the top of the Sha-Chi Tower, talk to the iron-fisted man. He will ask you to pay respects at the grave of his master, the Fist Hermit.\n\nQuest Reward:\nWorld-Destroying Heart of the Fist, used for Soul Tempering Iron Gauntlets.\n\nNotes:\nThis location cannot be found early in the game."
+    },
+    {
+      "id": "912503",
+      "catalogId": "10081",
+      "position": [
+        -0.37370778304929786,
+        0.3842087923790132
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/02022617a1d6b98c023e3a2d5b749c60a817e7dd3ab112f39274b089f01cc719.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10081&landmarkId=912503",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Heart of the Banyan",
+      "description": "Prerequisite:\nGo through the misty forest and meet Lady Inanis to accept the collection quest Heart of the Banyan.\nObjective:\n\nFind all the Great Banyan Trees in the game and complete their challenges."
+    },
+    {
+      "id": "912421",
+      "catalogId": "10081",
+      "position": [
+        -0.8623313964111503,
+        0.9290115342034824
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10081&landmarkId=912421",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Quick Hand's Request (Crimson Forest)",
+      "description": "Prerequisite:\n\nSpeak to Quick Hand Zhang to accept the quest.\n\nQuest reward:\n\nPhantom Edge: Flying Dagger\n\nObjectives — the 3 treasures on this map:\n\nBloodstained Seal\n\nSect Leader's Snuff Bottle\n\nAncient Crossbow"
+    },
+    {
+      "id": "912375",
+      "catalogId": "10081",
+      "position": [
+        -1.022606361365149,
+        0.6645973183996432
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10081&landmarkId=912375",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Wily Hare's Three Dens",
+      "description": "Prerequisite:\nLower the mechanism, then speak to Quick Hand Zhang to accept the quest.\nObjective:\n\nQuick Hand Zhang (Thieves' Camp)"
+    },
+    {
+      "id": "912478",
+      "catalogId": "10081",
+      "position": [
+        -0.4573669486368601,
+        0.7486554842373607
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8acd67872bd4b015ab68e335f8a3d61917af2d904633dfb6da5c031f28c98de9.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10081&landmarkId=912478",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Resonant Strings",
+      "description": "Prerequisites:\nHead east into the cave and pick up Inanis' Memory Flower - I. The Performance at the fork. This also triggers the Resonant Strings collection quest.\n\nNotes:\nBe sure to collect all 6 Memory Flowers in this series before fighting the area's final boss; this makes the boss battle more exciting and reduces its difficulty."
+    },
+    {
+      "id": "914430",
+      "catalogId": "10082",
+      "position": [
+        -0.6796688073697226,
+        0.46739842853060054
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10082&landmarkId=914430",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Iron Fiend and Jade Dancer",
+      "description": "Reward:\nHeel Reinforcement Part (Soul Tempering material for Fiend Saws).\n\nStrategy Tips:"
+    },
+    {
+      "id": "912520",
+      "catalogId": "10082",
+      "position": [
+        -0.2265498158662922,
+        1.0057799346228649
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10082&landmarkId=912520",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Bai Chilian, Lady of the Twin Serpents",
+      "description": "Rewards:\n\nWeapon: White Serpent & Crimson Viper\n\nCharm: Resonance Talisman\n\nCombat tips:\n\nCollect all 6 of the Chord's Memory Flowers. She will help you fight the boss in the second phase."
+    },
+    {
+      "id": "912502",
+      "catalogId": "10082",
+      "position": [
+        -0.2279419329932466,
+        0.18390689875839428
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/63f9549041d20e7deb8610598b40e2d580532ac3de3a91e8c6025a12996fd99a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10082&landmarkId=912502",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Jing Ye, the Outlaw",
+      "description": "Reward:\n\nThe Banyan's Heart, used to unlock special abilities on the skill tree.\n\nCombat tips:\n\nHe appears in the final wave inside the Human-Faced Banyan. His moves are the same as before, but this time he has underlings with him. Their aggro seems to be separate, so you can deal with the smaller enemies first."
+    },
+    {
+      "id": "912482",
+      "catalogId": "10082",
+      "position": [
+        -0.3501739597409994,
+        0.8396404823024852
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/a693c93ca954e2e22809e3ab4a73bf7263a687adf0a79655a2700bae29b0941e.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10082&landmarkId=912482",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Gold-Masked One",
+      "description": "Interact with the Long Pillar to enter the Discordance and challenge the Gold-Masked One.\n\nReward:\n\nMiraculous Scabbard\n\nCombat tips:\n\nHe has an additional black-aura skill this time, but no longer becomes intangible and invincible. Dodge the black-aura skill to avoid having your Sha-Chi drained completely.\n\nHe also has a move where he turns red and winds up for 2 charging attacks. When you see the windup, silently count 1 second, then dodge."
+    },
+    {
+      "id": "912457",
+      "catalogId": "10082",
+      "position": [
+        -0.6596601150303911,
+        0.5419915961275166
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/203f51612ae53dcca3969b6fbf909afd5288bf6cdaa2ef2f396a0d9e1dfbe181.jpg",
+        "/assets/images/b709884901892ddf5f52393447a57d5221a4d9f30be703de11755d74bb01622a.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10082&landmarkId=912457",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Stone Hand Iron Fever",
+      "description": "Reward:\n\nPhantom Edge: Iron Gauntlets\n\nCombat tips:\n\nThe boss powers up at 2/3 health, but does not have a second health bar. Fight normally, alternating offense and defense; this is a fairly balanced boss."
+    },
+    {
+      "id": "912389",
+      "catalogId": "10082",
+      "position": [
+        -0.9409255996129673,
+        0.7609959117426683
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/2751ac673a0561c59decb8f196bc8648d61d19dda1db3cfc0aae0eef7f18e390.jpg",
+        "/assets/images/35c8580e27b0f692db47103d2ff2e00762fce4422fc413816999f7f5037e4c7f.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10082&landmarkId=912389",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Jing Ye, the Outlaw",
+      "description": "This guy has killed me more times than Master Ye. Anyone else?\n\n------------------\n\nReward:\n\nOutlaw Warblade weapon\n\nCombat tips:\n\nEquip the shieldbreaking and anti-cavalry charms. When the boss reaches 2/3 health, he dismounts and fights with a shield.\n\nThe shield is spiked, so attacking recklessly reflects damage back at you. Break the shield before attacking."
+    },
+    {
+      "id": "914434",
+      "catalogId": "10082",
+      "position": [
+        -0.2219384533046025,
+        1.0397173815412941
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10082&landmarkId=914434",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "[Late-game Unlock] No. 34 - Chaos Puppet: \"Jade Cong\"",
+      "description": "A hidden boss in this game. Prerequisites:\n\n1. Start the Wulin Tale Triple Threat: at The Lady's Rift Bell, interact with the rift to enter and fight the Aberrant Three-Faced Puppet once.\n\n2. Memory Flowers: find all 3 Chaos Puppet Memory Flowers at Mirage Estate.\n\n3. Story progress: complete Mirage Estate and enter Mount Soulrend.\n\nOptional condition:\nSoul Temper Sanguine Reach: collect Blazing Flame (Zhu Yuan, the Searing Blade; locations: Meigu Lake, Pangzhen Sha-Chi Tower Base) + Cooled Flame's Grasp (obtained from the third Lóng Pillar challenge on the east side of Meigu Lake). Once you have both, find Myst in Pangzhen to Soul Temper Sanguine Reach.\n\nThe boss gains an additional ice phase, and you also receive one extra Soul Tempering material for Sanguine Twin."
+    },
+    {
+      "id": "912360",
+      "catalogId": "10082",
+      "position": [
+        -1.2212601942381127,
+        0.6008909834964555
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/584fc292c446bcaefa109de0fa8188f575e46a6394364941d49e1c269cc1921c.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10082&landmarkId=912360",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Hua Qianxiao, the Sword Fanatic",
+      "description": "Reward:\n\nThe Fanatic's Broken Blade\n\nCombat tips:\n\nEquip the Shieldbreaker Talisman accessory. While Hua Qianxiao is charging an attack, break his shield with the Dread Axe to break his guard immediately."
+    },
+    {
+      "id": "912789",
+      "catalogId": "10083",
+      "position": [
+        -0.83809157275644,
+        0.346752066362896
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10083&landmarkId=912789",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Crimson Forest Starting Point",
+      "description": "The collectibles in this level are not too difficult to find either, though the difficulty steps up a little. You can do it!"
+    },
+    {
+      "id": "912819",
+      "catalogId": "10084",
+      "position": [
+        -1.2422281454240647,
+        0.6167808796244145
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10084&landmarkId=912819",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "The Bridge Collapses When Crossed",
+      "description": "The classic scripted bridge collapse: take the mountain path beneath the bridge to reach the Trail of Cages Bell."
+    },
+    {
+      "id": "912514",
+      "catalogId": "10084",
+      "position": [
+        -0.184003088262358,
+        0.8474457390341144
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/42559060e4bdaaa9700e542f27b3db6ee32a2e6866bb220bec9953f4e7b16cbe.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10084&landmarkId=912514",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Mirrorwood Puzzle Solution",
+      "description": "First puzzle:\nOn reaching the Mirrorwood, you will find a mirror on the left, one ahead, and one on the right.\nExamine the writing on the tree. It tells you to follow the weeping: enter whichever mirror has the sound of crying.\nChoosing the correct mirror teleports you to the starting point shown in the image below. Keep choosing mirrors; there are 3 choices in total.\n\nThe correct order is: left → ahead → right.\n\nAfter all 3 correct choices, a path appears ahead.\n\nSecond puzzle:\n\nContinue forward to find another set of mirrors: left, ahead, and right.\n\nThis time, the correct order is: right → left → ahead.\n\nAfter all 3 correct choices, a path appears ahead. Go outside and activate the Threadbound Great Tree Bell."
+    },
+    {
+      "id": "912391",
+      "catalogId": "10084",
+      "position": [
+        -0.9505089267892117,
+        0.5165225112353369
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10084&landmarkId=912391",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Player Position after Entering the Crimson Forest Tunnel",
+      "description": "After entering the Crimson Forest Tunnel from the Outlaw Trap Bell, your character's position on the map moves here."
+    },
+    {
+      "id": "912491",
+      "catalogId": "10084",
+      "position": [
+        -0.4829802418671818,
+        0.3806902906551386
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5ae597c49e30fcff31437107180dd830157669cabcbdc938bdd892a50bf00a43.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10084&landmarkId=912491",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Sha-Chi Tower Unlocks Late in the Game",
+      "description": "The Sha-Chi Tower unlocks late in the game, after the forest becomes snow-covered."
+    },
+    {
+      "id": "912515",
+      "catalogId": "10084",
+      "position": [
+        -0.20476450227590703,
+        0.9668318377875948
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/97944cc57a0c49b1524dff66e32c900b96c08d9411fd800d5adb1c61ff961c53.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10084&landmarkId=912515",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Check Quest Completion",
+      "description": "Check that Honor Among Thieves, the first step of Secrets of the Baishan Sect, and Resonant Strings are complete.\nDefeating the area's final boss forcibly cuts off these questlines."
+    },
+    {
+      "id": "912950",
+      "catalogId": "10086",
+      "position": [
+        -0.7221596630324711,
+        0.8557620263726449
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10086&landmarkId=912950",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Collect What You Can in the Dungeon First; Return with a Shield for the Arrow-Barrage Traps",
+      "description": "First collect everything you can in the dungeon. Return with a shield for the arrow-barrage traps."
+    },
+    {
+      "id": "912908",
+      "catalogId": "10086",
+      "position": [
+        -0.4994014391037638,
+        0.9310068810770815
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10086&landmarkId=912908",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "All Nearby Collectibles Are in the Cellar",
+      "description": "All nearby collectibles are in the cellar.\n\nClick to view the detailed guide: Click to open"
+    },
+    {
+      "id": "912907",
+      "catalogId": "10086",
+      "position": [
+        -1.0187268440700166,
+        0.7730968566852141
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10086&landmarkId=912907",
+      "regionType": 0,
+      "regionPoints": null,
+      "name": "Return to Thieves' Camp after Rescuing the Two People",
+      "description": "After rescuing the 2 people, return to Thieves' Camp.\n\nClick to view the detailed guide: Click to open"
+    },
+    {
+      "id": "912498",
+      "catalogId": "10071",
+      "position": [
+        -0.40543220906553756,
+        0.4095287485366015
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/5e6caed3867f072bbb31ad8947689bc8d50bd36da3f70401676d139debb247cb.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10071&landmarkId=912498",
+      "name": "Remnant Dust",
+      "description": "Location:"
+    },
+    {
+      "id": "914130",
+      "catalogId": "10073",
+      "position": [
+        -0.3868433054000491,
+        0.40131818966965227
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10073&landmarkId=914130",
+      "name": "Ancient Timber",
+      "description": "How to obtain:\n\nPick it up directly from the ground."
+    },
+    {
+      "id": "912478",
+      "catalogId": "10080",
+      "position": [
+        -0.4573669486368601,
+        0.7486554842373607
+      ],
+      "z": 400,
+      "images": [
+        "/assets/images/8acd67872bd4b015ab68e335f8a3d61917af2d904633dfb6da5c031f28c98de9.jpg"
+      ],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10080&landmarkId=912478",
+      "name": "Resonant Strings",
+      "description": "Prerequisite:\n\nHead east into the cave. Pick up the Memory Flower Inanis (Part 1) at the fork to start the collection quest Resonant Strings.\n\nNotes:\n\nCollect all 6 Memory Flowers in this series before fighting the area's final boss. Doing so makes the fight more exciting and less difficult."
+    },
+    {
+      "id": "912783",
+      "catalogId": "10083",
+      "position": [
+        -0.624950320915957,
+        0.3373772154948682
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10083&landmarkId=912783",
+      "name": "Mirage Estate and subsequent maps will unlock after 10:00 on the 31st",
+      "description": "In accordance with official confidentiality requirements, Mirage Estate and subsequent maps will unlock after 10:00 on the 31st. Stay tuned!"
+    },
+    {
+      "id": "912784",
+      "catalogId": "10083",
+      "position": [
+        -0.8278405787320082,
+        0.3463800637780139
+      ],
+      "z": 400,
+      "images": [],
+      "sourceUrl": "?mapId=252&landmarkCatalogId=10083&landmarkId=912784",
+      "name": "starting area",
+      "description": ""
+    }
+  ]
+}

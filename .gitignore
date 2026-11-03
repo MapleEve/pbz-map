@@ -1,0 +1,47 @@
+# Secrets and local configuration
+CLAUDE.local.md
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Temporary files and working notes
+tmp/
+.full-review/
+.full-review-archive/
+.worktrees/
+
+# Project dependencies and build output
+node_modules/
+dist/
+dist-check-*/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
