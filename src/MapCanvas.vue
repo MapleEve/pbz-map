@@ -1,7 +1,7 @@
 <script setup>
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import L from 'leaflet'
-import { allCatalogs, boundsToLatLngBounds, localResourceUrl, positionInBounds, positionToLatLng, representationKey } from './map-model.js'
+import { allCatalogs, boundsToLatLngBounds, localResourceUrl, markerNameCatalogIds, positionInBounds, positionToLatLng, representationKey } from './map-model.js'
 
 const props = defineProps({
   config: { type: Object, required: true },
@@ -33,6 +33,7 @@ let closingPopup = false
 let disposed = false
 const poiMarkers = new Map()
 const catalogs = new Map(allCatalogs(props.config).map(catalog => [catalog.id, catalog]))
+const namedCatalogIds = new Set(markerNameCatalogIds(props.config))
 const controlIcons = Object.freeze({
   zoomIn: '/assets/icons/af5bf0cf8e8a4c7a5c59f79f3abf05218ef38e913324e445702b2bbea985bfe0.png',
   zoomOut: '/assets/icons/311163759c6986b6ecaea30ca596c131a09065572e44751b1976125b5318c8ee.png',
@@ -76,7 +77,7 @@ function textElement(tag, text, className) {
 }
 
 function markerNamesVisible(point) {
-  return props.showMarkerNames && Boolean(catalogs.get(point.catalogId)?.showLandmarkName)
+  return props.showMarkerNames && namedCatalogIds.has(point.catalogId)
     && map.getZoom() > props.config.maxZoom - 6
 }
 
@@ -121,7 +122,7 @@ function renderLandmarks() {
   poiMarkers.clear()
   for (const point of props.visibleLandmarks) {
     const marker = L.marker(positionToLatLng(point.position), {
-      icon: sourceIcon(point), title: point.name, alt: point.name, keyboard: true,
+      icon: sourceIcon(point), alt: point.name, keyboard: true,
       zIndexOffset: typeof point.z === 'number' ? point.z : 0,
     }).on('click', event => {
       L.DomEvent.stopPropagation(event)

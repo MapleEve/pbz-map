@@ -8,12 +8,14 @@ import * as Vue from 'vue'
 import { compile } from '@vue/compiler-dom'
 import {
   allCatalogs, boundsToLatLngBounds, countByCatalog, defaultCatalogIds,
-  filterLandmarks, isLocalResource, localResourceUrl, normalizeSearch, positionInBounds, positionToLatLng,
+  filterLandmarks, isLocalResource, localResourceUrl, markerNameCatalogIds, normalizeSearch, positionInBounds, positionToLatLng,
   mapSearchUrl, readLocalJson, representationKey, searchLandmarks, searchTextParts, validateManifest, validatePoints,
 } from '../src/map-model.js'
 import * as localStateModel from '../src/local-state.js'
 
 const json = async path => JSON.parse(await readFile(new URL(`../${path}`, import.meta.url), 'utf8'))
+const productionManifest = await json('public/data/manifest.json')
+const productionCollections = await Promise.all(productionManifest.maps.map(config => json(`public${config.pointsUrl}`)))
 // Isolated model/component input. Region/configuration/identity/geometry facts are
 // pinned independently. All other labels and instructions are synthetic fixtures,
 // not authoritative game English or a fallback product dataset.
@@ -4903,7 +4905,7 @@ function canvasLifecycle(config, addPinMode = false, base = '/', initialZoom = n
     },
   }
   const context = createContext({
-    L, allCatalogs, boundsToLatLngBounds, positionInBounds, positionToLatLng, representationKey, element, scroller,
+    L, allCatalogs, boundsToLatLngBounds, markerNameCatalogIds, positionInBounds, positionToLatLng, representationKey, element, scroller,
     localResourceUrl: path => localResourceUrl(path, base),
     defineProps: () => props, defineEmits: () => (...args) => emissions.push(args), defineExpose: value => { exposed = value },
     ref: Vue.ref, computed: Vue.computed, nextTick: Vue.nextTick,
@@ -5061,7 +5063,8 @@ function templateText(node) {
   return typeof node === 'string' ? node : typeof node?.children === 'string'
     ? node.children : Array.isArray(node?.children) ? node.children.map(templateText).join('') : ''
 }
-function appSetup({ base = '/', search = '', navigator = { userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X)' }, width = 1280, stored = new Map() } = {}) {
+function appSetup({ base = '/', search = '', navigator = { userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X)' }, width = 1280, stored = new Map(), manifestInput = manifest, collectionInputs = fixtureCollections } = {}) {
+  const collections = new Map(manifestInput.maps.map(config => [config.pointsUrl, collectionInputs.find(collection => collection.mapId === config.id)]))
   const writes = []
   const removals = []
   const requests = []
@@ -5091,8 +5094,8 @@ function appSetup({ base = '/', search = '', navigator = { userAgent: 'Mozilla/5
     requestOptions.push(options)
     const path = base === '/' ? url : url.slice(base.length - 1)
     if (control.gate) await control.gate(path)
-    assert.ok(path === '/data/manifest.json' || pointCollections.has(path), `Unexpected product request: ${path}`)
-    return { ok: true, json: async () => structuredClone(path === '/data/manifest.json' ? manifest : pointCollections.get(path)) }
+    assert.ok(path === '/data/manifest.json' || collections.has(path), `Unexpected product request: ${path}`)
+    return { ok: true, json: async () => structuredClone(path === '/data/manifest.json' ? manifestInput : collections.get(path)) }
   }
   const context = createContext({
     allCatalogs, countByCatalog, defaultCatalogIds, filterLandmarks, positionInBounds, representationKey, searchLandmarks, searchTextParts,
@@ -5738,9 +5741,9 @@ await test('The marker-name preference is separate from saved progress and Canva
   assert.equal(app.run('showMarkerNames.value'),false);assert.match(app.run('preferenceError.value'),/could not be saved/)
   app.storage.failWrites=false;app.byTestId('marker-names').props.onClick();assert.equal(app.run('showMarkerNames.value'),true)
   assert.deepEqual(app.writes,['mapMakerNameSwitch-251,252,253,254,255,256,257,258'])
-  for(const config of manifest.maps) {
+  for(const config of productionManifest.maps) {
     assert.equal(config.useNewMapEngine,true);assert.equal(config.areas,null)
-    const points=fixtureCollections.find(row=>row.mapId===config.id).landmarks
+    const points=productionCollections.find(row=>row.mapId===config.id).landmarks
     const canvas=canvasLifecycle(config,false,'/',config.minZoom)
     t.after(()=>canvas.unmount())
     canvas.props.landmarks=points
@@ -5748,7 +5751,9 @@ await test('The marker-name preference is separate from saved progress and Canva
     canvas.map.setView(positionToLatLng(config.center),config.maxZoom-6)
     assert.equal(canvas.run('markerNamesVisible(props.landmarks[0])'),false)
     canvas.map.setView(positionToLatLng(config.center),config.maxZoom-5)
-    assert.equal(canvas.run('markerNamesVisible(props.landmarks[0])'),Boolean(allCatalogs(config).find(c=>c.id===point.catalogId).showLandmarkName))
+    const group=config.catalogGroups.find(group=>group.catalogs.some(catalog=>catalog.id===point.catalogId))
+    assert.equal(canvas.run('markerNamesVisible(props.landmarks[0])'),['group-1','group-6','group-7','group-8','group-9'].includes(group.id)
+      && allCatalogs(config).find(catalog=>catalog.id===point.catalogId).showLandmarkName === true)
     const icon=canvas.run('sourceIcon(props.landmarks[0])')
     const label=icon.html.children.find(child=>child.className==='poi-name')
     if(label) {
@@ -6253,6 +6258,139 @@ for (const base of ['/', '/pbz-map/']) {
     locate.props.onClick(); assert.deepEqual(Array.from(mobileCanvas.calls.at(-1).position), [1.0210237672753948, -0.743648930242216])
   })
 }
+
+// Expected group identities and material identities are pinned from the captured
+// source taxonomy, independently of the English-name selectors under test.
+const sourceNamedGroupIds = new Set(['group-1', 'group-6', 'group-7', 'group-8', 'group-9'])
+const sourceSoulMaterialIds = {
+  '251': '10277', '252': '10278', '253': '10124', '254': '10125',
+  '255': '10273', '256': '10274', '257': '10275', '258': '10276',
+}
+const sourceDefaultOff = config => config.catalogGroups.flatMap(group => group.catalogs
+  .filter(catalog => ['group-4', 'group-5'].includes(group.id) || catalog.id === sourceSoulMaterialIds[config.id]))
+
+await test('Exact business categories govern labels and defaults without substring matches or truthy flags', () => {
+  const names = ['Locations', 'Quests', 'Characters', 'NPCs', 'Others', 'Enemies', 'Equipment', 'Equipments', 'Collectibles', 'Items', 'Upgrade Materials', 'Locations extra']
+  const config = { catalogGroups: names.map((name, index) => ({ name, catalogs: [
+    { id: `ordinary-${index}`, name: name === 'Enemies' ? 'Bosses' : 'Ordinary', defaultSelected: true, showLandmarkName: true },
+    { id: `false-${index}`, name: 'Disabled', defaultSelected: false, showLandmarkName: false },
+    { id: `null-${index}`, name: 'Unspecified', defaultSelected: null, showLandmarkName: null },
+    { id: `string-${index}`, name: 'Invalid flag', defaultSelected: 'false', showLandmarkName: 'true' },
+    { id: `material-${index}`, name: 'Soul Tempering Materials', defaultSelected: true, showLandmarkName: true },
+  ] })) }
+  assert.deepEqual(markerNameCatalogIds(config), [
+    'ordinary-0', 'material-0', 'ordinary-1', 'material-1', 'ordinary-2', 'material-2',
+    'ordinary-3', 'material-3', 'ordinary-4', 'material-4', 'ordinary-5',
+  ])
+  assert.deepEqual(defaultCatalogIds(config), [
+    'ordinary-0', 'material-0', 'ordinary-1', 'material-1', 'ordinary-2', 'material-2',
+    'ordinary-3', 'material-3', 'ordinary-4', 'material-4', 'ordinary-5', 'material-5',
+    'ordinary-6', 'ordinary-7', 'ordinary-8', 'material-8', 'ordinary-11', 'material-11',
+  ])
+  const before = structuredClone(config)
+  markerNameCatalogIds(config); defaultCatalogIds(config)
+  assert.deepEqual(config, before)
+})
+
+await test('All eight maps keep only source-enabled quest, boss, NPC, other and location labels while every category retains its icon', t => {
+  for (const config of productionManifest.maps) {
+    const expectedIds = config.catalogGroups.filter(group => sourceNamedGroupIds.has(group.id))
+      .flatMap(group => group.catalogs.filter(catalog => catalog.showLandmarkName === true).map(catalog => catalog.id))
+    assert.deepEqual(markerNameCatalogIds(config), expectedIds, config.id)
+    const points = allCatalogs(config).map(catalog => ({
+      id: `display-${catalog.id}`, catalogId: catalog.id, name: `Full name for ${catalog.name}`,
+      description: 'Full owning description.', position: [...config.center], images: [],
+    }))
+    const canvas = canvasLifecycle(config, false, '/pbz-map/', config.maxZoom, { landmarks: points, visibleLandmarks: points })
+    t.after(() => canvas.unmount())
+    canvas.run('renderLandmarks()')
+    assert.equal(canvas.layers[0].markers.length, points.length)
+    for (const [index, marker] of canvas.layers[0].markers.entries()) {
+      const point = points[index], catalog = allCatalogs(config)[index]
+      const label = domNodes(marker.options.icon.html).find(node => node.className === 'poi-name')
+      assert.equal(Boolean(label), expectedIds.includes(catalog.id), `${config.id}/${catalog.id}`)
+      if (label) assert.equal(label.textContent, point.name)
+      assert.equal(marker.options.title, undefined, 'Icon-only markers must not gain native hover-name tooltips')
+      assert.equal(marker.options.alt, point.name, 'Accessible names remain complete without visible text')
+      if (catalog.iconUrl) assert.equal(domNodes(marker.options.icon.html).find(node => node.tag === 'img').src, `/pbz-map${catalog.iconUrl}`)
+    }
+    canvas.props.showMarkerNames = false
+    canvas.run('refreshMarkerIcons()')
+    assert.ok(canvas.layers[0].markers.every(marker => !domNodes(marker.options.icon.html).some(node => node.className === 'poi-name')))
+    canvas.props.showMarkerNames = true
+    canvas.run('refreshMarkerIcons()')
+    assert.equal(canvas.layers[0].markers.filter(marker => domNodes(marker.options.icon.html).some(node => node.className === 'poi-name')).length, expectedIds.length)
+  }
+})
+
+await test('Actual desktop and mobile App defaults leave materials, consumables and dust off without clearing manual selections on reset or rerender', async t => {
+  for (const mobile of [false, true]) {
+    const stored = new Map([['pbz-map:251:state', JSON.stringify({ version: 1, completedIds: ['kept-completion'], pins: [{ id: 'kept-pin', position: [-0.4, 0.6] }] })]])
+    const saved = stored.get('pbz-map:251:state')
+    const app = appSetup({ navigator: { userAgent: mobile ? 'iPhone' : 'Macintosh' }, stored, manifestInput: productionManifest, collectionInputs: productionCollections })
+    t.after(() => app.unmount())
+    await app.run('start()')
+    assert.equal(app.run('showMarkerNames.value'), true, 'The existing name switch is not a blanket-off substitute')
+    for (const config of productionManifest.maps) {
+      await app.run(`changeMap(${JSON.stringify(config.id)})`)
+      const off = sourceDefaultOff(config), offIds = off.map(catalog => catalog.id)
+      const expected = allCatalogs(config).filter(catalog => catalog.defaultSelected === true && !offIds.includes(catalog.id)).map(catalog => catalog.id)
+      assert.deepEqual(defaultCatalogIds(config), expected)
+      assert.deepEqual(Array.from(app.run('selectedCatalogIds.value')), expected)
+      assert.equal(app.run(`visibleLandmarks.value.some(point => ${JSON.stringify(offIds)}.includes(point.catalogId))`), false)
+      if (mobile) app.run('openMobilePanel("filters")')
+      for (const catalog of off) {
+        if (mobile) {
+          const group = config.catalogGroups.find(group => group.catalogs.some(value => value.id === catalog.id))
+          app.run(`mobileGroupId.value=${JSON.stringify(group.id)}`)
+        }
+        const button = app.nodes().find(node => node.type === 'button' && node.props?.['data-catalog-id'] === catalog.id)
+        assert.ok(button, `Default-off category remains available: ${config.id}/${catalog.id}`)
+        assert.equal(button.props['aria-pressed'], false)
+        button.props.onClick(); await Vue.nextTick()
+        assert.equal(app.run(`selectedCatalogIds.value.includes(${JSON.stringify(catalog.id)})`), true)
+        const members = productionCollections.find(row => row.mapId === config.id).landmarks.filter(point => point.catalogId === catalog.id)
+        assert.deepEqual(Array.from(app.run(`visibleLandmarks.value.filter(point => point.catalogId === ${JSON.stringify(catalog.id)})`), point => point.id), members.map(point => point.id))
+      }
+      const selected = Array.from(app.run('selectedCatalogIds.value'))
+      app.run('resetView(); completionFilter.value=null; panelExpanded.value=!panelExpanded.value')
+      await Vue.nextTick()
+      assert.deepEqual(Array.from(app.run('selectedCatalogIds.value')), selected, 'Ordinary rerenders and Reset view retain explicit choices')
+      app.run('clearCategorySelection()')
+      assert.deepEqual(Array.from(app.run('selectedCatalogIds.value')), [], 'Clear is the existing explicit all-category reset')
+    }
+    assert.equal(stored.get('pbz-map:251:state'), saved)
+    assert.deepEqual(app.writes, [], 'Default filters never rewrite completion or pins')
+  }
+})
+
+await test('Default-off material names remain searchable and restored details retain their full owning name and description', async t => {
+  const config = productionManifest.maps[0]
+  const point = productionCollections[0].landmarks.find(point => point.catalogId === sourceSoulMaterialIds[config.id])
+  assert.ok(point)
+  const before = structuredClone(point)
+  const result = searchLandmarks(productionManifest.maps.map(config => ({ config, landmarks: productionCollections.find(row => row.mapId === config.id).landmarks })), point.name)
+  assert.ok(result.title.some(result => result.mapId === config.id && result.point.id === point.id && result.point.catalogId === point.catalogId))
+  const app = appSetup({ stored: new Map([['pbz-map:251:search-name', point.name]]), manifestInput: productionManifest, collectionInputs: productionCollections })
+  t.after(() => app.unmount())
+  await app.run('start()')
+  assert.equal(app.run(`selectedCatalogIds.value.includes(${JSON.stringify(point.catalogId)})`), false)
+  assert.equal(app.run(`visibleLandmarks.value.some(point => point.id === ${JSON.stringify(point.id)} && point.catalogId === ${JSON.stringify(point.catalogId)})`), true, 'An explicit restored search is not an initial default category selection')
+  for (const mobile of [false, true]) {
+    const canvas = canvasLifecycle(config, false, '/', config.maxZoom, { mobile, landmarks: [point], visibleLandmarks: [point], selection: { kind: 'landmark', id: point.id, catalogId: point.catalogId, source: 'marker' } })
+    t.after(() => canvas.unmount())
+    assert.equal(canvas.run('markerNamesVisible(props.landmarks[0])'), false)
+    if (mobile) {
+      assert.ok(canvas.nodes().some(node => node.type === 'h2' && templateText(node) === point.name))
+      assert.ok(canvas.nodes().some(node => node.type === 'p' && templateText(node) === point.description))
+    } else {
+      const nodes = domNodes(canvas.popup.content)
+      assert.equal(nodes.find(node => node.className === 'place-name').textContent, point.name)
+      if (point.description) assert.equal(nodes.find(node => node.className === 'place-description').textContent, point.description)
+    }
+  }
+  assert.deepEqual(point, before)
+})
 
 await test('All fourteen source-bound control files retain exact original bytes as independent ordinary local files', async () => {
   assert.equal(Object.keys(expectedControlAssets).length, 14)

@@ -16,8 +16,21 @@ export function allCatalogs(map) {
   return map.catalogGroups.flatMap(group => group.catalogs)
 }
 
+const namedCatalogGroups = new Set(['Locations', 'Quests', 'Characters', 'NPCs', 'Others'])
+const defaultOffCatalogGroups = new Set(['Items', 'Upgrade Materials'])
+
+export function markerNameCatalogIds(map) {
+  return map.catalogGroups.flatMap(group => group.catalogs
+    .filter(catalog => catalog.showLandmarkName === true && (namedCatalogGroups.has(group.name)
+      || (group.name === 'Enemies' && catalog.name === 'Bosses')))
+    .map(catalog => catalog.id))
+}
+
 export function defaultCatalogIds(map) {
-  return allCatalogs(map).filter(catalog => catalog.defaultSelected).map(catalog => catalog.id)
+  return map.catalogGroups.flatMap(group => group.catalogs
+    .filter(catalog => catalog.defaultSelected === true && !defaultOffCatalogGroups.has(group.name)
+      && !(['Equipment', 'Equipments'].includes(group.name) && catalog.name === 'Soul Tempering Materials'))
+    .map(catalog => catalog.id))
 }
 
 // Render and selection identity is separate from the canonical completion ID.
