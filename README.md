@@ -60,9 +60,7 @@ npm run build -- --base=/pbz-map/
 
 Serve the generated `dist/` directory at `/pbz-map/` with a static HTTP server. For root hosting, use `npm run build -- --base=/` and serve `dist/` at `/`. The chosen base applies to the entry bundle, local JSON, tiles, icons and landmark images.
 
-## Sources and license
-
-The English terminology reference is the [Phantom Blade Zero Interactive Map](https://phantombladezero.wiki.fextralife.com/Interactive_Map) and related pages on that same Fextralife wiki. This reference is not a claim that every term is an official game localization. Original map data and imagery come from [Gamersky](https://app.gamersky.com/map/?mapId=254&nameundefined).
+## License
 
 Some names and descriptions are provisional English translations; source verification will continue after this release.
 
